@@ -1,5 +1,3 @@
-# 
-
 # GETTING STARTED
 
 Select *Profiles* option from the Mod Organizer 2 (MO2) menu, select
