@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/37147270/130332778-623fd179-d080-4c1b-ab05-307b628f4661.png)
 
-# GETTING STARTED
+# DOCUMENTATION
+
+## GETTING STARTED
 
 Select _Profiles_ option from the Mod Organizer 2 (MO2) menu, select
 your TPF profile, which you use for playing (basic or performance version), and select _Copy_ on the
@@ -9,7 +11,7 @@ Dragon’s Edition` (and add `(Performance)` to the name if you have copied the 
 
 ---
 
-# INTERFACE (optional)
+## INTERFACE (optional)
 
 Create a separator and name it `INTERFACE EXTENDED` and place it
 directly below the *INTERFACE* separator (and its mods). Change its
@@ -22,14 +24,14 @@ This category's mods are optional - you can just skip it or install the
 mods you like. There will be instructions on files, which are needed, if
 you have decided to use one or more mods.
 
-## [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
+### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
 **Main files** - ReCleanedMenus
 
 *I prefer the vanilla-style main menu. It also doesn’t mess up so much
 with the beautiful background.*
 
-## [Centaur Font](https://www.nexusmods.com/skyrimspecialedition/mods/14356)
+### [Centaur Font](https://www.nexusmods.com/skyrimspecialedition/mods/14356)
 
 **Main files** - Centaur Font SSE
 
@@ -37,14 +39,14 @@ with the beautiful background.*
 is looking good within Skyrim's theme and is more usual, but not too
 ordinary.*
 
-## [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
+### [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
 
 **Main files** - Font
 
 *Replaces font in Skyrim's books to look not as modern, more
 sophisticated.*
 
-## [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Needed if you use TPF's default Sovngarde font and 12th Century
 Book Font.**
