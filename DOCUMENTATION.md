@@ -7,9 +7,7 @@ Dragon’s Edition` (add `(Performance)` to the name if you copied the performan
 
 # INTERFACE (optional)
 
-﻿
-
-Create a separator and name it *INTERFACE EXTENDED* and place it
+Create a separator and name it `INTERFACE EXTENDED` and place it
 directly below the *INTERFACE* separator (and its mods). Change its
 colour, so that it won't be the same as TPF's ones.
 
