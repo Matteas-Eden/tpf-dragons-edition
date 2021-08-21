@@ -716,6 +716,14 @@ directory*, click *OK*.
 
 **Main files** - Gladys the Corgi - A Custom Dog Follower Mod
 
+### [Shirley - A Skyrim Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45956?tab=files)
+
+**Main files** - Shirley - A Skyrim Follower Mod
+
+### [Older Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/49348?tab=files)
+
+**Main files** - Older Shirley - Default Hair
+
 ### [The Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733?tab=files)
 
 **Main files** - The Falkreath Hauntings
@@ -848,6 +856,74 @@ changes are saved.
 ### [Moon and Star - Undeath Remastered Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19068?tab=files)
 
 **Main files** - Moon and Star - Undeath Remastered Patch
+
+### [Hammet's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/12186?tab=files)
+
+**Optional files** - Hammet Dungeon Packs - ESP version
+
+---
+
+## Landscape
+
+Phoenix is definitely a master at choosing and mixing different landscape elements to make it as beautiful as we can experience in TPF, 
+but a few gems added in this will definitely make our surroundings even more picturesque.  
+
+Create a separator and name it `LANDSCAPE EXTENDED` and place it
+directly below the *TREES & PLANTS* separator (and its mods). Change its
+colour, so that it won't be the same as TPF's ones.
+
+All of the following mods in this category will be placed under this
+separator in the same order.
+
+### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
+
+**Optional files** - Unique Flowers and Plants for Skyrim SE DLC
+Compatible ESM Version
+
+**Hide** - hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
+the mod, then choosing the _Conflicts_ tab, selecting two files on the
+_Winning file conflicts_ section, right-clicking on them and choosing
+_Hide_.*
+
+*Adds different beautiful hand-placed flowers and plants around Skyrim
+to make it more interesting and picturesque. ESM plugin allows us not to
+worry about the mod overwriting anything we don't want to.*
+
+### [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)
+
+**Main files** - Cathedral - 3D Mountain Flowers
+
+**Hide (not now, later, when you will get to the *CONFIGURATIONS*
+section)** - hide any file, which overwrites _Fixed Mesh Lightning_. Don’t
+worry, there will be a reference to these instructions in the
+*CONFIGURATIONS* section.
+
+*Who would even like to look at vanilla mountain flowers, if we have
+these.*
+
+### [A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/50265)
+
+**Main files** - A Patch for Skyrim Landscape and Water Fixes and
+Cathedral Mountain Flowers
+
+**Optional files** - A Patch for Lanterns of Skyrim II and Cathedral
+Mountain Flowers
+
+### [Butterflies Land True](https://www.nexusmods.com/skyrimspecialedition/mods/29434)
+
+**Optional files** - Butterflies Land True - ESPFE Alternate Version
+
+*At first, I didn't want to waste any resources (even if there is nothing too much needed) on anything like this and the next mod, but after seeing a butterfly somehow sitting in the air, while it was supposed to be sitting on a cabbage, I have changed by mind.*
+
+### [Butterflies Unchained](https://www.nexusmods.com/skyrimspecialedition/mods/29538)
+
+**Main files** - Butterflies Unchained (ESL Version)
+
+### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718)
+
+**Main files** - Rorikstead Basalt Cliffs
+
+*Like I said before I would like to make Skyrim more picturesque. By adding some unique things to regions of Skyrim like this one, we can probably achieve that.*
 
 ---
 
@@ -994,40 +1070,6 @@ standard _Ctrl+V_ command to paste something to your console.
 *A neat functionality in one mod (very weird that Bethesda haven't
 thought about adding it, well, like always), which you will probably use
 from time to time.*
-
-### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
-
-**Optional files** - Unique Flowers and Plants for Skyrim SE DLC
-Compatible ESM Version
-
-**Hide** - hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
-the mod, then choosing the _Conflicts_ tab, selecting two files on the
-_Winning file conflicts_ section, right-clicking on them and choosing
-_Hide_.*
-
-*Adds different beautiful hand-placed flowers and plants around Skyrim
-to make it more interesting and picturesque. ESM plugin allows us not to
-worry about the mod overwriting anything we don't want to.*
-
-### [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)
-
-**Main files** - Cathedral - 3D Mountain Flowers
-
-**Hide (not now, later, when you will get to the *CONFIGURATIONS*
-section)** - hide any file, which overwrites _Fixed Mesh Lightning_. Don’t
-worry, there will be a reference to these instructions in the
-*CONFIGURATIONS* section.
-
-*Who would even like to look at vanilla mountain flowers, if we have
-these.*
-
-### [A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/50265)
-
-**Main files** - A Patch for Skyrim Landscape and Water Fixes and
-Cathedral Mountain Flowers
-
-**Optional files** - A Patch for Lanterns of Skyrim II and Cathedral
-Mountain Flowers
 
 ### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
 
@@ -1220,6 +1262,12 @@ won’t get punished by just wanting to take another item, which that
 annoying, but expensive cup was near. There is also an option to press
 on items multiple times, which is configurable through MCM.*
 
+### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
+
+**Main files** - Reading Is Good SE
+
+*Makes us smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.*
+
 ### [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
 
 **Main files** - Scion - Vampiric Sunscreen Plugin
@@ -1266,7 +1314,14 @@ This mod allows us to do that.*
 
 **Main files** - SimplyKnockSE SKSE64 2.0.19 DLL
 
-*An update for the mod to work.*
+*An updated .dll file for the mod to work.*
+
+
+### [Quicker Bed Exit](https://www.nexusmods.com/skyrimspecialedition/mods/47554)
+
+**Main files** - Quicker Bed Exit
+
+*I understand that sometimes it is very hard to get out of bed, but come on, NPCs, you are getting attacked. I will even help you with this.*
 
 ### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
 
@@ -1500,14 +1555,11 @@ that Vampire Lord looks like a noodle. And with that mass, he probably
 looked awkward, when he used melee combat against us. Let’s separate
 Vampire Lords even more from senile ordinary vampires.*
 
-### [FK's Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/38563)
+### [Racial Body Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/20684)
 
-**Main files** - FK's Diverse Racial Skeletons
+**Main files** - Racial Body Morphs 2.0
 
-**Optional files** - FKDRS - Aetherius
-
-*Successor of Racial Body Morphs (well, maybe its author will make an
-update, who knows). Finally you will find out why we needed that First
+*Finally you will find out why we needed that First
 Person Camera Height Fix. All races from this point will have their own
 unique height and form, so wish some luck to Wood Elves at getting any
 attention from HIGH Elves. And now you will think twice before touching
@@ -1604,12 +1656,19 @@ to hide tails.*
 *A resource from Skyrim LE to make our next mod work (thank you very
 much).*
 
-### Barefoot Beast Project (Greaves and [Legwraps for Plantigrade Feet)](https://www.nexusmods.com/skyrimspecialedition/mods/45672)
+### [Barefoot Beast Project (Greaves and Legwraps for Plantigrade Feet)](https://www.nexusmods.com/skyrimspecialedition/mods/45672)
 
 **Main files** - Barefoot Beast Project
 
 *Now we won’t need to imagine anymore how our poor Argonian puts those
 little boots on.*
+
+### [BeastHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
+
+**Main files** - BeastHHBB - Player Character only
+
+*Many appearance mods have one thing in common - they almost always forget about poor beast races. 
+But not this one as it adds many options exlusively for them to make their look more unique.*
 
 ### [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/)
 
@@ -2123,6 +2182,31 @@ separator in the same order.
 ### [Kalilies NPCs - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335)
 
 **Main files** - Kalilies NPCs - Salt and Wind
+
+---
+
+## Literally Unplayable
+
+Briefly, mods we are going to install are going to help us mask head parts from mods we have installed before 
+not to mess up with our game. How can they mess up the game? For instance, just by cluttering up your Racemenu.
+And making your hair dissapear or making even more problems if you have used an appearance asset from the mod you weren't supposed to. 
+Also do you remember the mod Ordinary Women mod we have talked about and how its head parts can crash the game?
+So guess what will happen if you equip that head part to your character.
+
+Create a separator and name it `LITERALLY UNPLAYABLE` and place
+it directly below the *SALT & WIND HAIR RETEXTURES* separator (and its mods). Change
+its colour, so that it won't be the same as TPF's ones.
+
+### [Literally Unplayable - Remove Random Head Parts from Character Creation](https://www.nexusmods.com/skyrimspecialedition/mods/54135)
+
+**Main files** - Literally Unplayable - Bruma Patch
+**Main files** - Literally Unplayable - Cuyima's 3DNPC Patch
+**Main files** - Literally Unplayable - High Poly Inigo Patch
+**Main files** - Literally Unplayable - Inigo Patch
+**Main files** - Literally Unplayable - Kaidan Patch
+**Main files** - Literally Unplayable - Miraak Husbando Patch
+**Main files** - Literally Unplayable - Ordinary Women Patch
+**Main files** - Literally Unplayable - Shield Sisters Re-Imagined Patch
 
 ---
 
