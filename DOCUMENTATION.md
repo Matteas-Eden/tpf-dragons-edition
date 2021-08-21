@@ -1921,6 +1921,7 @@ unique body parts (like The Ordinary Women) and you enter into the place
 where this incorrect NPC is.
 
 ![image](https://user-images.githubusercontent.com/37147270/130331187-55046f91-3255-4c24-98b8-b6a6afbcd183.png)
+![image](https://user-images.githubusercontent.com/37147270/130334940-83643fa2-edec-442c-a98a-5a7a6ee0d34a.png)
 
 ### [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
 
@@ -2200,12 +2201,19 @@ its colour, so that it won't be the same as TPF's ones.
 ### [Literally Unplayable - Remove Random Head Parts from Character Creation](https://www.nexusmods.com/skyrimspecialedition/mods/54135)
 
 **Main files** - Literally Unplayable - Bruma Patch
+
 **Main files** - Literally Unplayable - Cuyima's 3DNPC Patch
+
 **Main files** - Literally Unplayable - High Poly Inigo Patch
+
 **Main files** - Literally Unplayable - Inigo Patch
+
 **Main files** - Literally Unplayable - Kaidan Patch
+
 **Main files** - Literally Unplayable - Miraak Husbando Patch
+
 **Main files** - Literally Unplayable - Ordinary Women Patch
+
 **Main files** - Literally Unplayable - Shield Sisters Re-Imagined Patch
 
 ---
