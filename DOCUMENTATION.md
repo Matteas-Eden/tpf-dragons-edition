@@ -61,8 +61,8 @@ Font Patch
 
 **Main files** - SmoothCam
 
-**FOMOD** - if you have a modern CPU, choose *SmoothCam AVX*, *SmoothCam
-SSE* otherwise, ESL.
+**FOMOD** - if you have a modern CPU, choose `SmoothCam AVX`, `SmoothCam
+SSE` otherwise, then `ESL`.
 
 **Instructions** - rename the mod’s plugin to *SmoothCam.esp*.
 
@@ -116,7 +116,7 @@ doors after unlocking them to open them.*
 
 **Main files** - Minimalist Quick Loot
 
-**FOMOD** - Use whatever options you like.
+**FOMOD** - Whatever options you like.
 
 *Useful to make Quick Loot's interface smaller and less bulky by making
 it transparent.*
@@ -136,7 +136,7 @@ will not work with this mod installed.**
 
 **Main files** - Alternate Conversation Camera
 
-**INI** - In line 51, change bLetterBox to 0.
+**INI** - In line 51, change _bLetterBox_ to `0`.
 
 *Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
@@ -179,12 +179,12 @@ separator in the same order.
 
 **Main files** - Obscure's College of Winterhold
 
-**FOMOD** - Immersive College NPCs Integration, Recommended Interiors,
+**FOMOD** - `Immersive College NPCs Integration, Recommended Interiors,
 New Music Plus Vanilla Music, Relighting Skyrim, Book Covers Skyrim,
 Quests are in Skyrim, Audio Overhaul, Artifacts - The Tournament of the
 Ten Bloods, Interesting NPCs, Mysticism - A Magic Overhaul, The Tools of
 Kagrenac, Viewable Faction Ranks, WACCF - Armor and Clothing Extension,
-Weapons Armor Clothing and Clutter Fixes 2.0+.
+Weapons Armor Clothing and Clutter Fixes 2.0+`.
 
 ## [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143?tab=files)
 
@@ -212,7 +212,7 @@ Weapons Armor Clothing and Clutter Fixes 2.0+.
 
 **Main files** - Improved Follower Dialogue - Lydia
 
-**FOMOD** - Unofficial Skyrim SE Patch.
+**FOMOD** - `Unofficial Skyrim SE Patch`.
 
 ## [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329?tab=files)
 
@@ -301,7 +301,7 @@ considering the previous mod we have added.*
 
 **Main files** - Solstheim Lighthouse v1.2 ESL
 
-**Instructions** - rename the mod’s plugin to *SolstheimLighthouse.esp*.
+**Instructions** - rename the mod’s plugin to `SolstheimLighthouse.esp`.
 
 ## [Solstheim - Skaal Fishing Camp](https://www.nexusmods.com/skyrimspecialedition/mods/14450?tab=files)
 
@@ -440,14 +440,12 @@ SSE 1.7
 
 **Miscellaneous files** - Beyond Skyrim Bruma Patch v1.0
 
-## 
-
 ## [IDDP - Beyond Skyrim - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4126?tab=files)
 
 **Optional files** - IDDP - Beyond Skyrim - Bruma Patch
 
-**Delete** - remove *AHZBetterDGEntranceSE - BSHeartland
-Patch.modgroups* .
+**Delete** - remove `AHZBetterDGEntranceSE - BSHeartland
+Patch.modgroups`.
 
 ## [Bruma Lighting Mod Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/48389?tab=files)
 
