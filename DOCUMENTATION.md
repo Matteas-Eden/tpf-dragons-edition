@@ -1283,6 +1283,16 @@ on items multiple times, which is configurable through MCM.*
 
 *Makes us smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.*
 
+### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
+
+**Main files** - Pilgrim - A Religion Overhaul
+
+**FOMOD** - Don’t change anything.
+
+**Instructions** - Disable *Adamant = Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_ patch.
+
+*In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more impportant for our player character too.*
+
 ### [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
 
 **Main files** - Scion - Vampiric Sunscreen Plugin
