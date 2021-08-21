@@ -2225,61 +2225,58 @@ right after the mod from TPF and activate it.
 The same process must be done with:
 
 -   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPFs
-    patches ([<u>look
-    here</u>](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2))
-    and Bruma for flora, More Growable Plants, Unique Flowers and
+    patches [(look
+    here)](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2)
+    and `Bruma for flora, More Growable Plants, Unique Flowers and
     Plants, 3D Mountain Flowers, Bruma for trees, Realistic Aspen Trees,
-    Bruma for ice;
+    Bruma for ice`;
 
--   Now find files with **Hide (not now, later, when you will get to the
-    CONFIGURATIONS section)** instructions and do what is asked;
+-   Now go to files with **Hide (not now, later, when you will get to the
+    CONFIGURATIONS section)** by using [this]() and do what is asked;
 
--   *Lanterns of Skyrim II* in *LANDSCAPE* separator - SMIM and Bruma;
+-   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
 
 -   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
-    Default undead eyes, weaker lightning for ghosts, a patch for
-    *Cannibal Draugr*, red skulls, Solstheim version of the patch, then
-    delete *clutter* folder inside meshes;
+    `Default undead eyes, weaker lightning for ghosts, a patch for
+    Cannibal Draugr, red skulls, Solstheim version of the patch`, then
+    delete `Clutter` folder inside _Meshes_;
 
--   *Simple Children - Patches* in *APPEARANCE* - Bruma, Helgen Reborn,
+-   *Simple Children - Patches* in *APPEARANCE* - `Bruma, Helgen Reborn,
     Interesting NPCs, Moon and Star, The Forgotten City, Wyrmstooth,
-    Adopt Aventus Aretino + USSEP;
+    Adopt Aventus Aretino + USSEP`;
 
 -   *Misc. College of Winterhold Tweaks* in *IMPROVED VANILLA QUESTS* -
-    TPFs patches ([<u>look
-    here</u>](https://thephoenixflavour.com/tpf/mod-installation/new-content/#fomod-instructions-3))
-    except *Scheduled Savos, A Wizard’s Walk, Erratum Etc.*, which
+    TPFs patches [(look
+    here)](https://thephoenixflavour.com/tpf/mod-installation/new-content/#fomod-instructions-3)
+    except `Scheduled Savos, A Wizard’s Walk, Erratum Etc.`, which
     aren’t chosen by FOMOD too (just for you to be sure that is
-    correct), and you should make sure that Obscure’s College of
-    Winterhold Add-on, Interesting NPCs Add-on, *None* for *The Early
-    Elementalist* are chosen. Then disable the original *Misc. College
-    of Winterhold Tweaks*.
+    correct), and you should make sure that `Obscure’s College of
+    Winterhold Add-on, Interesting NPCs Add-on`, `None` for *The Early
+    Elementalist* are chosen. Then disable the original Misc. College
+    of Winterhold Tweaks.
 
 Then you will need to redownload one mod.
 
-[**<u>Simple Player Homes
-Improvements</u>**](https://www.nexusmods.com/skyrimspecialedition/mods/37236)
+## [Simple Player Homes Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/37236)
 
-﻿**Main files** - Simple Home Improvements AIO (Proudspire 4 Beds)
+**Main files** - Simple Home Improvements AIO (Proudspire 4 Beds)
 
 *Because we want more places for our many children to sleep, duh.*
 
-Rename it to *Simple Player Homes Improvements - TPF Dragon’s Edition*
-right when you are installing the mod. Put it after *Simple Player Homes
-Improvements* in the MISCELLANEOUS section.
+Rename it to `Simple Player Homes Improvements - TPF Dragon’s Edition`
+right when you are installing the mod. Put it after Simple Player Homes
+Improvements in the _MISCELLANEOUS_ section.
 
 After that is done, click anywhere in the load order panel and select
 *Enable all*. Then...
 
-[**<u>TPF Dragon’s Edition
--</u>**](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
-**<u>Load Order</u>**
+## [TPF Dragon’s Edition - Load Order](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-﻿**Main files** - Load Order
+**Main files** - Load Order
 
-*I hope you remember what to do with this. If no - open the archive and
-extract the loadorder.txt to Mod Organizer 2\\profiles\\The Phoenix
-Flavour - Dragon’s Edition.*
+I hope you remember what to do with this. If no - open the archive and
+extract the _loadorder.txt_ to _Mod Organizer 2\profiles\The Phoenix
+Flavour - Dragon’s Edition_.
 
 And now we are ready to jump into the game, but don’t do it right away.
 
@@ -2290,47 +2287,43 @@ actually activate our high poly head in Racemenu and then our hair will
 look fine. Also choose a beard from High Poly Head and it will look good
 if that is needed.
 
-<img src="media/image7.png" style="width:3.42188in;height:4.00585in" />
+![image](https://user-images.githubusercontent.com/37147270/130331927-051552a4-64d6-420b-8fa4-e18fd232ee4e.png)
 
 Then find the *Weapons* category and change settings to the same ones
 you see below.
 
-<img src="media/image8.png" style="width:7.07737in;height:4.72917in" />
+![image](https://user-images.githubusercontent.com/37147270/130331938-43bb6a6b-dee2-439c-8fae-f3780a734c8a.png)
 
 Later into the game, if you are planning to use shields and if you find
-one, I recommend you to go into the console with *\~* key, type
-*showracemenu*, press *Enter* and make corrections to your shield’s
+one, I recommend you to go into the console with ~ key, type
+`showracemenu`, press *Enter* and make corrections to your shield’s
 position using settings you can again see below. You can also experiment
-with other shield or even two-handed weapon settings, but don’t don’t
-overdo these or animations will look funky. For now you can use these,
+with other shield or even two-handed weapon settings, but don’t
+overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name. After setting up the settings,
 press *R* and *Enter* and you are done.
 
-<img src="media/image9.png" style="width:6.95036in;height:4.7258in" />
+![image](https://user-images.githubusercontent.com/37147270/130331988-48ac8994-b096-4497-b261-9a9d32bb253a.png)
 
 At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
 Second, don’t forget about following Phoenix’s in-game configurations at
-first. Then continue with mine.
+first [here](https://thephoenixflavour.com/tpf/mod-configuration/). Then continue with mine.
 
-↓
-
-[<u>https://thephoenixflavour.com/tpf/mod-configuration/</u>](https://thephoenixflavour.com/tpf/mod-configuration/)
-
-Cond. Expressions MCM - Disable out of stamina, in pain,
+**Cond. Expressions MCM** - Disable out of stamina, in pain,
 headache/diseased expressions.
 
-Diziet’s Auto Outfits MCM - In configuration settings, check the option
+**Diziet’s Auto Outfits MCM** - In configuration settings, check the option
 to unset all hotkeys for this mod.
 
-End Times MCM - Lock the slider to not be tempted to change the final
+**End Times MCM** - Lock the slider to not be tempted to change the final
 date all time. I think one in-game year (approximately 18 real life
 days) is good enough (and even feels right somehow), disable the spell
 and countdown. You can always enter into MCM again to see how much time
 you have left.
 
-Hide Your Quests MCM - I recommend to hide right away all quests you get
+**Hide Your Quests MCM** - I recommend to hide right away all quests you get
 right at the beginning except the main one, because you won’t be able to
 start Helgen Reborn quest right at the beginning (read Gameplay Guide
 for more information) and because The Sinister Seven quest isn’t the one
@@ -2343,21 +2336,21 @@ to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15.
 
-Improved Follower Dialogue MCM - If Lydia is too noisy, feel free to
+**Improved Follower Dialogue MCM** - If Lydia is too noisy, feel free to
 change her comment frequency.
 
-Look what you see ! MCM and activation - In the *Follow the Camera Mode*
+**Look what you see ! MCM and activation** - In the *Follow the Camera Mode*
 menu choose hybrid head-tracking option and then choose *Disable when
 weapon drawn* in the *Other Options*. After configuring all other mods
-in MCM, Press *V* in the game to activate the mod.
+in MCM, press *V* key in the game to activate the mod.
 
-Smart NPC Potions MCM - Standard potion drops aren’t affected, so set an
+**Smart NPC Potions MCM** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
 the number of potions to 3.
 
-SmoothCam MCM (if you have followed the *Interface* section of the
-add-on) - Activate the preset in *Presets* by pressing on *Slot 6:
+**SmoothCam MCM (if you have followed the *Interface* section of the
+add-on)** - Activate the preset in *Presets* by pressing on *Slot 6:
 Octavian’s Preset* in *Load Preset*. If you want, you can also enable
 shoulder swapping in *Following* by choosing your shoulder swap key. I
 recommend one of your mouse’s buttons if you have many buttons on it.
@@ -2367,33 +2360,33 @@ option to always offset it, then set its Y offset to 200 (stealth meter
 instructions should not be needed after the update of Smoothcam, but I
 will leave them be for reference and for Y offset’s changes).
 
-Strange Runes MCM - In the *Runes* section disable the *Allow NPC
+**Strange Runes MCM** - In the *Runes* section disable the *Allow NPC
 Casting* option, otherwise NPCs can start behaving oddly and ward runes
 look weird on them.
 
-TK Dodge MCM - Change input method and forward roll input to *Double Tap
+**TK Dodge MCM** - Change input method and forward roll input to *Double Tap
 Only*, check *Step Dodge* option.
 
-Werewolf Widget Control MCM and instructions - Change opacity to 60 and
+**Werewolf Widget Control MCM and instructions** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
 you transform again, it will be at the top of the screen near your
 compass.
 
-Wyrmstooth MCM - Change starting requirements to be the quest starting
+**Wyrmstooth MCM** - Change starting requirements to be the quest starting
 after *A Blade in the Dark* quest is done (otherwise it feels too soon
 for an organization to give this quest out).
 
-Animated Shouts activation - Press your right *Alt* key to activate the
+**Animated Shouts activation** - After configuring all other mods
+in MCM, press your right *Alt* key in the game to activate the
 mod.
 
-Inigo Whistle Key’s activation - You can issue commands to Inigo by
+**Inigo Whistle Key’s activation** - You can issue commands to Inigo by
 whistling to him. This ability is introduced during his quests and will
-be explained in-game. You will need to press *,* button to use the
-whistle.
+be explained in-game. You will need to press , button to use the
+whistle in the game.
 
-Now I recommend you to go to [<u>the
-change-log</u>](https://docs.google.com/spreadsheets/d/1tyDaXgHrmInELa1Fr180LcvmggFAEtEw0xJIjuneVK4/edit?usp=sharing)
+Now I recommend you to go to [here]()
 to see if you didn’t miss any important updates.
 
 And some hints (and possibly **spoilers**) before the end.
@@ -2408,7 +2401,7 @@ Thirdly, for people, who would want to adopt children and live with them
 not in vanilla homes, there will be a neat spell book waiting for you
 somewhere around Riverwood.
 
-#  
+---
 
 # THANK YOU!
 
@@ -2419,8 +2412,7 @@ If you are happy with my work, I won't mind if you endorse the add-on’s
 page on Nexus and write something positive for me to read.
 
 If you want to help even more, you can donate to me (via PayPal) by
-pressing
-[<u>here</u>](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
+pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
 If you want to learn a little bit more about the content we have added,
 read the *Gameplay Guide* section of the add-on.
@@ -2431,12 +2423,14 @@ personally, continue with the *ENB* section.
 If you have experienced a bug during your walkthrough, read the *Bugs*
 section of the add-on.
 
+---
+
 # ENB
 
 I love colours and to actually see where I am going, when playing the
 game.
 
-Some time ago TPF by default used Rudy ENB, which details were great,
+Some time ago TPF by default used _Rudy ENB_, which details were great,
 but lightning left much to be desired. Like you can see in the
 screenshot, if there is no light source near, we are in some kind of a
 void of darkness, which troubles us pretty much everywhere. In my
