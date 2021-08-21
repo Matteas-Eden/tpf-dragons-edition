@@ -537,11 +537,11 @@ Crafting Patch
 
 **Main files** - The Gray Cowl of Nocturnal
 
-## The Gray Cowl of Nocturnal - HD Pack
+## [The Gray Cowl of Nocturnal - HD Pack](https://www.nexusmods.com/skyrimspecialedition/mods/7644?tab=files)
 
 **Main files** - The Grey Cowl of Nocturnal SE - HD Texture pack
 
-## The [Gray Cowl of Nocturnal - Alikr Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/10141?tab=files)
+## [The Gray Cowl of Nocturnal - Alikr Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/10141?tab=files)
 
 **Main files** - Gray Cowl of Nocturnal - Alikr Flora Overhaul
 
@@ -549,10 +549,10 @@ Crafting Patch
 
 **Instructions** - download the optional file manually and drop it into
 your *MO2 Downloads* folder, the fille will appear in your *Downloads*
-tab in MO2, right click on it and select *Query Info*, then merge the
-file with the main one .
+tab in MO2, right click on it and select `Query Info`, then merge the
+file with the main one.
 
-## The Gray Cowl of Nocturnal - [Add-Ons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files)
+## [The Gray Cowl of Nocturnal - Add-Ons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files)
 
 **Main files** - The Gray Cowl of Nocturnal SE - Addons and Patches 1.2
 
@@ -633,8 +633,6 @@ directory*, click *Ok*.
 ## [The Grand Paladin - 2021](https://www.nexusmods.com/skyrimspecialedition/mods/46867?tab=files)
 
 **Main files** - The Grand Paladin - 2021
-
-## 
 
 ## [The Final Cataclysm - 2020](https://www.nexusmods.com/skyrimspecialedition/mods/33167?tab=files)
 
