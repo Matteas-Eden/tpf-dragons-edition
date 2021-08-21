@@ -928,38 +928,36 @@ any other armor, pants have the same stats as their counterparts.*
 
 # MISCELLANEOUS
 
-﻿This category's mods are focused on adding some quality of life tools
+This category's mods are focused on adding some quality of life tools
 and changes to the game. In many situations, these mods won't even
 bother you in any way if you aren't actually using them, so I decided
 not to make this section optional as it isn't intrusive as *INTERFACE*,
 which changes things you will always see (and I don't want to make
 separate patches for this bulky section).
 
-Create a separator and name it *MISCELLANEOUS EXTENDED* and place it
+Create a separator and name it `MISCELLANEOUS EXTENDED` and place it
 directly below the *MISCELLANEOUS* separator (and its mods). Change its
 colour, so that it won't be the same as TPF's ones.
 
-﻿All of the following mods in this category will be placed under this
+All of the following mods in this category will be placed under this
 separator in the same order.
 
-## powerofthree's [Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+## [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 
 **Main files** - Papyrus Extender SSE - 4.4.2
 
 *Plugin that extends Skyrim's script language (Papyrus) functionality.
 It will be needed for Strange Runes to use another version of runes for
-dual-casted spells.*
+dual-casted spells.*  
 
-##  
-
-## UIExtensions
+## [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
 **Main files** - UIExtensions v1-2-0
 
 *Resource for modders to use to make custom menus for their mods. We
 will need it for AddItemMenu mod.*
 
-## Custom Skills Framework
+## [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
 
 **Main files** - Custom Skills Framework v1
 
@@ -967,7 +965,7 @@ will need it for AddItemMenu mod.*
 character, will be used for a mod, which will greatly enhance gameplay
 with shouts together with Forceful Tongue - Shouts Overhaul.*
 
-## HDT-SMP (Skinned Mesh Physics)
+## [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
 
 **Main files** - HDT-SMP for SSE 1.5.97 v2.11
 
@@ -975,51 +973,51 @@ with shouts together with Forceful Tongue - Shouts Overhaul.*
 scenario, with moving hair. Bonk people, who thought about something
 else.*
 
-## Mfg Fix
+## [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669)
 
-﻿**Main files** - MfgFix
+**Main files** - MfgFix
 
 *Just a couple of fixes for Skyrim’s facial animation scripts, which
 will be needed by Conditional Expressions.*
 
-## Copy and Paste in Console
+## [Copy and Paste in Console](https://www.nexusmods.com/skyrimspecialedition/mods/30928)
 
 **Main files** - Copy and Paste in Console v1.0.1 for Skyrim SE
 
-**INI** - In line 2, change PasteKeyCode to 47, so you will need
-standard Ctrl+V command to paste something to your console.
+**INI** - In line 2, change _PasteKeyCode_ to `47`, so you will need
+standard _Ctrl+V_ command to paste something to your console.
 
 *A neat functionality in one mod (very weird that Bethesda haven't
 thought about adding it, well, like always), which you will probably use
 from time to time.*
 
-## Official Unique Flowers and Plants
+## [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
 **Optional files** - Unique Flowers and Plants for Skyrim SE DLC
 Compatible ESM Version
 
-**Hide** - hide *JuniperBush.nif* and *SloeBush.nif by right-clicking
-the mod, then choosing the Conflicts tab, selecting two files on the
-Winning file conflicts section, right-clicking on them and choosing
-Hide.*
+**Hide** - hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
+the mod, then choosing the _Conflicts_ tab, selecting two files on the
+_Winning file conflicts_ section, right-clicking on them and choosing
+_Hide_.*
 
 *Adds different beautiful hand-placed flowers and plants around Skyrim
 to make it more interesting and picturesque. ESM plugin allows us not to
 worry about the mod overwriting anything we don't want to.*
 
-## Cathedral - 3D Mountain Flowers
+## [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)
 
 **Main files** - Cathedral - 3D Mountain Flowers
 
 **Hide (not now, later, when you will get to the *CONFIGURATIONS*
-section)** - hide any file, which overwrites Fixed Mesh Lightning. Don’t
-worry, there will be mention of these instructions in the
+section)** - hide any file, which overwrites _Fixed Mesh Lightning_. Don’t
+worry, there will be a reference to these instructions in the
 *CONFIGURATIONS* section.
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
 
-## A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers
+## [A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/50265)
 
 **Main files** - A Patch for Skyrim Landscape and Water Fixes and
 Cathedral Mountain Flowers
@@ -1027,25 +1025,23 @@ Cathedral Mountain Flowers
 **Optional files** - A Patch for Lanterns of Skyrim II and Cathedral
 Mountain Flowers
 
-## More Growable Plants
+## [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
 
 **Optional files** - More Growable Plants Simple 1.5
 
 **Hide (not now, later, when you will get to the CONFIGURATIONS
-section)** - hide any file, which overwrites Fixed Mesh Lightning.
+section)** - hide any file, which overwrites _Fixed Mesh Lightning_.
 
 *Still no idea where citizens of Skyrim get their apples, tomatoes,
 garlic and many other things from, but at least we know where we can get
 them from. And don’t worry, I have patched it, so you will be able to
 grow only things I consider to be immersive to be grown.*
 
-## 3D Mountain Flowers Hearthfire Planters Fix
+## [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
 
-**Main files** - More Growable Plants_3D Mountain Flowers patch
+**Main files** - More Growable Plants_3D Mountain Flowers patch  
 
-##  
-
-## Bright Waterfall Fix for ENB
+## [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
 
 **Main files** - Bright Waterfall Fix for Realistic Water Two
 
@@ -1055,14 +1051,14 @@ grow only things I consider to be immersive to be grown.*
 
 *I can’t stand waterfalls being too bright at night.*
 
-## Particle Lights for ENB - Nordic Ruins Candles
+## [Particle Lights for ENB - Nordic Ruins Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
 
 **Main files** - Particle Lights for ENB - Nordic Ruins Candles
 
 *Where is a petition that everything needs to be patched for ENB to look
 magnificent? I would have signed it.*
 
-## Strange Runes
+## [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
 **Main files** - Strange Runes
 
@@ -1073,7 +1069,9 @@ magnificent? I would have signed it.*
 *Great for screenshots and makes magic feel even more unique. MCM (Mod
 Configuration Menu) available, so you can make them appear only for some
 specific spell group etc. You need it! Just look at my
-character.*<img src="media/image2.png" style="width:6.66719in;height:3.73536in" />
+character.*
+
+![image](https://user-images.githubusercontent.com/37147270/130328931-2f92e74c-1a43-4696-8404-0f2cf1a8c222.png)
 
 ## [Dragonborn Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287)
 
