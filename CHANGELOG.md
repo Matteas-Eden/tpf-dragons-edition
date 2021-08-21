@@ -5,3 +5,38 @@
 ## Version 1.3.
 
 > xx.08.2021.
+
+### New Content
+
+Added *Shirley - A Skyrim Follower Mod and Older Shirley*.
+Added *Hammet's Dungeon Packs* and its patch for Tools of Kaegrenac.
+
+### Landscape
+
+Moved some mods here from the _Miscellaneous_ section. Added _Butterflies Land True_, _Butterflies Unchained_, _Rorikstead Basalt Cliffs_.
+
+### Miscellaneous
+
+Moved Official Unique Flowers and Plants, Cayhedral - 3D Mountain Flowers, A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers, A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers to the _Landscape Extended_ section.
+
+Removed The Elder Scrolls Legends - Loading Screens and its tweaks, add-ons. Added _Simple Load Screens_.
+
+Added _Quicker Bed Exit_.
+
+Added _Reading is Good_.
+
+### Appearance
+
+Removed FK's Diverse Racial Skeletons and its patch for Aetherius. Added _Racial Body Morphs_.
+
+Added _BeastHHBB_ for player character only.
+
+### Literally Unplayable
+
+Added a new section for the add-on. Added _Literally Unplayable - Remove Random Head Parts from Chatacter Creation_.
+
+### Other Changes
+
+You must update powerofthree's Papyrus Extender and Diziet's Auto Outfits.
+
+Updated the new content, miscellaneous and appearance patches. Added he new content and landscapes patch, new content and appearance patch.								
