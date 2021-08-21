@@ -1814,7 +1814,9 @@ Sprint, Origin Dw Sprint_Type A`.
 
 **FOMOD** - `01, 02, 03`.
 
-﻿**Main files** - 1stPerson Parry Animation
+**Main files** - 1stPerson Parry Animation
+
+---
 
 # NPC OVERHAULS
 
