@@ -155,7 +155,7 @@ you transform into werewolf.*
 
 ---
 
-## NEW CONTENT
+## New Content
 
 The beast of this add-on comes too early (well, for me it came as the
 last one, but you got the idea). The point of this section is to add
