@@ -1360,14 +1360,14 @@ you don’t listen then your game will be over.*
 
 # MUSIC & SOUND FX (optional)
 
-Create a separator and name it *MUSIC & SOUND FX EXTENDED* and place it
+Create a separator and name it `MUSIC & SOUND FX EXTENDED` and place it
 directly below the *SOUND FX* separator (and its mods). Change its
 colour, so that it won't be the same as TPF's ones.
 
-﻿All of the following mods in this category will be placed under this
+All of the following mods in this category will be placed under this
 separator in the same order.
 
-﻿This category's mods are optional - you can just skip the category. You
+This category's mods are optional - you can just skip the category. You
 can use whatever mods you like, which are before a horizontal line, but
 you will need to install all of the music mods, which are behind the
 line, if you want everything to work correctly. Music is actually the
@@ -1375,99 +1375,101 @@ same one Phoenix offers in her TPF-X, so all credit goes to those
 wonderful people, who made it, and Phoenix for finding these pearls and
 making a patch for them.
 
-## Talkative Dragons
+## [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
 
 **Main files** - Talkative Dragons
 
 *For species, which can actually speak the way that humans understand,
 dragons in the game don’t like to speak at all. Let’s change that.*
 
-## Talkative Dragons - Audio Replacer
+## [Talkative Dragons - Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269)
 
 **Main files** - TDReplacer
 
 *Just a little replacer for some voice lines in the original mods, which
 sounded a little bit too silly.*
 
-## Nordic Shouts - Enigma Series
+## [Nordic Shouts - Enigma Series](https://www.nexusmods.com/skyrimspecialedition/mods/41401)
 
 **Main files** - Nordic Shouts - Enigma Series All In One-
 
 *An author of the mod has done a great job with filters to make male
 shouts sound better.*
 
-## Better Sounding Female Dragon Shouts
+## [Better Sounding Female Dragon Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/18637)
 
 **Main files** - HPFSV All in One
 
 *Exactly.*
 
-## BA Bard Songs
+## [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
 
 **Main files** - BA_BardSongs_FOMOD
 
-**FOMOD** - AIO.
+**FOMOD** - `AIO`.
 
 *Exactly x2. Don’t worry, they are also immersive.*
 
-## Musical Lore - Soundtrack Mod by Nir Shor
+## [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200)
 
 **Main files** - Musical Lore V1.2
 
-**Delete** - delete *NirShor-MusicalLore.esp*.
+**Delete** - delete `NirShor-MusicalLore.esp`.
 
-## The Northerner Diaries - Immersive Edition
+## [The Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108)
 
 **Main files** - The Northerner Diaries - Skyrim and Solstheim
 
-**Delete** - delete *Northerner Diaries in Skyrim.esp*.
+**Delete** - delete `Northerner Diaries in Skyrim.esp`.
 
-## Still - Skyrim Inspired Music
+## [Still - Skyrim Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/19401)
 
 **Main files** - Still - ESP Version
 
-**Delete** - delete *Still.esp*.
+**Delete** - delete `Still.esp`.
 
-## Hun Lovaas - Skyrim Fan-Made Combat Music
+## [Hun Lovaas - Skyrim Fan-Made Combat Music](https://www.nexusmods.com/skyrimspecialedition/mods/16123)
 
 **Main files** - Hun Lovaas - ESP version
 
-**Delete** - delete *Hun Lovaas.esp*.
+**Delete** - delete `Hun Lovaas.esp`.
 
-## Melodies of Civilization - Skyrim Fan-Made Music
+## [Melodies of Civilization - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/30014)
 
 **Main files** - Melodies of Civilization 1.01
 
-**Delete** - delete *Melodies of Civilization.esp*.
+**Delete** - delete `Melodies of Civilization.esp`.
 
-## Around the Fire - Skyrim Fan-Made Music
+## [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144)
 
 **Main files** - Around the Fire
 
-**Delete** - delete *Around the Fire.esp*.
+**Delete** - delete `Around the Fire.esp`.
 
-## Dawnguard Music Overhaul - Skyrim Fan-Made Music
+## [Dawnguard Music Overhaul - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/48613)
 
 **Main files** - Dawnguard Music Overhaul - Main Module
 
 **Main files** - Dawnguard Music Overhaul - Combat Module
 
-**Instructions** - merge both files and then delete *Dawnguard Music
-Overhaul.esp* and *Dawnguard Music Overhaul - Combat.esp* .
+**Instructions** - merge both files and then delete `Dawnguard Music
+Overhaul.esp` and `Dawnguard Music Overhaul - Combat.esp`.
 
-## Yet Another Music Merge
+## [Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725)
 
 **Main files** - Yet Another Music Merge
 
 *Phoenix’s merge of all the music mods as well as a patch combining
 their tracks in the playlists.*
 
-## TPF Dragon’s Edition - Quests & Music Patch
+## [TPF Dragon’s Edition - Quests & Music Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Optional files** - TPF Dragon’s Edition - Quests & Music Patch
 
 *A patch to make all these music mods work with music from one quest
 mod.*
+
+---
 
 # APPEARANCE
 
