@@ -6,6 +6,11 @@
 
 > xx.08.2021.
 
+
+### Interface
+
+Added *Pastel SkyUI Markers* and *Detailed Mine Markers*.
+
 ### New Content
 
 Added *Shirley - A Skyrim Follower Mod and Older Shirley*.
