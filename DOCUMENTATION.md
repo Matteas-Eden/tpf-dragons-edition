@@ -2124,7 +2124,7 @@ separator in the same order.
 
 # FINAL PATCHES
 
-Create a separator and name it *TPF DRAGON’S EDITION - FINAL PATCHES*
+Create a separator and name it `TPF DRAGON’S EDITION - FINAL PATCHES`
 and place it directly below the *SALT & WIND HAIR RETEXTURES* separator
 (and its mods). Change its colour, so that it won't be the same as TPF's
 ones.
@@ -2135,35 +2135,35 @@ separator in the same order.
 I have decided to make patches modular, so it is faster and easier for
 me to check things inside.
 
-## TPF Dragon’s Edition - Patches
+## [TPF Dragon’s Edition - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-﻿**Main files** - TPF Dragon’s Edition - New Content Patch
+**Main files** - TPF Dragon’s Edition - New Content Patch
 
-﻿**Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
+**Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
 
-﻿**Main files** - TPF Dragon’s Edition - Miscellaneous Patch
+**Main files** - TPF Dragon’s Edition - Miscellaneous Patch
 
 **Main files** - TPF Dragon's Edition - New Content & Miscellaneous
 Patch
 
-﻿**Main files** - TPF Dragon’s Edition - Appearance Patch
+**Main files** - TPF Dragon’s Edition - Appearance Patch
 
-﻿**Main files** - TPF Dragon’s Edition - NPC Overhauls Patch
+**Main files** - TPF Dragon’s Edition - NPC Overhauls Patch
 
-﻿**Main files** - TPF Dragon’s Edition - New Content and NPC Overhauls
+**Main files** - TPF Dragon’s Edition - New Content and NPC Overhauls
 Patch
 
-﻿**Main files** - TPF Dragon’s Edition Patch
+**Main files** - TPF Dragon’s Edition Patch
 
-#  
+---
 
 # ALTERNATE START
 
-Create a separator and name it *ALTERNATE START* and place it directly
+Create a separator and name it `ALTERNATE START` and place it directly
 below the *TPF DRAGON’S EDITION - FINAL PATCHES* separator (and its
 mods). Change its colour, so that it won't be the same as TPF's ones.
 
-## Ralof or Hadvar
+## [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553)
 
 **Main files** - Ralof or Hadvar (saved in form 44)
 
@@ -2172,13 +2172,15 @@ with Ralof or Hadvar. In some way it isn't an alternate start, but at
 the same time it is. What matters is this mod’s simplicity, which allows
 us to jump right into the action.*
 
-## TPF Dragon’s Edition - Alternate Start Patch
+## [TPF Dragon’s Edition - Alternate Start Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-﻿**Main files** - Alternate Start Patch
+**Main files** - Alternate Start Patch
+
+---
 
 # PATCHER OUTPUT
 
-Create a separator and name it *TPF DRAGON’S EDITION - PATCHER OUTPUT*
+Create a separator and name it `TPF DRAGON’S EDITION - PATCHER OUTPUT`
 and place it directly below the *PATCHER OUTPUT* separator (and its
 outputs). Change its colour, so that it won't be the same as TPF's ones.
 
@@ -2187,21 +2189,23 @@ separator in the same order.
 
 After enabling these outputs, disable TPF’s outputs.
 
-## TPF Dragon’s Edition - Outputs
+## [TPF Dragon’s Edition - Outputs](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-﻿**Main files** - TPF Dragon’s Edition - Nemesis Output
+**Main files** - TPF Dragon’s Edition - Nemesis Output
 
-﻿**Main files** - TPF Dragon’s Edition - Terrain LOD
+**Main files** - TPF Dragon’s Edition - Terrain LOD
 
-﻿**Main files** - TPF Dragon’s Edition - Texgen Output
+**Main files** - TPF Dragon’s Edition - Texgen Output
 
-﻿**Main files** - TPF Dragon’s Edition - DynDOLOD Output **or** TPF
+**Main files** - TPF Dragon’s Edition - DynDOLOD Output **or** TPF
 Dragon’s Edition - DynDOLOD Output (Performance) - was generated with
 medium INIs and performance grass mods
 
 (don’t forget to put Solstheim Ice Piles Fix after my DynDOLOD’s output)
 
-﻿**Main files** - TPF Dragon’s Edition - Occlusion
+**Main files** - TPF Dragon’s Edition - Occlusion
+
+---
 
 # CONFIGURATIONS
 
@@ -2213,8 +2217,8 @@ clean as we can and to get patches we need.
 
 Open *Fixes* separator of the TPF, find the mod *NARC Remade - No
 Animals Report Crimes*, right click on it and press *Reinstall Mod*,
-rename the mod to *NARC Remade - No Animals Report Crimes - TPF Dragon’s
-Edition*, then in FOMOD choose core file *NARC* with patches for Bruma,
+rename the mod to `NARC Remade - No Animals Report Crimes - TPF Dragon’s
+Edition`, then in FOMOD choose core file NARC with patches for Bruma,
 Darkend, The Forgotten City and The Gray Cowl of Nocturnal, put the mod
 right after the mod from TPF and activate it.
 
