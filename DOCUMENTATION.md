@@ -251,8 +251,8 @@ just a bunch of ordinary thieves united.*
 
 **Main files** - Dark Brotherhood Reborn - Patch Collection FOMOD
 
-**FOMOD** - USSEP, Save The Dark Brotherhood (SSE), The Dark Brotherhood
-of Old, general tweaks.
+**FOMOD** - `USSEP, Save The Dark Brotherhood (SSE), The Dark Brotherhood
+of Old, general Tweaks`.
 
 ## [Save The Dark Brotherhood](https://www.nexusmods.com/skyrimspecialedition/mods/33461?tab=files)
 
@@ -392,7 +392,7 @@ younger.*
 **Main files** - Beyond Skyrim - Bruma - Tweaks Enhancements and Patches
 SSE 1.7
 
-**FOMOD** - Unofficial Skyrim Special Edition Patch ESPLite.
+**FOMOD** - `Unofficial Skyrim Special Edition Patch ESPLite`.
 
 ## [Bruma Ugly Love Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/52506?tab=files)
 
@@ -547,15 +547,15 @@ Crafting Patch
 
 **Instructions** - download the optional file manually and drop it into
 your *MO2 Downloads* folder, the fille will appear in your *Downloads*
-tab in MO2, right click on it and select `Query Info`, then merge the
+tab in MO2, right click on it and select *Query Info*, then merge the
 file with the main one.
 
 ## [The Gray Cowl of Nocturnal - Add-Ons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files)
 
 **Main files** - The Gray Cowl of Nocturnal SE - Addons and Patches 1.2
 
-**FOMOD** - Unofficial Skyrim Special Edition Patch, Delayed Start
-Patch, Weapons Armor Clothing and Clutter Fixes Patch.
+**FOMOD** - `Unofficial Skyrim Special Edition Patch, Delayed Start
+Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 ## [The Gray Cowl of Nocturnal Combo](https://www.nexusmods.com/skyrimspecialedition/mods/17831?tab=files)
 
@@ -600,8 +600,8 @@ Corrupted Shade) ESL
 
 **Main files** - Lanterns Of Wyrmstooth
 
-**Instructions** - Install the mod, double click on *Lanterns of
-Wyrmstooth 1.00*, then right-click *Data* folder and select *Set as data
+**Instructions** - Install the mod, double click on `Lanterns of
+Wyrmstooth 1.00`, then right-click *Data* folder and select *Set as data
 directory*, click *Ok*.
 
 ## [Realistic Water Two - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744)
@@ -644,7 +644,7 @@ directory*, click *Ok*.
 
 **Main files** - Tournament of the Ten Bloods 2.1
 
-**FOMOD** - 2K Resolution, No flame effect.
+**FOMOD** - `2K Resolution, No Flame Effect`.
 
 **Update files** - HOTFIX - Sounds
 
@@ -654,7 +654,7 @@ directory*, click *Ok*.
 
 **Main files** - Ice Blade of the Monarch 2.6
 
-**FOMOD** - 2K Resolution, No trail mist.
+**FOMOD** - `2K Resolution, No trail Mist`.
 
 ## [FaceGen Output for Different Mods](https://www.nexusmods.com/skyrimspecialedition/mods/24174?tab=files)
 
@@ -672,7 +672,7 @@ directory*, click *Ok*.
 
 **Main files** - Mr. Dragonfly ENB Particle Lights
 
-**FOMOD** - Teal (My preference).
+**FOMOD** - `Teal (My preference)`.
 
 ## [The Phoenix Flavour - Inigo Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files)
 
@@ -682,7 +682,7 @@ directory*, click *Ok*.
 
 **Main files** - High-Poly Inigo Replacer - FOMOD installer
 
-**FOMOD** - Custom Saeri Hair - Blue.
+**FOMOD** - `Custom Saeri Hair - Blue`.
 
 ## [Lucien - Immersive Fully Voiced Male Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035?tab=files)
 
@@ -838,7 +838,7 @@ in xEdit to make it run correctly with other mods. Extract contents of
 the optional file into your xEdit’s *Edit Scripts* folder. Open xEdit
 using MO2, find *Undeath.esp*, right click on it and choose *Apply
 Script…* In category *Script* find *Hishy_UndeathCleaner* and choose it.
-Press OK. After xEdit finishes cleaning, don’t forget to make sure that
+Press *OK*. After xEdit finishes cleaning, don’t forget to make sure that
 changes are saved.
 
 ## [Moon and Star - Undeath Remastered Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19068?tab=files)
