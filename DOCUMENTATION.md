@@ -2438,7 +2438,7 @@ opinion, that isn’t right at all. Do you sit at home with one little
 light on and don’t see anything else around you? No, so this isn’t the
 right ENB for us.
 
-<img src="media/image10.png" style="width:6.27083in;height:3.52083in" />
+![image](https://user-images.githubusercontent.com/37147270/130332396-e3a03b41-10cb-4075-93a3-13ec316b3301.png)
 
 Now as default TPF uses Serio’s ENB, which allows users with low end PCs
 to use much needed features of ENB and make lightning to be a bit
@@ -2451,21 +2451,21 @@ colours. Another positive moment is that it almost doesn’t need any kind
 of adjustments for TPF weather or any other mods, so we just need to
 change ENB files and add a good addition for it.
 
-<img src="media/image11.png" style="width:6.27in;height:3.5294in" />
+![image](https://user-images.githubusercontent.com/37147270/130332413-f05a38bb-62cc-4e08-a937-c82b1f8fd09b.png)
 
-<img src="media/image12.png" style="width:9.69291in;height:5.45833in" />
+![image](https://user-images.githubusercontent.com/37147270/130332444-859c0029-e886-4e30-b3f2-ecd75273d108.png)
 
-<img src="media/image13.png" style="width:9.69291in;height:5.45833in" />
+![image](https://user-images.githubusercontent.com/37147270/130332450-86a22e4f-301f-4cb3-be6b-a3fadcb532fa.png)
 
 *(ft. a mod in development, which soon will be released, by Monty)*
 
-## Silent Horizons ENB
+## [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
-﻿**Main files** - D) Silent Horizons ENB for Cathedral Weathers
+**Main files** - D) Silent Horizons ENB for Cathedral Weathers
 
 **Optional files** - Silent Horizons - Solar Cleaner
 
-At first, delete *enbcache* folder you can find in your root folder.
+At first, delete `enbcache` folder you can find in your root folder.
 
 Put *Silent Horizons ENB Addon - Solar Cleaner* right at the end of
 TPF’s Weathers section mods in your mod order and put it right under
@@ -2478,28 +2478,22 @@ inside, go back to the beginning and open *Silent Horizon 7.1 Cathedral
 Weathers* folder, paste your chosen folder here and confirm the
 override.
 
-Open *enblocal.ini* file in the folder, change input commands to be as
+Open `enblocal.ini` file in the folder, change input commands to be as
 the some ones as in TPF:
 
 -   KeyCombination=0
-
 -   KeyUseEffect=121
-
 -   KeyFPSLimit=0
-
 -   KeyShowFPS=118
-
 -   KeyScreenshot=0
-
 -   KeyEditor=122
-
 -   KeyDof=0
 
 Save changes to the file.
 
 Open *ENB Man*, click the arrow under *Presets* and select *Blank
-preset*, enter a name for the new preset – *Silent Horizons ENB for
-Cathedral Weathers 7.1.* Click the green checkmark to confirm.
+preset*, enter a name for the new preset – `Silent Horizons ENB for
+Cathedral Weathers 7.1.` Click the green checkmark to confirm.
 Drag-and-drop all files from the *Silent Horizon 7.1 Cathedral Weathers*
 folder into ENB Man, always choose *No* if you are asked to add palettes
 to ENB Man. Then click the gears icon under *Global Settings*, disable
@@ -2512,7 +2506,7 @@ That’s all, enjoy your fancy ENB now. Of course, you can also continue
 with the *GAMEPLAY GUIDE* section of the guide if you are interested in
 how to start some newly added quests.
 
-#  
+---
 
 # GAMEPLAY GUIDE
 
@@ -2525,61 +2519,61 @@ differs.
 
 ### Early and Mid Game Quests
 
-Winterhold Deep Sea Ruins - Can be started any time by going northeast
+**Winterhold Deep Sea Ruins** - Can be started any time by going northeast
 from Winterhold. A journal can be found there in small ruins, which will
 point you to the location with a ship marker. Should be done without a
 follower.
 
-Clockwork - Automatically after reaching level 5. Without a follower.
+**Clockwork** - Automatically after reaching level 5. Without a follower.
 
-Beyond Skyrim - Bruma - Can be started any time in *Pale Pass* (will be
+**Beyond Skyrim - Bruma** - Can be started any time in *Pale Pass* (will be
 marked as two rocks together) southeast of Helgen.
 
-Moonpath to Elsweyr - Can be started any time in Bruma’s *Greenwood*,
+**Moonpath to Elsweyr** - Can be started any time in Bruma’s *Greenwood*,
 the southernmost point of County Bruma.
 
-Identity Crisis - Can be started any time in *Abandoned Stables*
+**Identity Crisis** - Can be started any time in *Abandoned Stables*
 southeast of Yngol Barrow. Without a follower.
 
-Moon and Star - Automatically after finishing the main quest *The* *Way
+**Moon and Star** - Automatically after finishing the main quest *The* *Way
 of the Voice.*
 
-Carved Bink - After reaching level 10 in *Abandoned Grotto* west of Lost
+**Carved Bink** - After reaching level 10 in *Abandoned Grotto* west of Lost
 Knife Hideout.
 
-Project AHO - After reaching level 15, head to Braidwood Inn (located at
+**Project AHO** - After reaching level 15, head to Braidwood Inn (located at
 Kynesgrove) and talk to the innkeeper. Without a follower.
 
-Darkend - Can be started any time in *Voyager's End* north of Ysgramor's
+**Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
 Tomb. At least level 15 is recommended.
 
-The Wheels of Lull - Automatically after reaching level 20, can be
+**The Wheels of Lull** - Automatically after reaching level 20, can be
 finished after reaching level 35.
 
-Helgen Reborn - Must be started after 5 days after you have finished the
+**Helgen Reborn** - **Must** be started after 5 days after you have finished the
 main quest *Unbound*. Recommended to be started at level 20. Read the
 book *Helgen Reborn Guide* in your inventory to start the quest.
 
-The Tools of Kagrenac - Join the College of Winterhold and finish the
+**The Tools of Kagrenac** - Join College of Winterhold and finish the
 side questline *Arniel’s Endeavor*. You’ll also need to have finished
-*The Way of the Voice*﻿. A couple of days after you completed *Arniel’s
-Endeavor* and claimed Keening, the quest will start automatically. Make
+*The Way of the Voice*. A couple of days after you completed *Arniel’s
+Endeavor* and claimed _Keening_, the quest will start automatically. Make
 sure you have Keening in your inventory, it will turn into a quest item
 when the mod starts.
 
-The Gray Cowl of Nocturnal - After reaching level 20 and after
+**The Gray Cowl of Nocturnal** - After reaching level 20 and after
 pickpocketing or stealing anything. Level 30-35 is recommended, for
 thief characters (sneaking and pickpocketing).
 
 ### Late Game Quests
 
-Undeath - Automatically without anything happening after reaching level
+**Undeath** - Automatically without anything happening after reaching level
 30 (I know, not immersive, unfortunately the patch for making it start
 in a better way was removed from Nexus, going to deal with that later,
 the late game quest, considered you should have gotten it after one
 Dragonborn quest).
 
-The Forgotten City - Automatically after reaching level 40. The story
+**The Forgotten City** - Automatically after reaching level 40. The story
 responds to your character’s individual history, actions, so a high
 level of speech skill (approximately 60) is also recommended. Enemies
 will be pretty tough, but not as tough as within other late game quests.
@@ -2587,23 +2581,23 @@ That’s and also the immersiveness is the reason for setting this quest
 requirements as high, because by default it starts at level 5. Without a
 follower.
 
-The Ice Blade of the Monarch - Can be started any time in *Pilgrim's
+**The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
 Trench* northeast of The Tower Stone, hard mod.
 
-The Tournament of the Ten Bloods - Can be started after reading *The
+**The Tournament of the Ten Bloods** - Can be started after reading *The
 Story of Lyrisius* in the Arcanaeum, hard mod.
 
-Wyrmstooth - automatically after Level 10 and after finishing the main
+**Wyrmstooth** - automatically after Level 10 and after finishing the main
 quest *A Blade in the Dark*. According to the official guide book, it
 can be challenging even for level 70 characters. It is also recommended
 to be prepared before venturing into the quest with some potions and
 arrows if you are an archer.
 
-The Grand Paladin - After reading a book *The Grand Paladin* in Bards
+**The Grand Paladin** - After reading a book *The Grand Paladin* in Bards
 College or Skaal's Village Great Hall. Having more than 300 health is
 highly recommended. PC must be able to shout, very hard mod.
 
-The Final Cataclysm - Automatically after reaching level 50 and after
+**The Final Cataclysm** - Automatically after reaching level 50 and after
 finishing the main quest *The Horn of Jurgen Windcaller*. Stealth and
 combat oriented character required, very hard mod. After reaching level
 60, a bonus quest becomes available.
@@ -2612,6 +2606,8 @@ I have tried to write as little information as I could so as not to
 spoil the content. Won’t tell you any details about your potential new
 followers and other surprises as they should be discovered pretty easily
 while exploring.
+
+---
 
 # BUGS
 
@@ -2629,44 +2625,40 @@ sentences about that, just write what the problem is in
 Report requirements:
 
 -   Title of the report should be made according to the problem (not
-    > *Issue, HELP!!!!, problem*, but something like *Black Face, Flying
-    > Rock* etc.);
+    *Issue, HELP!!!!, problem*, but something like *Black Face, Flying
+    Rock* etc.);
 
 -   Copy of YOUR *modlist.txt* and *loadorder.txt* (Navigate to your MO2
-    > folder, open *profiles* folder, then *The Phoenix Flavour -
-    > Dragon’s Edition*) (use Google Drive, text sharing service etc.);
+    folder, open *profiles* folder, then *The Phoenix Flavour -
+    Dragon’s Edition*) (use Google Drive, text sharing service etc.);
 
 -   Screenshot of the problem (copy and paste in the report or again
-    > just use a picture sharing service etc.) (when the problem is
-    > seeable on the screen, open the console (*\~* key) and press on
-    > the problem, then take screenshot);
+    just use a picture sharing service etc.) (when the problem is
+    seeable on the screen, open the console (*\~* key) and press on
+    the problem, then take screenshot);
 
 -   Description of the problem (what, when, where);
 
 -   Try to repeat the issue (go somewhere else, then do whatever you
-    > were doing before again for at least 3 times);
+    were doing before again for at least 3 times);
 
 -   How to repeat the issue (remember that Skyrim is Skyrim, so if the
-    > issue can’t be repeated, I won’t be able to help) (if by your
-    > report it is understandable how to repeat the issue (in the
-    > example), of course, you don’t need to write the same thing
-    > again).
-
-### 
-
-### 
+    issue can’t be repeated, I won’t be able to help) (if by your
+    report it is understandable how to repeat the issue (in the
+    example), of course, you don’t need to write the same thing
+    again).
 
 ### Example
 
 ***Black Face***
 
-*<u>A person has sent me a screenshot of a guard with black face and I
+*A person has sent me a screenshot of a guard with black face and I
 see all the data about the guard from a console, her perfect, untouched
-modlist.txt and loadorder.txt.</u>*
+modlist.txt and loadorder.txt.*
 
-*Was going to Whiterun for the first time, right near the gate of the
+_Was going to Whiterun for the first time, right near the gate of the
 city one of the guards has black face. Have tried to get to the stables
-and then return, but the issue is still there.*
+and then return, but the issue is still there._
 
 I will try to respond as fast as I can. Please, be mindful that I have
 studies, other hobbies and many other things to do and places to be, so
