@@ -1,3 +1,5 @@
+# 
+
 # GETTING STARTED
 
 Select *Profiles* option from the Mod Organizer 2 (MO2) menu, select
@@ -6,6 +8,8 @@ right side and then name the copied profile *The Phoenix Flavour -
 Dragon’s Edition*.
 
 # INTERFACE (optional)
+
+﻿
 
 Create a separator and name it *INTERFACE EXTENDED* and place it
 directly below the *INTERFACE* separator (and its mods). Change its
@@ -71,7 +75,7 @@ them, but Skyrim has decided otherwise... Then this is a mod for you.*
 
 ## [﻿iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
 
-<u>﻿Not needed without Smoothcam. Recommended with it.</u>
+<u>﻿Not needed without SmoothCam. Recommended with it.</u>
 
 ﻿Main files - iHUD - SmoothCam Automated Compatibility Patch
 
@@ -81,7 +85,7 @@ we are trying to shoot, roast, electrocute, freeze etc. things.*
 
 ## [SmoothCam - Octavian's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/43927)
 
-<u>﻿Not needed without Smoothcam. Recommended with it.</u>
+<u>﻿Not needed without SmoothCam. Recommended with it.</u>
 
 ﻿Main files - SmoothCam - Octavian's Preset 1.1.2
 
@@ -610,6 +614,10 @@ Main Files - Wyrmstooth_2x
 
 Main Files - Lanterns Of Wyrmstooth
 
+**Instructions** - Install the mod, double click on *Lanterns of
+Wyrmstooth 1.00*, then right-click *Data* folder and select *Set as data
+directory*, click *Ok*.
+
 ## [Realistic Water Two - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744)
 
 Miscellaneous Files - Wyrmstooth Patch v1.0
@@ -911,7 +919,7 @@ forge.*
 armors) in Skyrim. Just use any forge for that. Tempered the same way as
 any other armor, pants have the same stats as their counterparts.*
 
-<img src="media/image10.png" style="width:5.20313in;height:4.61008in" />
+<img src="media/image8.png" style="width:5.20313in;height:4.61008in" />
 *(ft. mods in Appearance section)*
 
 ## [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
@@ -1085,7 +1093,7 @@ Update files - Strange Runes
 *Great for screenshots and makes magic feel even more unique. MCM (Mod
 Configuration Menu) available, so you can make them appear only for some
 specific spell group etc. You need it! Just look at my
-character.*<img src="media/image11.png" style="width:6.66719in;height:3.73536in" />
+character.*<img src="media/image12.png" style="width:6.66719in;height:3.73536in" />
 
 ## [Dragonborn Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287)
 
@@ -1193,7 +1201,7 @@ offer inside their plugins. I hope you won’t use it for cheating.*
 
 ## [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
 
-Main files - Werewolf Transformation Timer
+Main files - Sweeping Organizes Stuff - Use Broom to Clean Mess
 
 *Let's say you accidentally pressed your shout button in your home or
 just wanted to make some chaos, now you can clean the mess by using a
@@ -1667,7 +1675,7 @@ Like you can see in the screenshots, it looks much less clunky than a
 bow being together with a quiver and clipping through each other and
 much more likely than us carrying our shield in our hand for all day.
 
-<img src="media/image8.png" style="width:2.23387in;height:3.22in" /><img src="media/image9.png" style="width:2.61727in;height:3.22125in" />
+<img src="media/image10.png" style="width:2.23387in;height:3.22in" /><img src="media/image9.png" style="width:2.61727in;height:3.22125in" />
 
 Overall through animations we will add more life and uniqueness into our
 player character. NPCs are untouched by these different gear locations,
@@ -1884,7 +1892,7 @@ issue once or twice - black face bug. CTDs can happen if overhaul uses
 unique body parts (like The Ordinary Women) and you enter into the place
 where this *incorrect* NPC is.
 
-<img src="media/image7.png" style="width:4.95075in;height:3.11979in" /><img src="media/image2.png" style="width:4.1969in;height:3.12in" />
+<img src="media/image2.png" style="width:4.95075in;height:3.11979in" /><img src="media/image6.png" style="width:4.1969in;height:3.12in" />
 
 ## [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
 
@@ -2335,7 +2343,7 @@ with other shield or even two-handed weapon settings, but don’t don’t
 overdo these or animations will look funky. For now you can use these,
 press *R* and *Enter* and you are done.
 
-<img src="media/image12.png" style="width:6.95036in;height:4.7258in" />
+<img src="media/image11.png" style="width:6.95036in;height:4.7258in" />
 
 At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
@@ -2448,6 +2456,10 @@ Skyrim.
 If you are happy with my work, I won't mind if you endorse the add-on’s
 page on Nexus and write something positive for me to read.
 
+If you want to help even more, you can donate to me (via PayPal) by
+pressing
+[<u>here</u>](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
+
 If you want to learn a little bit more about the content we have added,
 read the *Gameplay Guide* section of the add-on.
 
@@ -2470,7 +2482,7 @@ opinion, that isn’t right at all. Do you sit at home with one little
 light on and don’t see anything else around you? No, so this isn’t the
 right ENB for us.
 
-<img src="media/image1.png" style="width:6.27083in;height:3.52083in" />
+<img src="media/image7.png" style="width:6.27083in;height:3.52083in" />
 
 Now as default TPF uses Serio’s ENB, which allows users with low end PCs
 to use much needed features of ENB and make lightning to be a bit
@@ -2485,9 +2497,9 @@ change ENB files and add a good addition for it.
 
 <img src="media/image13.png" style="width:6.27in;height:3.5294in" />
 
-<img src="media/image4.png" style="width:9.69291in;height:5.45833in" />
+<img src="media/image1.png" style="width:9.69291in;height:5.45833in" />
 
-<img src="media/image6.png" style="width:9.69291in;height:5.45833in" />
+<img src="media/image4.png" style="width:9.69291in;height:5.45833in" />
 
 *(ft. a mod in development, which soon will be released, by Monty)*
 
