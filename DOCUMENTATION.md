@@ -1482,21 +1482,21 @@ play with. Other changes are there to diversify different races of
 Skyrim’s population and make character creation a little bit more
 interesting and even more time-consuming.
 
-Create a separator and name it *APPEARANCE EXTENDED* and place it
+Create a separator and name it `APPEARANCE EXTENDED` and place it
 directly below the *SKELETON & ANIMATIONS* separator (and its mods).
 Change its colour, so that it won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## SavrenX [Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
+## [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
 
 *When I saw Harkon for the first time, well, it was a little bit sad
 that Vampire Lord looks like a noodle. And with that mass, he probably
 looked awkward, when he used melee combat against us. Let’s separate
 Vampire Lords even more from senile ordinary vampires.*
 
-## FK's Diverse Racial Skeletons
+## [FK's Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/38563)
 
 **Main files** - FK's Diverse Racial Skeletons
 
@@ -1509,67 +1509,63 @@ unique height and form, so wish some luck to Wood Elves at getting any
 attention from HIGH Elves. And now you will think twice before touching
 that big orc. Really lore-immersive mod.*
 
-##  
-
-## Tempered Skins for Males
+## [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
 
 **Main files** - Tempered Skins for Males - Dressed Version
 
-**FOMOD** - A2 and F none, for other things you can choose whatever
-options you like. My recommendations - B3 (people are living in Skyrim,
+**FOMOD** - `A2 and F none`, for other things you can choose whatever
+options you like. `My recommendations - B3 (people are living in Skyrim,
 not Elsweyr), C3, D2, E1 (with this combination they don’t look too old
-and at the same time not as teenagers).
+and at the same time not as teenagers)`.
 
 *I guess Tempered Skins is my favourite mod series, when it comes to
 appearance, as each of the skins for both males and females is so
 customizable you won’t need any other mod. And that’s why I also give
 you a choice to make in FOMOD.*
 
-## Masculine Khajiit Textures
+## [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186)
 
 **Main files** - Grey Cat and Leopard Vanilla v1.1 - 2K Res Pack
 
-**FOMOD** - Grey Cat, Abs.
+**FOMOD** - `Grey Cat, Abs`.
 
 *Yes, you have read it right. For one other mod to work correctly, we
 will need to choose a different version of Masculine Khajiit Textures.
 Rename it to just Masculine Khajiit Textures or Masculine Khajiit
 Rextures - TPF Dragon’s Edition to install it as a separate mod.*
 
-##  
-
-## Masculine Argonian Textures
+## [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185)
 
 **Main files** - Masculine Chameleon and Lizard (Vanilla) 2K
 
-**FOMOD** - Lizard, Heavy Scales.
+**FOMOD** - `Lizard, Heavy Scales`.
 
 *I don’t see anything too eye-catching from Forgotten Argonian Roots and
 they don’t work with the mod, so let’s use argonian skin texture from
 the same author, which textures we use for Khajiits.*
 
-## Tempered Skins for Females
+## [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
 
 **Main files** - Tempered Skins for Females UNP and Vanilla
 
-**FOMOD** - A7 and F none, for other things you can choose whatever
-options you like. My recommendations - B01, C2, D1, E2.
+**FOMOD** - `A7 and F none`, for other things you can choose whatever
+options you like. `My recommendations - B01, C2, D1, E2`.
 
-## Feminine Khajiit Textures
+## [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
 
 **Main files** - Feminine Khajiit Textures (Grey Cat and Leopard)
 Vanilla
 
-**FOMOD** - 2K, Grey Cat, Abs.
+**FOMOD** - `2K, Grey Cat, Abs`.
 
-## Feminine Argonian Textures
+## [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
 
 **Main files** - Feminine Argonian Textures (Chameleon and Lizard)
 Vanilla
 
-**FOMOD** - 2K, Lizard, Abs.
+**FOMOD** - `2K, Lizard, Abs`.
 
-## Sandow Plus Plus - Ripped Bodies
+## [Sandow Plus Plus - Ripped Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/34632)
 
 **Main files** - Sandow Plus Plus - Ripped Bodies
 
@@ -1577,14 +1573,14 @@ Vanilla
 
 **Main files** - Sandow Plus Plus - Ripped Bodies - UNP
 
-**FOMOD** - choose every option in all these 3 mods (exception is in one
+**FOMOD** - `Choose every option in all these 3 mods (exception is in one
 place in the file for males, where you need to choose vanilla type of
-body, then again every race).
+body, then again every race)`.
 
 *The weight slider in Racemenu will also make us more ripped, not just
 bigger.*
 
-## Just No Tails
+## [Just No Tails](https://www.nexusmods.com/skyrimspecialedition/mods/5051)
 
 **Main files** - Nooo Mooore Taiiiiiils
 
@@ -1595,11 +1591,11 @@ have been such a bother to do), so the sight of our tail clipping
 through armor looks awkward. The best and the most easy solution is just
 to hide tails.*
 
-## Grimoas Plantigrade Feet For Beast Races
+## [Grimoas Plantigrade Feet For Beast Races](https://www.nexusmods.com/skyrim/mods/16976)
 
 **Main files** - Grimoas Plantigrade Feet For Beast Races v 1_4
 
-**Delete** - delete *Gri_BeastFeet.esp* .
+**Delete** - delete `Gri_BeastFeet.esp`.
 
 *A resource from Skyrim LE to make our next mod work (thank you very
 much).*
@@ -1611,30 +1607,30 @@ much).*
 *Now we won’t need to imagine anymore how our poor Argonian puts those
 little boots on.*
 
-## 
-
-## High Poly Head
+## [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/)
 
 High_Poly_Head_v1.4\_(SE).zip
 
-**FOMOD** - BSA Only, Special Edition, Expressive Facegen Morphs,
+**FOMOD** - `BSA Only, Special Edition, Expressive Facegen Morphs,
 Expressive Facial Animation (both), High Poly Vanilla Hair, Vampire Head
-Fix, Symmetrical Eyes (Female).
+Fix, Symmetrical Eyes (Female)`.
 
 *With this your dreams of making an even more perfect face for your
 character shouldn't wait for long anymore.*
 
-## KS Hairdos Lite
+## [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932)
 
 **Optional files** - KS Hairdos Lite SE NoNPCs
 
 *Little fancy hair mod for us.*
 
-## KS Hairdos - HDT SMP
+## [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
 
 **Main files** - KS Hairdos SMP
 
 *New level of fanciness. People love hair with physics, so let them be.*
+
+---
 
 # ANIMATIONS
 
@@ -1648,7 +1644,8 @@ Like you can see in the screenshots, it looks much less clunky than a
 bow being together with a quiver and clipping through each other and
 much more likely than us carrying our shield in our hand for all day.
 
-<img src="media/image3.png" style="width:2.23387in;height:3.22in" /><img src="media/image4.png" style="width:2.61727in;height:3.22125in" />
+![image](https://user-images.githubusercontent.com/37147270/130330545-ca979529-70c6-46d3-b9b6-2832bc90b5e3.png)
+![image](https://user-images.githubusercontent.com/37147270/130330553-da6655dd-391c-4add-abb7-910df3477896.png)
 
 Overall through animations we will add more life and uniqueness into our
 player character. NPCs are untouched by these different gear locations,
@@ -1657,17 +1654,17 @@ as the obligatory part, the mods we are going to add will make us use
 dual sheath animations.
 
 **INI in Simple Dual Sheath** - In line 23, change *Flags* to
-*Player\|FirstPerson*, then in line 38, change *DisableHideOnSit* to
-*Player\|MountOnly*.
+`Player\|FirstPerson`, then in line 38, change *DisableHideOnSit* to
+`Player\|MountOnly`.
 
-Create a separator and name it *ANIMATIONS EXTENDED* and place it
+Create a separator and name it `ANIMATIONS EXTENDED` and place it
 directly below the *APPEARANCE EXTENDED* separator (and its mods).
 Change its colour, so that it won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## Undeath - XPMSSE - Strange Runes - Skeleton Patch
+## [Undeath - XPMSSE - Strange Runes - Skeleton Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50694)
 
 **Main files** - Undeath - XPMSSE - Strange Runes - Skeleton Patch
 
@@ -1675,43 +1672,41 @@ separator in the same order.
 character in some scenarios would have been invisible and their spell
 runes would have appeared near their feet, so let’s put it here.*
 
-## Ultimate Combat and Creature Behaviour's Nemesis Compatibility
+## [Ultimate Combat and Creature Behaviour's Nemesis Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
 
-﻿**Main files** - Ultimate Combat and Creature Behaviour's Nemesis
+**Main files** - Ultimate Combat and Creature Behaviour's Nemesis
 Compatibility
 
-## *Yeah, and some other utilities needed.*
+*Yeah, and some other utilities needed.*
 
-**FOMOD** - don’t change anything.
+**FOMOD** - Don’t change anything.
 
-## Dragon Priest Fix - Behaviour Overhaul
+## [Dragon Priest Fix - Behaviour Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51608)
 
-﻿**Main files** - Dragon Priest Fix - Behaviour Overhaul - ESL
+**Main files** - Dragon Priest Fix - Behaviour Overhaul - ESL
 
-## Optional files - Dragon Priest Behaviour Overhaul - Undeath Patch
+**Optional files** - Dragon Priest Behaviour Overhaul - Undeath Patch
 
-## 
+## [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
 
-## Undead Summons Emerge from the Ground
-
-﻿**Main files** - Undead summons emerge from the ground
+**Main files** - Undead summons emerge from the ground
 
 *I know that undead work a little bit differently in the Elder Scrolls
 universe, but it still doesn’t make sense for soul’s physical form to
 appear out of thin air, so here we go.*
 
-## Conditional Expressions - Subtle Face Animations
+## [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
-﻿**Main files** - Conditional Expressions
+**Main files** - Conditional Expressions
 
 *Gives our character a bit of emotions, to finally make us not look like
 a piece of living rock.*
 
-## Jog & Sprint
+## [Jog & Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/15881)
 
-﻿**Main files** - Jog Sprint and Jump
+**Main files** - Jog Sprint and Jump
 
-**Hide** - hide any file, which overwrites Jump Behavior Overhaul by
+**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by
 right-clicking the mod, then choosing the *Conflicts* tab, selecting all
 the files on the *Winning file conflicts* section, where overwritten mod
 includes *Jump Behavior Overhaul*, right-clicking on them and choosing
@@ -1719,9 +1714,9 @@ includes *Jump Behavior Overhaul*, right-clicking on them and choosing
 
 *Realistic animations for sprinting and running.*
 
-## Dynamic Swimming
+## [Dynamic Swimming](https://www.nexusmods.com/skyrimspecialedition/mods/34853)
 
-﻿**Main files** - DAR - Dynamic Swimming
+**Main files** - DAR - Dynamic Swimming
 
 **Optional files** - DAR - Dynamic Swimming - Argonian Mastery
 
@@ -1730,9 +1725,9 @@ includes *Jump Behavior Overhaul*, right-clicking on them and choosing
 *Vanilla swimming animation looks shabby, so let it be used just for
 people, who like to swim with heavy armour equipped.*
 
-## Crouch Sliding
+## [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157)
 
-﻿**Main files** - Crouch Sliding Main
+**Main files** - Crouch Sliding Main
 
 **Optional files** - Toned Down Slide Dust Effect
 
@@ -1742,16 +1737,16 @@ people, who like to swim with heavy armour equipped.*
 hide behind cover as soon as you can, just press your sneaking button
 while sprinting.*
 
-## Crouch Sliding - Remove Ragdolling for Good
+## [Crouch Sliding - Remove Ragdolling for Good](https://www.nexusmods.com/skyrimspecialedition/mods/46828)
 
-﻿**Main files** - Crouch Sliding - Remove Ragdolling for Good
+**Main files** - Crouch Sliding - Remove Ragdolling for Good
 
 *Removes one overpowered mechanic from the previous mod, so you won’t
 even know that it was there in the first place.*
 
-## TK Dodge
+## [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
 
-﻿**Main files** - TK Dodge SE
+**Main files** - TK Dodge SE
 
 **Main files** - Replace to Step Dodge
 
@@ -1762,67 +1757,62 @@ directional key two times to dodge in that direction. I chose the side
 step version, because I don’t see characters with heavy armour rolling
 around at all, even in this fantasy world, but sidestep is alright.*
 
-## Thu'um - Fully Animated Shouts
+# [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
 
-﻿**Main files** - Thu'um - Animated Shouts
+**Main files** - Thu'um - Animated Shouts
 
 *Do you even need to ask me why? This is epic.*
 
-## Magic Casting Animations Overhaul
+## [Magic Casting Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215)
 
-﻿**Main files** - Magic Casting Animations Overhaul SSE
+**Main files** - Magic Casting Animations Overhaul SSE
 
 *Improvements for Skyrim’s third person animations.*
 
-**FOMOD** - Cast damage, cast self and staff cast.
+**FOMOD** - `Cast damage, cast self and staff cast`.
 
-##  
-
-## New Animation for Magic Casting
+## [New Animation for Magic Casting](https://www.nexusmods.com/skyrimspecialedition/mods/31989)
 
 **Optional files** - New Animation for magic cast v0.8
 
-**Hide** - hide *staffright_idle.hkx* and *staff_idle.hkx*.
+**Hide** - hide `staffright_idle.hkx` and `staff_idle.hkx`.
 
-## War Hammer and Battle Axe Movement Fix
+## [War Hammer and Battle Axe Movement Fix](https://www.nexusmods.com/skyrimspecialedition/mods/51615)
 
-﻿**Main files** - SSE Version
+**Main files** - SSE Version
 
-## Pretty Combat Animations
+## [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
+**Main files** - Pretty Combat Animations 1.38
 
-﻿**Main files** - Pretty Combat Animations 1.38
+**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer` two
+times, `2hm Block, 2hm Sprint`.
 
-**FOMOD** - Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer two
-times, 2hm Block, 2hm Sprint.
+## [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
-## Pretty One-Handed Animations Overhaul
+**Main files** - PCA-1hm Overhaul 1.13c SSE
 
-﻿**Main files** - PCA-1hm Overhaul 1.13c SSE
+**FOMOD** - `Guardian, choose _Skip_ option 4 times, 1hm Block, 1hm
+Sprint, Origin Dw Sprint_Type A`.
 
-**FOMOD** - Guardian, choose *Skip* option 4 times, 1hm Block, 1hm
-Sprint, Origin Dw Sprint_Type A.
+## [Blocking Animation Pack](https://www.nexusmods.com/skyrimspecialedition/mods/4352)
 
-## Blocking Animation Pack
+**Main files** - Blocking Animation Pack v1.5--SSE 
 
-﻿**Main files** - Blocking Animation Pack v1.5--SSE
+## [First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
 
-##  
+**Main files** - First Person Magic Animation for SSE
 
-## First Person Magic Animation
-
-﻿**Main files** - First Person Magic Animation for SSE
-
-**FOMOD** - 01 Variant 1 FPMA 7.0.
+**FOMOD** - `01 Variant 1 FPMA 7.0`.
 
 *Improvements for our 1st person animations.*
 
-## First Person Combat Animations Overhaul
+## [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177)
 
-﻿**Main files** - FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
+**Main files** - FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
 
-## 1st Person Parry Animation
+## [1st Person Parry Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20374)
 
-**FOMOD** - 01, 02, 03.
+**FOMOD** - `01, 02, 03`.
 
 ﻿**Main files** - 1stPerson Parry Animation
 
