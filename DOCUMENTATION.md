@@ -20,7 +20,7 @@ This category's mods are optional - you can just skip it or install the
 mods you like. There will be instructions on files, which are needed, if
 you have decided to use one or more mods.
 
-## ReCleaned Menu
+## [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
 **Main files** - ReCleanedMenus
 
@@ -35,14 +35,14 @@ with the beautiful background.*
 is looking good within Skyrim's theme and is more usual, but not too
 ordinary.*
 
-## 12th Century Book Font
+## [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
 
 **Main files** - Font
 
 *Replaces font in Skyrim's books to look not as modern, more
 sophisticated.*
 
-## Consolas Font - Sovngarde Font - 12th Century Book Fo[nt Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+## [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Needed if you use TPF's default Sovngarde font and 12th Century
 Book Font.**
@@ -71,7 +71,7 @@ person mode and fighting your enemy and you thought that you would land
 your arrow or a spell on the enemy, because your crosshair was right on
 them, but Skyrim has decided otherwise... Then this is a mod for you.*
 
-## iHUD - SmoothCam Automated Compatibili[ty Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
+## [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
 
 **Not needed without SmoothCam. Recommended with it.**
 
@@ -81,7 +81,7 @@ them, but Skyrim has decided otherwise... Then this is a mod for you.*
 need this patch to disable our basic crosshair not to confuse us, while
 we are trying to shoot, roast, electrocute, freeze etc. things.*
 
-## SmoothCam - Octavian's Preset
+## [SmoothCam - Octavian's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/43927)
 
 **Not needed without SmoothCam. Recommended with it.**
 
@@ -99,7 +99,7 @@ which appears right when you move your cursor over lootable item without
 need to open game's full menu. This mod allows us to use this addition,
 but in Skyrim.*
 
-## No Lockpi[ck Activate](https://www.nexusmods.com/skyrimspecialedition/mods/26790)
+## [No Lockpick Activate](https://www.nexusmods.com/skyrimspecialedition/mods/26790)
 
 **Needed if you want to use Quick Loot RE.**
 
@@ -121,15 +121,13 @@ doors after unlocking them to open them.*
 *Useful to make Quick Loot's interface smaller and less bulky by making
 it transparent.*
 
-## moreHUD Inventory Edition
+## [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
 
 **Main files** - moreHUD Inventory Edition Loose Version
 
 *It makes you aware of known weapon and armor enchantments, books you
 have read and it tells you about which kind of skill you can level by
 reading book.*
-
-##  
 
 ## [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
 
@@ -143,7 +141,7 @@ will not work with this mod installed.**
 *Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
 
-## Werewolf Transformation Timer
+## [Werewolf Transformation Timer](https://www.nexusmods.com/skyrimspecialedition/mods/45326)
 
 **Main files** - Werewolf Transformation Timer
 
@@ -166,11 +164,11 @@ existing content and some of these are the most popular and loved quest
 mods in Nexus Skyrim Special Edition’s page, so I hope you are hyped the
 same way as I was (and still am).
 
-Create a separator and name it *NEW CONTENT* and place it directly below
+Create a separator and name it `NEW CONTENT` and place it directly below
 the *WEATHER* separator (and its mods). Change its colour, so that it
 won't be the same as TPF's ones.
 
-﻿All of the following mods in this category will be placed under this
+All of the following mods in this category will be placed under this
 separator in the same order.
 
 ## Winterhold Deep Sea Ruins
