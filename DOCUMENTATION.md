@@ -42,38 +42,38 @@ sophisticated.*
 
 ## [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-_Needed if you use TPF's default Sovngarde font and 12th Century
-Book Font._
+**Needed if you use TPF's default Sovngarde font and 12th Century
+Book Font.**
 
-﻿﻿Optional files - ﻿﻿Consolas Font - Sovngarde Font - 12th Century Book
+**Optional files** - Consolas Font - Sovngarde Font - 12th Century Book
 Font Patch
 
-## ﻿﻿[Consolas Font - Centaur Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+## [Consolas Font - Centaur Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-﻿﻿<u>Needed if you use both Centaur Font and 12th Century Book Font.</u>
+**Needed if you use both Centaur Font and 12th Century Book Font.**
 
-Optional files - Consolas Font - Centaur Font - 12th Century Book Font
+**Optional files** - Consolas Font - Centaur Font - 12th Century Book Font
 Patch
 
-## [﻿﻿SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
+## [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
-Main files - SmoothCam
+**Main files** - SmoothCam
 
 **FOMOD** - if you have a modern CPU, choose *SmoothCam AVX*, *SmoothCam
 SSE* otherwise, ESL.
 
 **Instructions** - rename the mod’s plugin to *SmoothCam.esp*.
 
-*﻿Have you ever been in a situation, when you were playing in third
+*Have you ever been in a situation, when you were playing in third
 person mode and fighting your enemy and you thought that you would land
 your arrow or a spell on the enemy, because your crosshair was right on
 them, but Skyrim has decided otherwise... Then this is a mod for you.*
 
-## [﻿iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
+## [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
 
-<u>﻿Not needed without SmoothCam. Recommended with it.</u>
+**Not needed without SmoothCam. Recommended with it.**
 
-﻿Main files - iHUD - SmoothCam Automated Compatibility Patch
+**Main files** - iHUD - SmoothCam Automated Compatibility Patch
 
 *SmoothCam has its own crosshair, which appears right, when you aim. We
 need this patch to disable our basic crosshair not to confuse us, while
@@ -81,69 +81,69 @@ we are trying to shoot, roast, electrocute, freeze etc. things.*
 
 ## [SmoothCam - Octavian's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/43927)
 
-<u>﻿Not needed without SmoothCam. Recommended with it.</u>
+**Not needed without SmoothCam. Recommended with it.**
 
-﻿Main files - SmoothCam - Octavian's Preset 1.1.2
+**Main files** - SmoothCam - Octavian's Preset 1.1.2
 
 *I have tried many presets and this one feels great for playing the
 game, especially for our cause - aiming in third person mode.*
 
-## ﻿[Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
+## [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
 
-﻿Main files - QuickLootRE
+**Main files** - QuickLootRE
 
-*﻿One of the best additions to Fallout 4 (FO4) was the looting menu,
+*One of the best additions to Fallout 4 (FO4) was the looting menu,
 which appears right when you move your cursor over lootable item without
 need to open game's full menu. This mod allows us to use this addition,
 but in Skyrim.*
 
-## [﻿No Lockpick Activate](https://www.nexusmods.com/skyrimspecialedition/mods/26790)
+## [No Lockpick Activate](https://www.nexusmods.com/skyrimspecialedition/mods/26790)
 
-<u>﻿Needed if you want to use Quick Loot RE.</u>
+**Needed if you want to use Quick Loot RE.**
 
-﻿Main files - No Lockpick Activate (SKSE) - Updated
+**Main files** - No Lockpick Activate (SKSE) - Updated
 
-*﻿Fixes game's and looting menu mod's interaction, where you would be
+*Fixes game's and looting menu mod's interaction, where you would be
 forced into the full menu upon unlocking container. It also affects
 every other locked object, so, for example, you have to interact with
 doors after unlocking them to open them.*
 
-## ﻿[Minimalist Quick Loot](https://www.nexusmods.com/skyrimspecialedition/mods/45581)
+## [Minimalist Quick Loot](https://www.nexusmods.com/skyrimspecialedition/mods/45581)
 
-<u>﻿Not needed without Quick Loot RE. Optional with it.</u>
+**Not needed without Quick Loot RE. Optional with it.**
 
-﻿Main files - Minimalist Quick Loot
+**Main files** - Minimalist Quick Loot
 
-**﻿FOMOD** - Use whatever options you like.
+**FOMOD** - Use whatever options you like.
 
-*﻿Useful to make Quick Loot's interface smaller and less bulky by making
+*Useful to make Quick Loot's interface smaller and less bulky by making
 it transparent.*
 
 ## [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
 
-﻿Main files - moreHUD Inventory Edition Loose Version
+**Main files** - moreHUD Inventory Edition Loose Version
 
-*﻿It makes you aware of known weapon and armor enchantments, books you
+*It makes you aware of known weapon and armor enchantments, books you
 have read and it tells you about which kind of skill you can level by
 reading book.*
 
 ##  
 
-## ﻿﻿[Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
+## [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
 
-﻿﻿<u>The mod is incompatible with Free Look - Free Look's functionality
-will not work with this mod installed.</u>
+**The mod is incompatible with Free Look - Free Look's functionality
+will not work with this mod installed.**
 
-﻿﻿Main files - Alternate Conversation Camera
+**Main files** - Alternate Conversation Camera
 
-**﻿INI** - In line 51, change bLetterBox to 0.
+**INI** - In line 51, change bLetterBox to 0.
 
-﻿*Another FO4 like addition to Skyrim, which makes conversations look
+*Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
 
 ## [Werewolf Transformation Timer](https://www.nexusmods.com/skyrimspecialedition/mods/45326)
 
-Main files - Werewolf Transformation Timer
+**Main files** - Werewolf Transformation Timer
 
 *You will finally know how much time you have left before you need to
 find another body to feed and not to think about it every single time
@@ -162,16 +162,16 @@ existing content and some of these are the most popular and loved quest
 mods in Nexus Skyrim Special Edition’s page, so I hope you are hyped the
 same way as I was (and still am).
 
-Create a separator and name it *NEW CONTENT* and place it directly below
+Create a separator and name it `NEW CONTENT` and place it directly below
 the *WEATHER* separator (and its mods). Change its colour, so that it
 won't be the same as TPF's ones.
 
-﻿All of the following mods in this category will be placed under this
+All of the following mods in this category will be placed under this
 separator in the same order.
 
 ## [Winterhold Deep Sea Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/53707?tab=files)
 
-Main Files - winterholddeepsearuins
+**Main Files** - winterholddeepsearuins
 
 ##  
 
