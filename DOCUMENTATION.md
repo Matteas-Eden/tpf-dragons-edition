@@ -1139,9 +1139,9 @@ example, I use it to change my default gear to ordinary clothing with
 speech etc. enchantments for traders, when I am inside big cities.
 Otherwise I will probably forget to do that.*
 
-## Serio's Cycle Hotkeys
+## [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184)
 
-**Main files** - Serio's Cycle Hotkeys﻿
+**Main files** - Serio's Cycle Hotkeys
 
 *Makes it possible to adjust one hotkey to equip not just one spell or
 option, but different sets of things. For instance, if I am a mage, I
@@ -1151,7 +1151,7 @@ get my ward spell and Thunderbolt to deal with that pesky bandit mage.
 You can set whatever buttons you want as these hotkeys. Pretty detailed
 instructions on how to use the mod can be found in the mod's page.*
 
-## Hide Your Quests
+## [Hide Your Quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125)
 
 **Main files** - Hide Your Quests 1.0.1
 
@@ -1159,25 +1159,25 @@ instructions on how to use the mod can be found in the mod's page.*
 option to hide a quest you will do later from your journal by using
 MCM.*
 
-## Forget Spell
+## [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
 
 **Main files** - Forget Spell
 
-**FOMOD** - Skyrim Special Edition, SkyUI.
+**FOMOD** - `Skyrim Special Edition, SkyUI`.
 
 *Another neat addition - allows us to forget spells we won't use
 anymore. Why would I need to clutter my menu with Flames, while I am
 level 80 mage. You will see an option to forget spells in your spells
 menu.*
 
-## AddItemMenu - Ultimate Mod Explorer
+## [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
 
 **Main files** - AddItemMenuSE_114_SKSE2019
 
 *A mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I hope you won’t use it for cheating.*
 
-## Sweeping Organizes Stuff - Use Broom to Clean Mess
+## [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
 
 **Main files** - Sweeping Organizes Stuff - Use Broom to Clean Mess
 
@@ -1185,7 +1185,7 @@ offer inside their plugins. I hope you won’t use it for cheating.*
 just wanted to make some chaos, now you can clean the mess by using a
 broom from your inventory.*
 
-## Hearthfire Multiple Adoptions and Custom Home Support
+## [Hearthfire Multiple Adoptions and Custom Home Support](https://www.nexusmods.com/skyrimspecialedition/mods/3862)
 
 **Main files** - Hearthfire Multiple Adoptions and Custom Home Support
 SE
@@ -1193,21 +1193,21 @@ SE
 *Not only allows you to adopt more children, but also to bring your
 spouse and kids to the new houses we have added.*
 
-## Dragon Claws Auto-Unlock
+## [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329)
 
 **Main files** - Dragon Claws Auto-Unlock (Simultaneous)
 
 *I don’t want to check these claw combinations again and again. It was
 fun, when Skyrim was a new game for me.*
 
-## No Lock Picking
+## [No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)
 
 **Main files** - NoLockPicking v2
 
 *Removes the lock picking mini-game (annoying) from the game and now
 actually uses your lockpicking skill to open doors and chests.*
 
-## BlockSteal
+## [BlockSteal](https://www.nexusmods.com/skyrimspecialedition/mods/18732)
 
 **Main files** - Blocksteal_010_SKSE2017
 
@@ -1216,16 +1216,14 @@ won’t get punished by just wanting to take another item, which that
 annoying, but expensive cup was near. There is also an option to press
 on items multiple times, which is configurable through MCM.*
 
-## Scion - Vampiric Sunscreen Plugin
+## [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
 
 **Main files** - Scion - Vampiric Sunscreen Plugin
 
 *If you wear any type of headgear, while being outdoors, like our
 vampire friend Serana does, you won’t be destroyed by sun damage.*
 
-##  
-
-## Dragonborn - Shouts Perk Tree
+## [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
 
 **Main files** - Dragonborn - Shouts Perk Tree
 
@@ -1236,7 +1234,7 @@ than other characters, and this mod does that by giving us experience
 and perk points for shouting and killing dragons and a unique skill tree
 for spending these.*
 
-## Smart NPC Potions - Enemies Use Potions and Poisons
+## [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
 
 **Main files** - Smart NPC Potions
 
@@ -1245,19 +1243,13 @@ and use some potions. And not just healing potions, which they already
 use, to make our lives a little bit harder. Everything, for instance, a
 chance of them having a potion, is configurable by MCM.*
 
-## 
-
-## Don't Stay in The Water
+## [Don't Stay in The Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
 
 **Main files** - Don't Stay in The Water
 
 *Now you won’t be able to “outsmart” your enemies by going into water.*
 
-## 
-
-##  
-
-## Simply Knock
+## [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
 
 **Main files** - Simply Knock SE 1.0.3 Release
 
@@ -1266,61 +1258,57 @@ saved his family friend during the night, not to wait for 8 hours, when
 she will wake up. Or to check if people are home for sneaky shenanigans.
 This mod allows us to do that.*
 
-## Simply Knock SKSE64 DLL
+## [Simply Knock SKSE64 DLL](https://www.nexusmods.com/skyrimspecialedition/mods/24297)
 
 **Main files** - SimplyKnockSE SKSE64 2.0.19 DLL
 
 *An update for the mod to work.*
 
-## A Guiding Light - Clairvoyance Reimagined
+## [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
 
 **Main files** - Guiding Wisp
 
-**Delete** - remove *GuidingLight.modgroups* .
+**Delete** - remove `GuidingLight.modgroups`.
 
 *Finally makes Clairvoyance spell useful by making it summon a wisp that
 leads you to your quest objective.*
 
-## Gildergreen Regrown
+## [Gildergreen Regrown](https://www.nexusmods.com/skyrimspecialedition/mods/348)
 
 **Main files** - Gildergreen Regrown
 
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
 
-## Angi's Camp Tweaks
+## [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
 
 **Main files** - Angi's Camp Tweaks
 
 *Quality of life changes for Agni’s training session.*
 
-## More Werewolves
+## [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259)
 
 **Main files** - More Werewolves
 
 *Yes, more werewolves will be in Skyrim, so be attentive especially when
 traversing the area around Morthal.*
 
-**FOMOD** - Standalone version, RFYL patch.
+**FOMOD** - `Standalone version, RFYL Patch`.
 
-## 
-
-## Canis Hysteria - The Werewolf Disease
+## [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
 
 **Main files** - Canis Hysteria
 
-**FOMOD** - Improved Companions - Questline Tweaks.
+**FOMOD** - `Improved Companions - Questline Tweaks`.
 
-## *Finally you can become a werewolf without joining the Companions if you aren’t the type in the immersive way.*
+*Finally you can become a werewolf without joining the Companions if you aren’t the type in the immersive way.*
 
-##  
-
-## Werewolf Aela
+## [Werewolf Aela](https://www.nexusmods.com/skyrimspecialedition/mods/29155)
 
 **Main files** - Werewolf Companions v1.3 FOMOD
 
-**FOMOD** - no facial edits, Aela’s transformation only for 3 minutes
-and 45 minutes cooldown.
+**FOMOD** - `No Facial Edits, Aela’s Transformation Only for 3 Minutes
+and 45 Minutes`.
 
 *Has it always bothered you that Companions can’t turn into werewolves
 or do that only during Companions quests? Well, me too. This mod makes
@@ -1328,7 +1316,7 @@ Aela transform into werewolf, if she is badly hurt. Aela will always
 want to stay as werewolf, not like Farkas and Vilkas, who can be cured,
 so I have decided that it will be enough just with her.*
 
-## DIVERSE SKYRIM
+## [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
 
 **Main files** - DIVERSE SKYRIM SSE
 
@@ -1336,24 +1324,24 @@ so I have decided that it will be enough just with her.*
 mages etc. will also include some Khajiits, Argonians from time to time
 etc.*
 
-## DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
+## [DIVERSE SKYRIM - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514)
 
 **Main files** - DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
 
 *And let’s also fix them and make them better to look at.*
 
-## Diverse Skyrim - Battle of Whiterun Fix
+## [Diverse Skyrim - Battle of Whiterun Fix](https://www.nexusmods.com/skyrimspecialedition/mods/47939https://www.nexusmods.com/skyrimspecialedition/mods/47939)
 
 **Main files** - Diverse Skyrim Battle of Whiterun Fix
 
-## Civil War Neutrality
+## [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
 
 **Main files** - CWN - Civil War Neutrality SSE
 
 *Let Stormcloaks and the Empire play their own games, while being
 neutral, but getting your deserved reward.*
 
-## Catir’s [College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
+## [Catir’s College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
 
 **Main files** - Catir's College Creatures
 
@@ -1361,12 +1349,14 @@ neutral, but getting your deserved reward.*
 Winterhold quest line. You have been warned, don’t sneak peek at the
 description of the mod.*
 
-## End Times
+## [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201)
 
 **Main files** - End Times SE
 
 *Now try to do everything else, but not the main quest. I dare you. If
 you don’t listen then your game will be over.*
+
+---
 
 # MUSIC & SOUND FX (optional)
 
