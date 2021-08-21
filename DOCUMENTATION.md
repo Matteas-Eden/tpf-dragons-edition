@@ -5,6 +5,8 @@ your TPF profile, which you use for playing (normal or performance version), and
 right side and then name the copied profile `The Phoenix Flavour -
 Dragon’s Edition` (add `(Performance)` to the name if you copied the performance profile to indicate that).
 
+---
+
 # INTERFACE (optional)
 
 Create a separator and name it `INTERFACE EXTENDED` and place it
