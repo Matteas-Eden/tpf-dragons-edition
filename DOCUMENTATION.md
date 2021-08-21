@@ -42,8 +42,8 @@ sophisticated.*
 
 ## [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-﻿﻿<u>Needed if you use TPF's default Sovngarde font and 12th Century
-Book Font.</u>
+_Needed if you use TPF's default Sovngarde font and 12th Century
+Book Font._
 
 ﻿﻿Optional files - ﻿﻿Consolas Font - Sovngarde Font - 12th Century Book
 Font Patch
