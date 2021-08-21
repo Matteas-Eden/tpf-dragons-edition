@@ -2,7 +2,7 @@
 
 # DOCUMENTATION
 
-## GETTING STARTED
+## Getting Started
 
 Select _Profiles_ option from the Mod Organizer 2 (MO2) menu, select
 your TPF profile, which you use for playing (basic or performance version), and select _Copy_ on the
@@ -11,7 +11,7 @@ Dragon’s Edition` (and add `(Performance)` to the name if you have copied the 
 
 ---
 
-## INTERFACE (optional)
+## Interface (optional)
 
 Create a separator and name it `INTERFACE EXTENDED` and place it
 directly below the *INTERFACE* separator (and its mods). Change its
@@ -851,7 +851,7 @@ changes are saved.
 
 ---
 
-## APPAREL & WEAPONS
+## Apparel & Weapons
 
 Nothing much as you will get plenty of goodies from new and old quests -
 just some new weapons to our favourite NPCs to show their status and
@@ -876,7 +876,7 @@ from here, there will be a button *Download this file*. If mod has
 different versions, there will be instructions on which one to get like
 always.
 
-## [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
+### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
 
 **Main files** - Elemental Staffs SE
 
@@ -887,7 +887,7 @@ always.
 *Alters the appearance of almost all staffs to appear more like they are
 imbued with the power of magic we are actually using them for.*
 
-## [KD Circlets Redone by zzjay](https://www.nexusmods.com/skyrimspecialedition/mods/10320)
+### [KD Circlets Redone by zzjay](https://www.nexusmods.com/skyrimspecialedition/mods/10320)
 
 **Main files** - KD Cirlets by zzjay main file
 
@@ -897,7 +897,7 @@ at some of these minimalistic and sweet circlets, I have decided that a
 bunch of people will use them. They can be obtained only by crafting at
 forge.*
 
-## [Heavy Armored Pants](https://vectorplexus.com/files/file/404-heavy-armored-pants/)
+### [Heavy Armored Pants](https://vectorplexus.com/files/file/404-heavy-armored-pants/)
 
 *You will be able to get these in exchange for their counterparts (heavy
 armors) in Skyrim. Just use any forge for that. Tempered the same way as
@@ -906,11 +906,11 @@ any other armor, pants have the same stats as their counterparts.*
 ![image](https://user-images.githubusercontent.com/37147270/130328192-84efd439-a1bd-4893-a77d-989d9c48799c.png)
 *(ft. mods in Appearance section)*
 
-## [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
+### [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
 
 **Main files** - Royal Armory V2.2
 
-## [PrivateEye’s Royal Armory - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/28006)
+### [PrivateEye’s Royal Armory - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/28006)
 
 **Main files** - Royal Armory - Reforged - Main Replacer 1.1
 
@@ -922,7 +922,7 @@ any other armor, pants have the same stats as their counterparts.*
 
 **Merge** - Merge all files.
 
-## [Royal Armory - New Artifacts Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/44392)
+### [Royal Armory - New Artifacts Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/44392)
 
 **Main files** - Royal Armory - Replacer
 
@@ -930,7 +930,7 @@ any other armor, pants have the same stats as their counterparts.*
 
 --- 
 
-# MISCELLANEOUS
+## Miscellaneous
 
 This category's mods are focused on adding some quality of life tools
 and changes to the game. In many situations, these mods won't even
@@ -946,7 +946,7 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+### [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 
 **Main files** - Papyrus Extender SSE - 4.4.2
 
@@ -954,14 +954,14 @@ separator in the same order.
 It will be needed for Strange Runes to use another version of runes for
 dual-casted spells.*  
 
-## [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
+### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
 **Main files** - UIExtensions v1-2-0
 
 *Resource for modders to use to make custom menus for their mods. We
 will need it for AddItemMenu mod.*
 
-## [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
+### [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
 
 **Main files** - Custom Skills Framework v1
 
@@ -969,7 +969,7 @@ will need it for AddItemMenu mod.*
 character, will be used for a mod, which will greatly enhance gameplay
 with shouts together with Forceful Tongue - Shouts Overhaul.*
 
-## [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
+### [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
 
 **Main files** - HDT-SMP for SSE 1.5.97 v2.11
 
@@ -977,14 +977,14 @@ with shouts together with Forceful Tongue - Shouts Overhaul.*
 scenario, with moving hair. Bonk people, who thought about something
 else.*
 
-## [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669)
+### [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669)
 
 **Main files** - MfgFix
 
 *Just a couple of fixes for Skyrim’s facial animation scripts, which
 will be needed by Conditional Expressions.*
 
-## [Copy and Paste in Console](https://www.nexusmods.com/skyrimspecialedition/mods/30928)
+### [Copy and Paste in Console](https://www.nexusmods.com/skyrimspecialedition/mods/30928)
 
 **Main files** - Copy and Paste in Console v1.0.1 for Skyrim SE
 
@@ -995,7 +995,7 @@ standard _Ctrl+V_ command to paste something to your console.
 thought about adding it, well, like always), which you will probably use
 from time to time.*
 
-## [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
+### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
 **Optional files** - Unique Flowers and Plants for Skyrim SE DLC
 Compatible ESM Version
@@ -1009,7 +1009,7 @@ _Hide_.*
 to make it more interesting and picturesque. ESM plugin allows us not to
 worry about the mod overwriting anything we don't want to.*
 
-## [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)
+### [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)
 
 **Main files** - Cathedral - 3D Mountain Flowers
 
@@ -1021,7 +1021,7 @@ worry, there will be a reference to these instructions in the
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
 
-## [A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/50265)
+### [A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/50265)
 
 **Main files** - A Patch for Skyrim Landscape and Water Fixes and
 Cathedral Mountain Flowers
@@ -1029,7 +1029,7 @@ Cathedral Mountain Flowers
 **Optional files** - A Patch for Lanterns of Skyrim II and Cathedral
 Mountain Flowers
 
-## [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
+### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
 
 **Optional files** - More Growable Plants Simple 1.5
 
@@ -1041,11 +1041,11 @@ garlic and many other things from, but at least we know where we can get
 them from. And don’t worry, I have patched it, so you will be able to
 grow only things I consider to be immersive to be grown.*
 
-## [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
+### [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
 
 **Main files** - More Growable Plants_3D Mountain Flowers patch  
 
-## [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+### [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
 
 **Main files** - Bright Waterfall Fix for Realistic Water Two
 
@@ -1055,14 +1055,14 @@ grow only things I consider to be immersive to be grown.*
 
 *I can’t stand waterfalls being too bright at night.*
 
-## [Particle Lights for ENB - Nordic Ruins Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
+### [Particle Lights for ENB - Nordic Ruins Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
 
 **Main files** - Particle Lights for ENB - Nordic Ruins Candles
 
 *Where is a petition that everything needs to be patched for ENB to look
 magnificent? I would have signed it.*
 
-## [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
+### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
 **Main files** - Strange Runes
 
@@ -1077,7 +1077,7 @@ character.*
 
 ![image](https://user-images.githubusercontent.com/37147270/130328931-2f92e74c-1a43-4696-8404-0f2cf1a8c222.png)
 
-## [Dragonborn Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287)
+### [Dragonborn Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287)
 
 **Main files** - Dragonborn Presence
 
@@ -1089,7 +1089,7 @@ the game's root folder.
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
 
-## [The Elder Scrolls Legends - Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/37929)
+### [The Elder Scrolls Legends - Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/37929)
 
 **Main files** - TESL - Loading Screens
 
@@ -1100,7 +1100,7 @@ new loading screens appear for all time (100%).
 lore-friendly artwork of Skyrim and what it has to offer. At least
 people, who have to wait longer on them, will be pleased.*
 
-## TESL Loading Screens - Tweaks and Addons
+### TESL Loading Screens - Tweaks and Addons
 
 **Main files** - TESL LS - Tweaks and Addons -VIGOROUS-
 
@@ -1109,7 +1109,7 @@ else.
 
 *Adds even more loading screens for the last mod, fixes some typos.*
 
-## [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
+### [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
 
 **Main files** - Look what you see
 
@@ -1123,7 +1123,7 @@ Conversation Camera_'s INI, in line 47, change _bConversationHT_ to `0`.
 *Head tracking mod, which makes our player character (PC) observe
 things, which we move our cursor on.*
 
-## [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
+### [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
 
 **Main files** - First Person Camera Height Fix
 
@@ -1131,7 +1131,7 @@ things, which we move our cursor on.*
 they just named themselves like that. One other mod, which we will
 install later, will greatly help us in using this mod’s capabilities.*
 
-## [Diziet's Auto Outfits](https://www.nexusmods.com/skyrimspecialedition/mods/40801)
+### [Diziet's Auto Outfits](https://www.nexusmods.com/skyrimspecialedition/mods/40801)
 
 **Main files** - Diziet's Auto Outfits
 
@@ -1143,7 +1143,7 @@ example, I use it to change my default gear to ordinary clothing with
 speech etc. enchantments for traders, when I am inside big cities.
 Otherwise I will probably forget to do that.*
 
-## [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184)
+### [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184)
 
 **Main files** - Serio's Cycle Hotkeys
 
@@ -1155,7 +1155,7 @@ get my ward spell and Thunderbolt to deal with that pesky bandit mage.
 You can set whatever buttons you want as these hotkeys. Pretty detailed
 instructions on how to use the mod can be found in the mod's page.*
 
-## [Hide Your Quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125)
+### [Hide Your Quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125)
 
 **Main files** - Hide Your Quests 1.0.1
 
@@ -1163,7 +1163,7 @@ instructions on how to use the mod can be found in the mod's page.*
 option to hide a quest you will do later from your journal by using
 MCM.*
 
-## [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
+### [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
 
 **Main files** - Forget Spell
 
@@ -1174,14 +1174,14 @@ anymore. Why would I need to clutter my menu with Flames, while I am
 level 80 mage. You will see an option to forget spells in your spells
 menu.*
 
-## [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
+### [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
 
 **Main files** - AddItemMenuSE_114_SKSE2019
 
 *A mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I hope you won’t use it for cheating.*
 
-## [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
+### [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
 
 **Main files** - Sweeping Organizes Stuff - Use Broom to Clean Mess
 
@@ -1189,7 +1189,7 @@ offer inside their plugins. I hope you won’t use it for cheating.*
 just wanted to make some chaos, now you can clean the mess by using a
 broom from your inventory.*
 
-## [Hearthfire Multiple Adoptions and Custom Home Support](https://www.nexusmods.com/skyrimspecialedition/mods/3862)
+### [Hearthfire Multiple Adoptions and Custom Home Support](https://www.nexusmods.com/skyrimspecialedition/mods/3862)
 
 **Main files** - Hearthfire Multiple Adoptions and Custom Home Support
 SE
@@ -1197,21 +1197,21 @@ SE
 *Not only allows you to adopt more children, but also to bring your
 spouse and kids to the new houses we have added.*
 
-## [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329)
+### [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329)
 
 **Main files** - Dragon Claws Auto-Unlock (Simultaneous)
 
 *I don’t want to check these claw combinations again and again. It was
 fun, when Skyrim was a new game for me.*
 
-## [No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)
+### [No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)
 
 **Main files** - NoLockPicking v2
 
 *Removes the lock picking mini-game (annoying) from the game and now
 actually uses your lockpicking skill to open doors and chests.*
 
-## [BlockSteal](https://www.nexusmods.com/skyrimspecialedition/mods/18732)
+### [BlockSteal](https://www.nexusmods.com/skyrimspecialedition/mods/18732)
 
 **Main files** - Blocksteal_010_SKSE2017
 
@@ -1220,14 +1220,14 @@ won’t get punished by just wanting to take another item, which that
 annoying, but expensive cup was near. There is also an option to press
 on items multiple times, which is configurable through MCM.*
 
-## [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
+### [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
 
 **Main files** - Scion - Vampiric Sunscreen Plugin
 
 *If you wear any type of headgear, while being outdoors, like our
 vampire friend Serana does, you won’t be destroyed by sun damage.*
 
-## [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
+### [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
 
 **Main files** - Dragonborn - Shouts Perk Tree
 
@@ -1238,7 +1238,7 @@ than other characters, and this mod does that by giving us experience
 and perk points for shouting and killing dragons and a unique skill tree
 for spending these.*
 
-## [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
+### [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
 
 **Main files** - Smart NPC Potions
 
@@ -1247,13 +1247,13 @@ and use some potions. And not just healing potions, which they already
 use, to make our lives a little bit harder. Everything, for instance, a
 chance of them having a potion, is configurable by MCM.*
 
-## [Don't Stay in The Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
+### [Don't Stay in The Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
 
 **Main files** - Don't Stay in The Water
 
 *Now you won’t be able to “outsmart” your enemies by going into water.*
 
-## [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
+### [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
 
 **Main files** - Simply Knock SE 1.0.3 Release
 
@@ -1262,13 +1262,13 @@ saved his family friend during the night, not to wait for 8 hours, when
 she will wake up. Or to check if people are home for sneaky shenanigans.
 This mod allows us to do that.*
 
-## [Simply Knock SKSE64 DLL](https://www.nexusmods.com/skyrimspecialedition/mods/24297)
+### [Simply Knock SKSE64 DLL](https://www.nexusmods.com/skyrimspecialedition/mods/24297)
 
 **Main files** - SimplyKnockSE SKSE64 2.0.19 DLL
 
 *An update for the mod to work.*
 
-## [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
+### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
 
 **Main files** - Guiding Wisp
 
@@ -1277,20 +1277,20 @@ This mod allows us to do that.*
 *Finally makes Clairvoyance spell useful by making it summon a wisp that
 leads you to your quest objective.*
 
-## [Gildergreen Regrown](https://www.nexusmods.com/skyrimspecialedition/mods/348)
+### [Gildergreen Regrown](https://www.nexusmods.com/skyrimspecialedition/mods/348)
 
 **Main files** - Gildergreen Regrown
 
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
 
-## [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
+### [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
 
 **Main files** - Angi's Camp Tweaks
 
 *Quality of life changes for Agni’s training session.*
 
-## [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259)
+### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259)
 
 **Main files** - More Werewolves
 
@@ -1299,7 +1299,7 @@ traversing the area around Morthal.*
 
 **FOMOD** - `Standalone version, RFYL Patch`.
 
-## [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
+### [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
 
 **Main files** - Canis Hysteria
 
@@ -1307,7 +1307,7 @@ traversing the area around Morthal.*
 
 *Finally you can become a werewolf without joining the Companions if you aren’t the type in the immersive way.*
 
-## [Werewolf Aela](https://www.nexusmods.com/skyrimspecialedition/mods/29155)
+### [Werewolf Aela](https://www.nexusmods.com/skyrimspecialedition/mods/29155)
 
 **Main files** - Werewolf Companions v1.3 FOMOD
 
@@ -1320,7 +1320,7 @@ Aela transform into werewolf, if she is badly hurt. Aela will always
 want to stay as werewolf, not like Farkas and Vilkas, who can be cured,
 so I have decided that it will be enough just with her.*
 
-## [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
+### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
 
 **Main files** - DIVERSE SKYRIM SSE
 
@@ -1328,24 +1328,24 @@ so I have decided that it will be enough just with her.*
 mages etc. will also include some Khajiits, Argonians from time to time
 etc.*
 
-## [DIVERSE SKYRIM - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514)
+### [DIVERSE SKYRIM - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514)
 
 **Main files** - DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
 
 *And let’s also fix them and make them better to look at.*
 
-## [Diverse Skyrim - Battle of Whiterun Fix](https://www.nexusmods.com/skyrimspecialedition/mods/47939https://www.nexusmods.com/skyrimspecialedition/mods/47939)
+### [Diverse Skyrim - Battle of Whiterun Fix](https://www.nexusmods.com/skyrimspecialedition/mods/47939https://www.nexusmods.com/skyrimspecialedition/mods/47939)
 
 **Main files** - Diverse Skyrim Battle of Whiterun Fix
 
-## [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
+### [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
 
 **Main files** - CWN - Civil War Neutrality SSE
 
 *Let Stormcloaks and the Empire play their own games, while being
 neutral, but getting your deserved reward.*
 
-## [Catir’s College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
+### [Catir’s College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
 
 **Main files** - Catir's College Creatures
 
@@ -1353,7 +1353,7 @@ neutral, but getting your deserved reward.*
 Winterhold quest line. You have been warned, don’t sneak peek at the
 description of the mod.*
 
-## [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201)
+### [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201)
 
 **Main files** - End Times SE
 
@@ -1362,7 +1362,7 @@ you don’t listen then your game will be over.*
 
 ---
 
-# MUSIC & SOUND FX (optional)
+## Music & Sound FX (optional)
 
 Create a separator and name it `MUSIC & SOUND FX EXTENDED` and place it
 directly below the *SOUND FX* separator (and its mods). Change its
@@ -1379,34 +1379,34 @@ same one Phoenix offers in her TPF-X, so all credit goes to those
 wonderful people, who made it, and Phoenix for finding these pearls and
 making a patch for them.
 
-## [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
+### [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
 
 **Main files** - Talkative Dragons
 
 *For species, which can actually speak the way that humans understand,
 dragons in the game don’t like to speak at all. Let’s change that.*
 
-## [Talkative Dragons - Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269)
+### [Talkative Dragons - Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269)
 
 **Main files** - TDReplacer
 
 *Just a little replacer for some voice lines in the original mods, which
 sounded a little bit too silly.*
 
-## [Nordic Shouts - Enigma Series](https://www.nexusmods.com/skyrimspecialedition/mods/41401)
+### [Nordic Shouts - Enigma Series](https://www.nexusmods.com/skyrimspecialedition/mods/41401)
 
 **Main files** - Nordic Shouts - Enigma Series All In One-
 
 *An author of the mod has done a great job with filters to make male
 shouts sound better.*
 
-## [Better Sounding Female Dragon Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/18637)
+### [Better Sounding Female Dragon Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/18637)
 
 **Main files** - HPFSV All in One
 
 *Exactly.*
 
-## [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
+### [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
 
 **Main files** - BA_BardSongs_FOMOD
 
@@ -1414,43 +1414,43 @@ shouts sound better.*
 
 *Exactly x2. Don’t worry, they are also immersive.*
 
-## [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200)
+### [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200)
 
 **Main files** - Musical Lore V1.2
 
 **Delete** - delete `NirShor-MusicalLore.esp`.
 
-## [The Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108)
+### [The Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108)
 
 **Main files** - The Northerner Diaries - Skyrim and Solstheim
 
 **Delete** - delete `Northerner Diaries in Skyrim.esp`.
 
-## [Still - Skyrim Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/19401)
+### [Still - Skyrim Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/19401)
 
 **Main files** - Still - ESP Version
 
 **Delete** - delete `Still.esp`.
 
-## [Hun Lovaas - Skyrim Fan-Made Combat Music](https://www.nexusmods.com/skyrimspecialedition/mods/16123)
+### [Hun Lovaas - Skyrim Fan-Made Combat Music](https://www.nexusmods.com/skyrimspecialedition/mods/16123)
 
 **Main files** - Hun Lovaas - ESP version
 
 **Delete** - delete `Hun Lovaas.esp`.
 
-## [Melodies of Civilization - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/30014)
+### [Melodies of Civilization - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/30014)
 
 **Main files** - Melodies of Civilization 1.01
 
 **Delete** - delete `Melodies of Civilization.esp`.
 
-## [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144)
+### [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144)
 
 **Main files** - Around the Fire
 
 **Delete** - delete `Around the Fire.esp`.
 
-## [Dawnguard Music Overhaul - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/48613)
+### [Dawnguard Music Overhaul - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/48613)
 
 **Main files** - Dawnguard Music Overhaul - Main Module
 
@@ -1459,14 +1459,14 @@ shouts sound better.*
 **Instructions** - merge both files and then delete `Dawnguard Music
 Overhaul.esp` and `Dawnguard Music Overhaul - Combat.esp`.
 
-## [Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725)
+### [Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725)
 
 **Main files** - Yet Another Music Merge
 
 *Phoenix’s merge of all the music mods as well as a patch combining
 their tracks in the playlists.*
 
-## [TPF Dragon’s Edition - Quests & Music Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [TPF Dragon’s Edition - Quests & Music Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Optional files** - TPF Dragon’s Edition - Quests & Music Patch
 
@@ -1475,7 +1475,7 @@ mod.*
 
 ---
 
-# APPEARANCE
+## Appearance
 
 Overall, I am happy with TPF’s appearance section, but the humanoid
 player character’s skin texture choice is not as good as it doesn’t give
@@ -1493,14 +1493,14 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
+### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
 
 *When I saw Harkon for the first time, well, it was a little bit sad
 that Vampire Lord looks like a noodle. And with that mass, he probably
 looked awkward, when he used melee combat against us. Let’s separate
 Vampire Lords even more from senile ordinary vampires.*
 
-## [FK's Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/38563)
+### [FK's Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/38563)
 
 **Main files** - FK's Diverse Racial Skeletons
 
@@ -1513,7 +1513,7 @@ unique height and form, so wish some luck to Wood Elves at getting any
 attention from HIGH Elves. And now you will think twice before touching
 that big orc. Really lore-immersive mod.*
 
-## [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+### [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
 
 **Main files** - Tempered Skins for Males - Dressed Version
 
@@ -1527,7 +1527,7 @@ appearance, as each of the skins for both males and females is so
 customizable you won’t need any other mod. And that’s why I also give
 you a choice to make in FOMOD.*
 
-## [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186)
+### [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186)
 
 **Main files** - Grey Cat and Leopard Vanilla v1.1 - 2K Res Pack
 
@@ -1538,7 +1538,7 @@ will need to choose a different version of Masculine Khajiit Textures.
 Rename it to just Masculine Khajiit Textures or Masculine Khajiit
 Rextures - TPF Dragon’s Edition to install it as a separate mod.*
 
-## [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185)
+### [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185)
 
 **Main files** - Masculine Chameleon and Lizard (Vanilla) 2K
 
@@ -1548,28 +1548,28 @@ Rextures - TPF Dragon’s Edition to install it as a separate mod.*
 they don’t work with the mod, so let’s use argonian skin texture from
 the same author, which textures we use for Khajiits.*
 
-## [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
+### [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
 
 **Main files** - Tempered Skins for Females UNP and Vanilla
 
 **FOMOD** - `A7 and F none`, for other things you can choose whatever
 options you like. `My recommendations - B01, C2, D1, E2`.
 
-## [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
+### [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
 
 **Main files** - Feminine Khajiit Textures (Grey Cat and Leopard)
 Vanilla
 
 **FOMOD** - `2K, Grey Cat, Abs`.
 
-## [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
+### [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
 
 **Main files** - Feminine Argonian Textures (Chameleon and Lizard)
 Vanilla
 
 **FOMOD** - `2K, Lizard, Abs`.
 
-## [Sandow Plus Plus - Ripped Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/34632)
+### [Sandow Plus Plus - Ripped Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/34632)
 
 **Main files** - Sandow Plus Plus - Ripped Bodies
 
@@ -1584,7 +1584,7 @@ body, then again every race)`.
 *The weight slider in Racemenu will also make us more ripped, not just
 bigger.*
 
-## [Just No Tails](https://www.nexusmods.com/skyrimspecialedition/mods/5051)
+### [Just No Tails](https://www.nexusmods.com/skyrimspecialedition/mods/5051)
 
 **Main files** - Nooo Mooore Taiiiiiils
 
@@ -1595,7 +1595,7 @@ have been such a bother to do), so the sight of our tail clipping
 through armor looks awkward. The best and the most easy solution is just
 to hide tails.*
 
-## [Grimoas Plantigrade Feet For Beast Races](https://www.nexusmods.com/skyrim/mods/16976)
+### [Grimoas Plantigrade Feet For Beast Races](https://www.nexusmods.com/skyrim/mods/16976)
 
 **Main files** - Grimoas Plantigrade Feet For Beast Races v 1_4
 
@@ -1604,14 +1604,14 @@ to hide tails.*
 *A resource from Skyrim LE to make our next mod work (thank you very
 much).*
 
-## Barefoot Beast Project (Greaves and [Legwraps for Plantigrade Feet)](https://www.nexusmods.com/skyrimspecialedition/mods/45672)
+### Barefoot Beast Project (Greaves and [Legwraps for Plantigrade Feet)](https://www.nexusmods.com/skyrimspecialedition/mods/45672)
 
 **Main files** - Barefoot Beast Project
 
 *Now we won’t need to imagine anymore how our poor Argonian puts those
 little boots on.*
 
-## [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/)
+### [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/)
 
 High_Poly_Head_v1.4\_(SE).zip
 
@@ -1622,13 +1622,13 @@ Fix, Symmetrical Eyes (Female)`.
 *With this your dreams of making an even more perfect face for your
 character shouldn't wait for long anymore.*
 
-## [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932)
+### [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932)
 
 **Optional files** - KS Hairdos Lite SE NoNPCs
 
 *Little fancy hair mod for us.*
 
-## [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
+### [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
 
 **Main files** - KS Hairdos SMP
 
@@ -1636,7 +1636,7 @@ character shouldn't wait for long anymore.*
 
 ---
 
-# ANIMATIONS
+## ANIMATIONS
 
 At first, you will need to change Simple Dual Sheath INI to make OUR
 shield appear on the back, because later we will make our placement for
@@ -1668,7 +1668,7 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [Undeath - XPMSSE - Strange Runes - Skeleton Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50694)
+### [Undeath - XPMSSE - Strange Runes - Skeleton Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50694)
 
 **Main files** - Undeath - XPMSSE - Strange Runes - Skeleton Patch
 
@@ -1676,7 +1676,7 @@ separator in the same order.
 character in some scenarios would have been invisible and their spell
 runes would have appeared near their feet, so let’s put it here.*
 
-## [Ultimate Combat and Creature Behaviour's Nemesis Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
+### [Ultimate Combat and Creature Behaviour's Nemesis Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
 
 **Main files** - Ultimate Combat and Creature Behaviour's Nemesis
 Compatibility
@@ -1685,13 +1685,13 @@ Compatibility
 
 **FOMOD** - Don’t change anything.
 
-## [Dragon Priest Fix - Behaviour Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51608)
+### [Dragon Priest Fix - Behaviour Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51608)
 
 **Main files** - Dragon Priest Fix - Behaviour Overhaul - ESL
 
 **Optional files** - Dragon Priest Behaviour Overhaul - Undeath Patch
 
-## [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
+### [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
 
 **Main files** - Undead summons emerge from the ground
 
@@ -1699,14 +1699,14 @@ Compatibility
 universe, but it still doesn’t make sense for soul’s physical form to
 appear out of thin air, so here we go.*
 
-## [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
+### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
 **Main files** - Conditional Expressions
 
 *Gives our character a bit of emotions, to finally make us not look like
 a piece of living rock.*
 
-## [Jog & Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/15881)
+### [Jog & Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/15881)
 
 **Main files** - Jog Sprint and Jump
 
@@ -1718,7 +1718,7 @@ includes *Jump Behavior Overhaul*, right-clicking on them and choosing
 
 *Realistic animations for sprinting and running.*
 
-## [Dynamic Swimming](https://www.nexusmods.com/skyrimspecialedition/mods/34853)
+### [Dynamic Swimming](https://www.nexusmods.com/skyrimspecialedition/mods/34853)
 
 **Main files** - DAR - Dynamic Swimming
 
@@ -1729,7 +1729,7 @@ includes *Jump Behavior Overhaul*, right-clicking on them and choosing
 *Vanilla swimming animation looks shabby, so let it be used just for
 people, who like to swim with heavy armour equipped.*
 
-## [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157)
+### [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157)
 
 **Main files** - Crouch Sliding Main
 
@@ -1741,14 +1741,14 @@ people, who like to swim with heavy armour equipped.*
 hide behind cover as soon as you can, just press your sneaking button
 while sprinting.*
 
-## [Crouch Sliding - Remove Ragdolling for Good](https://www.nexusmods.com/skyrimspecialedition/mods/46828)
+### [Crouch Sliding - Remove Ragdolling for Good](https://www.nexusmods.com/skyrimspecialedition/mods/46828)
 
 **Main files** - Crouch Sliding - Remove Ragdolling for Good
 
 *Removes one overpowered mechanic from the previous mod, so you won’t
 even know that it was there in the first place.*
 
-## [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
+### [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
 
 **Main files** - TK Dodge SE
 
@@ -1761,13 +1761,13 @@ directional key two times to dodge in that direction. I chose the side
 step version, because I don’t see characters with heavy armour rolling
 around at all, even in this fantasy world, but sidestep is alright.*
 
-## [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
+### [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
 
 **Main files** - Thu'um - Animated Shouts
 
 *Do you even need to ask me why? This is epic.*
 
-## [Magic Casting Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215)
+### [Magic Casting Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215)
 
 **Main files** - Magic Casting Animations Overhaul SSE
 
@@ -1775,34 +1775,34 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 **FOMOD** - `Cast damage, cast self` and `staff cast`.
 
-## [New Animation for Magic Casting](https://www.nexusmods.com/skyrimspecialedition/mods/31989)
+### [New Animation for Magic Casting](https://www.nexusmods.com/skyrimspecialedition/mods/31989)
 
 **Optional files** - New Animation for magic cast v0.8
 
 **Hide** - hide `staffright_idle.hkx` and `staff_idle.hkx`.
 
-## [War Hammer and Battle Axe Movement Fix](https://www.nexusmods.com/skyrimspecialedition/mods/51615)
+### [War Hammer and Battle Axe Movement Fix](https://www.nexusmods.com/skyrimspecialedition/mods/51615)
 
 **Main files** - SSE Version
 
-## [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
+### [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
 **Main files** - Pretty Combat Animations 1.38
 
 **FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer` two
 times, `2hm Block, 2hm Sprint`.
 
-## [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
+### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
 **Main files** - PCA-1hm Overhaul 1.13c SSE
 
 **FOMOD** - `Guardian, choose _Skip_ option 4 times, 1hm Block, 1hm
 Sprint, Origin Dw Sprint_Type A`.
 
-## [Blocking Animation Pack](https://www.nexusmods.com/skyrimspecialedition/mods/4352)
+### [Blocking Animation Pack](https://www.nexusmods.com/skyrimspecialedition/mods/4352)
 
 **Main files** - Blocking Animation Pack v1.5--SSE 
 
-## [First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
+### [First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
 
 **Main files** - First Person Magic Animation for SSE
 
@@ -1810,11 +1810,11 @@ Sprint, Origin Dw Sprint_Type A`.
 
 *Improvements for our 1st person animations.*
 
-## [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177)
+### [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177)
 
 **Main files** - FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
 
-## [1st Person Parry Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20374)
+### [1st Person Parry Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20374)
 
 **FOMOD** - `01, 02, 03`.
 
@@ -1822,7 +1822,7 @@ Sprint, Origin Dw Sprint_Type A`.
 
 ---
 
-# NPC OVERHAULS
+## NPC OVERHAULS
 
 As you probably understood (I hope), this project definitely goes over
 vanilla+ mark (of course, you are using all those mods, what do you even
@@ -1863,7 +1863,7 @@ where this incorrect NPC is.
 
 ![image](https://user-images.githubusercontent.com/37147270/130331187-55046f91-3255-4c24-98b8-b6a6afbcd183.png)
 
-## [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
+### [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
 
 **Main files** - Shield Sisters Re-Imagined UNP
 
@@ -1874,7 +1874,7 @@ where this incorrect NPC is.
 *One of the newest additions to NPC overhauls of Skyrim, which spices
 things up. Has Bijin series’ mods vibes, but feels more unique.*
 
-## [Pandorable’s NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
+### [Pandorable’s NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
 
 **Main files** - Pandorable's NPCs SE
 
@@ -1885,11 +1885,11 @@ LE's Unofficial Patch in her FOMOD), `no warpaint only for Voldsea`.
 only cover the most notable NPCs of Skyrim, but also give each of them a
 bit of charisma.*
 
-## [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
+### [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
 
 **Main files** - Pandorable's NPCs - Dawnguard SE - USSEP
 
-## [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
+### [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
 
 **Main files** - Pandorable's NPCs - Dragonborn SE
 
@@ -1898,13 +1898,13 @@ bit of charisma.*
 **FOMOD** - `Alternative for Fanari-Strong-Voice, Ralis Sedarys, Captain
 Veleth, Wulf Wild-Blood, USSEP`.
 
-## [Pandorable's NPCs - Males](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
+### [Pandorable's NPCs - Males](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
 
 **Main files** - Pandorable's NPCs - Males SE
 
 **FOMOD** - `Alternative for Savos, Cicero, Larak, Madanach, USSEP`.
 
-## [Pandorable's NPCs - Males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
+### [Pandorable's NPCs - Males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
 
 **Main files** - PAN_NPCs - Males 2
 
@@ -1913,7 +1913,7 @@ Burguk, alternative for Chief Mauhulakh, Athis, Skjor, alternative 2 for
 Vilkas and Farkas, alternative for Falion, Erik The Slayer, Unmid
 Snow-Shod, USSEP`.
 
-## [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349)
+### [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349)
 
 **Main files** - Northbourne NPCs of The Rift - Full Version
 
@@ -1925,19 +1925,19 @@ files. Do the same process with `0001541b`.
 *Another newest NPC overhaul series, which I like the most right now,
 because it has high poly faces and almost each of those looks diverse.*
 
-## [Northbourne NPCs of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/43413)
+### [Northbourne NPCs of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/43413)
 
 **Main files** - Northbourne NPCs of Winterhold Full Version
 
 **Hide facegen files** - Hide `0001c19f` files.
 
-## [Northbourne NPCs of Haafingar](https://www.nexusmods.com/skyrimspecialedition/mods/48481)
+### [Northbourne NPCs of Haafingar](https://www.nexusmods.com/skyrimspecialedition/mods/48481)
 
 **Main files** - Northbourne NPCs of Haafingar
 
 **Hide facegen files** - Hide `0001326a` files.
 
-## [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
+### [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
 
 **Main files** - The Ordinary Women SSE 4.0
 
@@ -1948,20 +1948,20 @@ because it has high poly faces and almost each of those looks diverse.*
 *Definitely the most immersive looks for women of Skyrim in all Nexus,
 which slightly outshine blocky vanilla faces.*
 
-## [Northbourne NPCs of Falkreath Hold](https://www.nexusmods.com/skyrimspecialedition/mods/37528)
+### [Northbourne NPCs of Falkreath Hold](https://www.nexusmods.com/skyrimspecialedition/mods/37528)
 
 **Main files** - Northbourne NPCs of Falkreath Hold - Full Version
 
 **Hide facegen files** - Hide `0001bdb1` files.
 
-## [Northbourne NPCs of Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/35404)
+### [Northbourne NPCs of Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/35404)
 
 **Main files** - Northbourne NPCs of Whiterun Hold - Full Version
 
 **Hide facegen files** - Hide `0001a694, 0001a692, 0001a6d7, 0001a6d5,
 000a2c8e` files.  
 
-## [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
+### [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
 
 **Main files** - Kalilies NPCs
 
@@ -1973,7 +1973,7 @@ which slightly outshine blocky vanilla faces.*
 which covers NPCs that those two mods aren't touching and a little bit
 more.* 
 
-## [Pandorable's Black-Briar Ladies](https://www.nexusmods.com/skyrimspecialedition/mods/33731)
+### [Pandorable's Black-Briar Ladies](https://www.nexusmods.com/skyrimspecialedition/mods/33731)
 
 **Main files** - Pandorable's Black-Briar Ladies
 
@@ -1983,7 +1983,7 @@ more.*
 
 **Optional files** - AI Overhaul patch
 
-## [Refined Volkihars](https://www.nexusmods.com/skyrimspecialedition/mods/35892)
+### [Refined Volkihars](https://www.nexusmods.com/skyrimspecialedition/mods/35892)
 
 **Main files** - Refined Volkihars SSE - The Fangs Update
 
@@ -1999,7 +1999,7 @@ aesthetic.*
 You will need to enable the patch only after you cure Serana to make
 her look like a human.
 
-## [Hood Plus Hair for Pandorable's Serana](https://www.nexusmods.com/skyrimspecialedition/mods/40972)
+### [Hood Plus Hair for Pandorable's Serana](https://www.nexusmods.com/skyrimspecialedition/mods/40972)
 
 **Main files** - Hood Plus Hair for Pandorables Serana SHORT hair KS
 Soundwave
@@ -2014,11 +2014,11 @@ someone in Bethesda has thought that it would be a good idea that AI
 data and character’s appearance data should be included in one record.
 Thank Todd for that.
 
-## [Shield Sisters Re-Imagined - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44263)
+### [Shield Sisters Re-Imagined - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44263)
 
 **Main files** - Shield Sisters Re-Imagined - AI Overhaul Patch
 
-## [Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/53197)
+### [Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/53197)
 
 **Main files** - Pandorable's NPCs - AI Overhaul Patch
 
@@ -2029,7 +2029,7 @@ Patch
 
 **Main files** - Pandorable's NPCs - Males 2 - AI Overhaul Patch
 
-## Pandorable's NPCs - Dragonborn - AI Overhaul Patch
+### Pandorable's NPCs - Dragonborn - AI Overhaul Patch
 
 **Move** - move the patch, which we have downloaded before, here (that
 is below *Pandorable's NPCs - Males 2 - AI Overhaul Patch* in your MO2
@@ -2037,15 +2037,15 @@ left side). Moving on the left side doesn’t matter for patches, but I
 just want everything to be in place and organized like it should be -
 patches for AI Overhaul should be placed after all NPC overhauls).
 
-## Pandorable's NPCs - Males - AI Overhaul Patch
+### Pandorable's NPCs - Males - AI Overhaul Patch
 
 **Move** - move the patch here.
 
-## Pandorable's NPCs - Males 2 - AI Overhaul Patch
+### Pandorable's NPCs - Males 2 - AI Overhaul Patch
 
 **Move** - move the patch here.
 
-## [USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/45620)
+### [USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/45620)
 
 **Main files** - USSEP - Northbourne NPCs of the Rift - AI Overhaul
 Patch
@@ -2062,29 +2062,29 @@ Overhaul Patch
 **Main files** - USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul
 Patch
 
-## [USSEP - The Ordinary Women - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41371)
+### [USSEP - The Ordinary Women - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41371)
 
 **Main files** - USSEP - The Ordinary Women - AI Overhaul Patch
 
-## USSEP - Northbourne NPCs of Falkreath Hold - AI Overhaul Patch
+### USSEP - Northbourne NPCs of Falkreath Hold - AI Overhaul Patch
 
 **Move** - move the patch here.
 
-## USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul Patch
+### USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul Patch
 
 **Move** - move the patch here.
 
-## [Updated Kalilies NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53322)
+### [Updated Kalilies NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53322)
 
 **Main files** - AI Overhaul - Kalilies NPCs Patch
 
-## Pandorable's Black-Briar Ladies - AI Overhaul Patch
+### Pandorable's Black-Briar Ladies - AI Overhaul Patch
 
 **Move** - move the patch here.
 
 ---
 
-# SALT & WIND HAIR RETEXTURES
+## Salt & Wind Hair Retextures
 
 Now we will make our hair mods (and some of our overhauled NPCs’ hairs)
 blend a little bit better with vanilla ones.
@@ -2096,7 +2096,7 @@ its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [KS Hairdos 1.7 - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975)
+### [KS Hairdos 1.7 - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975)
 
 **Miscellaneous files** - Cuyima Interesting NPCs - Salt and Wind
 
@@ -2112,21 +2112,21 @@ separator in the same order.
 
 **Miscellaneous files** - The Ordinary Women - Salt and Wind
 
-## [Salt and Wind - Rough Hair for Apachii Sky Hair](https://www.nexusmods.com/skyrimspecialedition/mods/16909)
+### [Salt and Wind - Rough Hair for Apachii Sky Hair](https://www.nexusmods.com/skyrimspecialedition/mods/16909)
 
 **Main files** - Salt and Wind - ApachiiSkyHair SE v1.6 Retexture
 
-## [Pandorable's Males - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44336)
+### [Pandorable's Males - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44336)
 
 **Main files** - Pandorable's Males - Salt and Wind
 
-## [Kalilies NPCs - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335)
+### [Kalilies NPCs - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335)
 
 **Main files** - Kalilies NPCs - Salt and Wind
 
 ---
 
-# FINAL PATCHES
+## Final Patches
 
 Create a separator and name it `TPF DRAGON’S EDITION - FINAL PATCHES`
 and place it directly below the *SALT & WIND HAIR RETEXTURES* separator
@@ -2139,7 +2139,7 @@ separator in the same order.
 I have decided to make patches modular, so it is faster and easier for
 me to check things inside.
 
-## [TPF Dragon’s Edition - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [TPF Dragon’s Edition - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Main files** - TPF Dragon’s Edition - New Content Patch
 
@@ -2161,13 +2161,13 @@ Patch
 
 ---
 
-# ALTERNATE START
+## Alternate Start
 
 Create a separator and name it `ALTERNATE START` and place it directly
 below the *TPF DRAGON’S EDITION - FINAL PATCHES* separator (and its
 mods). Change its colour, so that it won't be the same as TPF's ones.
 
-## [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553)
+### [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553)
 
 **Main files** - Ralof or Hadvar (saved in form 44)
 
@@ -2176,13 +2176,13 @@ with Ralof or Hadvar. In some way it isn't an alternate start, but at
 the same time it is. What matters is this mod’s simplicity, which allows
 us to jump right into the action.*
 
-## [TPF Dragon’s Edition - Alternate Start Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [TPF Dragon’s Edition - Alternate Start Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Main files** - Alternate Start Patch
 
 ---
 
-# PATCHER OUTPUT
+## Patcher Output
 
 Create a separator and name it `TPF DRAGON’S EDITION - PATCHER OUTPUT`
 and place it directly below the *PATCHER OUTPUT* separator (and its
@@ -2193,7 +2193,7 @@ separator in the same order.
 
 After enabling these outputs, disable TPF’s outputs.
 
-## [TPF Dragon’s Edition - Outputs](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [TPF Dragon’s Edition - Outputs](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Main files** - TPF Dragon’s Edition - Nemesis Output
 
@@ -2211,7 +2211,7 @@ medium INIs and performance grass mods
 
 ---
 
-# CONFIGURATIONS
+## Configurations
 
 And finally it is almost the end of the guide. Only some things to do,
 so let’s get it done.
@@ -2261,7 +2261,7 @@ The same process must be done with:
 
 Then you will need to redownload one mod.
 
-## [Simple Player Homes Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/37236)
+### [Simple Player Homes Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/37236)
 
 **Main files** - Simple Home Improvements AIO (Proudspire 4 Beds)
 
@@ -2274,7 +2274,7 @@ Improvements in the _MISCELLANEOUS_ section.
 After that is done, click anywhere in the load order panel and select
 *Enable all*. Then...
 
-## [TPF Dragon’s Edition - Load Order](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [TPF Dragon’s Edition - Load Order](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Main files** - Load Order
 
@@ -2407,7 +2407,7 @@ somewhere around Riverwood.
 
 ---
 
-# THANK YOU!
+## Thank You
 
 That’s all, folks! You are set to traverse into another modded world of
 Skyrim.
@@ -2429,7 +2429,7 @@ section of the add-on.
 
 ---
 
-# ENB
+## ENB
 
 I love colours and to actually see where I am going, when playing the
 game.
@@ -2463,7 +2463,7 @@ change ENB files and add a good addition for it.
 
 *(ft. a mod in development, which soon will be released, by Monty)*
 
-## [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
+### [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
 **Main files** - D) Silent Horizons ENB for Cathedral Weathers
 
@@ -2512,7 +2512,7 @@ how to start some newly added quests.
 
 ---
 
-# GAMEPLAY GUIDE
+## GAMEPLAY GUIDE
 
 Just a little heads up and how and when and how you should start newly
 added quests.
@@ -2521,7 +2521,7 @@ The quests, which are added to the add-on, can be split between early
 and mid game and late game ones, because their difficulty slightly
 differs.
 
-### Early and Mid Game Quests
+#### Early and Mid Game Quests
 
 **Winterhold Deep Sea Ruins** - Can be started any time by going northeast
 from Winterhold. A journal can be found there in small ruins, which will
@@ -2569,7 +2569,7 @@ when the mod starts.
 pickpocketing or stealing anything. Level 30-35 is recommended, for
 thief characters (sneaking and pickpocketing).
 
-### Late Game Quests
+#### Late Game Quests
 
 **Undeath** - Automatically without anything happening after reaching level
 30 (I know, not immersive, unfortunately the patch for making it start
@@ -2613,7 +2613,7 @@ while exploring.
 
 ---
 
-# BUGS
+## BUGS
 
 I am sorry if you need to use this paragraph.
 
@@ -2652,7 +2652,7 @@ Report requirements:
     example), of course, you don’t need to write the same thing
     again).
 
-### Example
+#### Example
 
 ***Black Face***
 
