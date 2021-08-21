@@ -853,16 +853,16 @@ Nothing much as you will get plenty of goodies from new and old quests -
 just some new weapons to our favourite NPCs to show their status and
 power and different looking variants of gear for players.
 
-Create a separator and name it *APPAREL & WEAPONS EXTENDED* and place it
+Create a separator and name it `APPAREL & WEAPONS EXTENDED` and place it
 directly below the *APPAREL & WEAPONS* separator (and its mods). Change
 its colour, so that it won't be the same as TPF's ones.
 
-﻿All of the following mods in this category will be placed under this
+All of the following mods in this category will be placed under this
 separator in the same order.
 
 You will need to make an account on another modding website (yes, there
 isn’t just *Nexus*, but not many other services are as reliable) called
-[*<u>VectorPlexus</u>*](https://vectorplexus.com/), because three mods,
+[VectorPlexus](https://vectorplexus.com/), because three mods,
 which we need for completion of the add-on, are available only from
 there. Be warned that much content there is NSFW related, so if you
 don’t want to see that, just make an account and follow my instructions.
@@ -872,7 +872,7 @@ from here, there will be a button *Download this file*. If mod has
 different versions, there will be instructions on which one to get like
 always.
 
-## Elemental Staffs
+## [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
 
 **Main files** - Elemental Staffs SE
 
@@ -883,7 +883,7 @@ always.
 *Alters the appearance of almost all staffs to appear more like they are
 imbued with the power of magic we are actually using them for.*
 
-## KD Circlets Redone by zzjay
+## [KD Circlets Redone by zzjay](https://www.nexusmods.com/skyrimspecialedition/mods/10320)
 
 **Main files** - KD Cirlets by zzjay main file
 
@@ -893,20 +893,20 @@ at some of these minimalistic and sweet circlets, I have decided that a
 bunch of people will use them. They can be obtained only by crafting at
 forge.*
 
-## Heavy Armored Pants
+## [Heavy Armored Pants](https://vectorplexus.com/files/file/404-heavy-armored-pants/)
 
 *You will be able to get these in exchange for their counterparts (heavy
 armors) in Skyrim. Just use any forge for that. Tempered the same way as
 any other armor, pants have the same stats as their counterparts.*
 
-<img src="media/image1.png" style="width:5.20313in;height:4.61008in" />
+![image](https://user-images.githubusercontent.com/37147270/130328192-84efd439-a1bd-4893-a77d-989d9c48799c.png)
 *(ft. mods in Appearance section)*
 
-## Royal Armory - New Artifacts
+## [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
 
 **Main files** - Royal Armory V2.2
 
-## PrivateEye’s Royal Armory - Reforged
+## [PrivateEye’s Royal Armory - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/28006)
 
 **Main files** - Royal Armory - Reforged - Main Replacer 1.1
 
@@ -918,13 +918,13 @@ any other armor, pants have the same stats as their counterparts.*
 
 **Merge** - Merge all files.
 
-## Royal Armory - New Artifacts Plugin Replacer
+## [Royal Armory - New Artifacts Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/44392)
 
 **Main files** - Royal Armory - Replacer
 
-**FOMOD** - Obscure’s College of Winterhold - Cell Setting Patch.
+**FOMOD** - `Obscure’s College of Winterhold - Cell Setting Patch`.
 
-#  
+--- 
 
 # MISCELLANEOUS
 
