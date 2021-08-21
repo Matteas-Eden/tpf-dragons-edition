@@ -1757,7 +1757,7 @@ directional key two times to dodge in that direction. I chose the side
 step version, because I don’t see characters with heavy armour rolling
 around at all, even in this fantasy world, but sidestep is alright.*
 
-# [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
+## [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
 
 **Main files** - Thu'um - Animated Shouts
 
@@ -1769,7 +1769,7 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 *Improvements for Skyrim’s third person animations.*
 
-**FOMOD** - `Cast damage, cast self and staff cast`.
+**FOMOD** - `Cast damage, cast self` and `staff cast`.
 
 ## [New Animation for Magic Casting](https://www.nexusmods.com/skyrimspecialedition/mods/31989)
 
