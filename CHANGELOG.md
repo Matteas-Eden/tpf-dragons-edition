@@ -9,7 +9,7 @@
 
 ### Interface
 
-Added *Pastel SkyUI Markers* and *Detailed Mine Markers*.
+Added *Better SkyUI Config*, *Pastel SkyUI Markers* *Detailed Mine Markers*.
 
 ### New Content
 
@@ -25,6 +25,8 @@ Moved some mods here from the _Miscellaneous_ section. Added _Butterflies Land T
 Moved Official Unique Flowers and Plants, Cayhedral - 3D Mountain Flowers, A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers, A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers to the _Landscape Extended_ section.
 
 Removed The Elder Scrolls Legends - Loading Screens and its tweaks, add-ons. Added _Simple Load Screens_.
+
+Added _C.O.I.N. - Coins of Interesting Natures_.
 
 Added _Quicker Bed Exit_.
 
