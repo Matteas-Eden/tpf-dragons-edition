@@ -1,9 +1,9 @@
 # GETTING STARTED
 
 Select `Profiles` option from the Mod Organizer 2 (MO2) menu, select
-your TPF profile, which you use for playing, and select `Copy` on the
+your TPF profile, which you use for playing (normal or performance version), and select `Copy` on the
 right side and then name the copied profile `The Phoenix Flavour -
-Dragon’s Edition`.
+Dragon’s Edition` (add `Performance` in braces if you copied the performance profile to indicate that).
 
 # INTERFACE (optional)
 
