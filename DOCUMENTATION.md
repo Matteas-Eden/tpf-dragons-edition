@@ -600,9 +600,9 @@ Corrupted Shade) ESL
 
 **Main files** - Lanterns Of Wyrmstooth
 
-**Instructions** - Install the mod, double click on `Lanterns of
-Wyrmstooth 1.00`, then right-click *Data* folder and select *Set as data
-directory*, click *Ok*.
+**Instructions** - Install the mod, double click on *Lanterns of
+Wyrmstooth 1.00*, then right-click *Data* folder and select *Set as data
+directory*, click *OK*.
 
 ## [Realistic Water Two - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744)
 
