@@ -1,65 +1,63 @@
 # GETTING STARTED
 
 Select `Profiles` option from the Mod Organizer 2 (MO2) menu, select
-your TPF profile, which you use for playing (normal or performance version), and select `Copy` on the
+your TPF profile, which you use for playing (basic or performance version), and select `Copy` on the
 right side and then name the copied profile `The Phoenix Flavour -
-Dragon’s Edition` (add `(Performance)` to the name if you copied the performance profile to indicate that).
+Dragon’s Edition` (and add `(Performance)` to the name if you have copied the performance version of TPF).
 
 ---
 
 # INTERFACE (optional)
 
-Create a separator and name it `INTERFACE EXTENDED` and place it
+Create a separator and name it *INTERFACE EXTENDED* and place it
 directly below the *INTERFACE* separator (and its mods). Change its
 colour, so that it won't be the same as TPF's ones.
 
-All of the following mods in this category will be placed under this
+﻿All of the following mods in this category will be placed under this
 separator in the same order.
 
-This category's mods are optional - you can just skip it or install the
+﻿This category's mods are optional - you can just skip it or install the
 mods you like. There will be instructions on files, which are needed, if
 you have decided to use one or more mods.
 
+## ReCleaned Menu
 
-## [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
-
-**Main files** - ReCleanedMenus
+﻿**Main files** - ReCleanedMenus
 
 *I prefer the vanilla-style main menu. It also doesn’t mess up so much
 with the beautiful background.*
 
+## ﻿[Centaur Font](https://www.nexusmods.com/skyrimspecialedition/mods/14356)
 
-## [Centaur Font](https://www.nexusmods.com/skyrimspecialedition/mods/14356)
+﻿**Main files** - Centaur Font SSE
 
-**Main files** - Centaur Font SSE
-
-*Sovngarde font looks a little bit cartoonish to me, while Centaur font
+*﻿Sovngarde font looks a little bit cartoonish to me, while Centaur font
 is looking good within Skyrim's theme and is more usual, but not too
 ordinary.*
 
-## [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
+## 12th Century Book Font
 
-**Main files** - Font
+﻿**Main files** - Font
 
-*Replaces font in Skyrim's books to look not as modern, more
+*﻿Replaces font in Skyrim's books to look not as modern, more
 sophisticated.*
 
-## [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+## Consolas Font - Sovngarde Font - 12th Century Book Fo[nt Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-**Needed if you use TPF's default Sovngarde font and 12th Century
-Book Font.**
+﻿﻿<u>Needed if you use TPF's default Sovngarde font and 12th Century
+Book Font.</u>
 
-**Optional files** - Consolas Font - Sovngarde Font - 12th Century Book
+﻿﻿**Optional files** - ﻿﻿Consolas Font - Sovngarde Font - 12th Century
+Book Font Patch
+
+## ﻿﻿[Consolas Font - Centaur Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+
+﻿﻿<u>Needed if you use both Centaur Font and 12th Century Book Font.</u>
+
+**Optional files** - Consolas Font - Centaur Font - 12th Century Book
 Font Patch
 
-## [Consolas Font - Centaur Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
-
-**Needed if you use both Centaur Font and 12th Century Book Font.**
-
-**Optional files** - Consolas Font - Centaur Font - 12th Century Book Font
-Patch
-
-## [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
+## [﻿﻿SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
 **Main files** - SmoothCam
 
@@ -68,84 +66,84 @@ SSE* otherwise, ESL.
 
 **Instructions** - rename the mod’s plugin to *SmoothCam.esp*.
 
-*Have you ever been in a situation, when you were playing in third
+*﻿Have you ever been in a situation, when you were playing in third
 person mode and fighting your enemy and you thought that you would land
 your arrow or a spell on the enemy, because your crosshair was right on
 them, but Skyrim has decided otherwise... Then this is a mod for you.*
 
-## [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
+## ﻿iHUD - SmoothCam Automated Compatibili[ty Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
 
-**Not needed without SmoothCam. Recommended with it.**
+<u>﻿Not needed without SmoothCam. Recommended with it.</u>
 
-**Main files** - iHUD - SmoothCam Automated Compatibility Patch
+﻿**Main files** - iHUD - SmoothCam Automated Compatibility Patch
 
 *SmoothCam has its own crosshair, which appears right, when you aim. We
 need this patch to disable our basic crosshair not to confuse us, while
 we are trying to shoot, roast, electrocute, freeze etc. things.*
 
-## [SmoothCam - Octavian's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/43927)
+## SmoothCam - Octavian's Preset
 
-**Not needed without SmoothCam. Recommended with it.**
+<u>﻿Not needed without SmoothCam. Recommended with it.</u>
 
-**Main files** - SmoothCam - Octavian's Preset 1.1.2
+﻿**Main files** - SmoothCam - Octavian's Preset 1.1.2
 
 *I have tried many presets and this one feels great for playing the
 game, especially for our cause - aiming in third person mode.*
 
-## [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
+## ﻿[Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
 
-**Main files** - QuickLootRE
+﻿**Main files** - QuickLootRE
 
-*One of the best additions to Fallout 4 (FO4) was the looting menu,
+*﻿One of the best additions to Fallout 4 (FO4) was the looting menu,
 which appears right when you move your cursor over lootable item without
 need to open game's full menu. This mod allows us to use this addition,
 but in Skyrim.*
 
-## [No Lockpick Activate](https://www.nexusmods.com/skyrimspecialedition/mods/26790)
+## ﻿No Lockpi[ck Activate](https://www.nexusmods.com/skyrimspecialedition/mods/26790)
 
-**Needed if you want to use Quick Loot RE.**
+<u>﻿Needed if you want to use Quick Loot RE.</u>
 
-**Main files** - No Lockpick Activate (SKSE) - Updated
+﻿**Main files** - No Lockpick Activate (SKSE) - Updated
 
-*Fixes game's and looting menu mod's interaction, where you would be
+*﻿Fixes game's and looting menu mod's interaction, where you would be
 forced into the full menu upon unlocking container. It also affects
 every other locked object, so, for example, you have to interact with
 doors after unlocking them to open them.*
 
-## [Minimalist Quick Loot](https://www.nexusmods.com/skyrimspecialedition/mods/45581)
+## ﻿[Minimalist Quick Loot](https://www.nexusmods.com/skyrimspecialedition/mods/45581)
 
-**Not needed without Quick Loot RE. Optional with it.**
+<u>﻿Not needed without Quick Loot RE. Optional with it.</u>
 
-**Main files** - Minimalist Quick Loot
+﻿**Main files** - Minimalist Quick Loot
 
-**FOMOD** - Use whatever options you like.
+**﻿FOMOD** - Use whatever options you like.
 
-*Useful to make Quick Loot's interface smaller and less bulky by making
+*﻿Useful to make Quick Loot's interface smaller and less bulky by making
 it transparent.*
 
-## [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
+## moreHUD Inventory Edition
 
-**Main files** - moreHUD Inventory Edition Loose Version
+﻿**Main files** - moreHUD Inventory Edition Loose Version
 
-*It makes you aware of known weapon and armor enchantments, books you
+*﻿It makes you aware of known weapon and armor enchantments, books you
 have read and it tells you about which kind of skill you can level by
 reading book.*
 
 ##  
 
-## [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
+## ﻿﻿[Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
 
-**The mod is incompatible with Free Look - Free Look's functionality
-will not work with this mod installed.**
+﻿﻿<u>The mod is incompatible with Free Look - Free Look's functionality
+will not work with this mod installed.</u>
 
-**Main files** - Alternate Conversation Camera
+﻿﻿**Main files** - Alternate Conversation Camera
 
-**INI** - In line 51, change bLetterBox to 0.
+**﻿INI** - In line 51, change bLetterBox to 0.
 
-*Another FO4 like addition to Skyrim, which makes conversations look
+﻿*Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
 
-## [Werewolf Transformation Timer](https://www.nexusmods.com/skyrimspecialedition/mods/45326)
+## Werewolf Transformation Timer
 
 **Main files** - Werewolf Transformation Timer
 
@@ -166,22 +164,22 @@ existing content and some of these are the most popular and loved quest
 mods in Nexus Skyrim Special Edition’s page, so I hope you are hyped the
 same way as I was (and still am).
 
-Create a separator and name it `NEW CONTENT` and place it directly below
+Create a separator and name it *NEW CONTENT* and place it directly below
 the *WEATHER* separator (and its mods). Change its colour, so that it
 won't be the same as TPF's ones.
 
-All of the following mods in this category will be placed under this
+﻿All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [Winterhold Deep Sea Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/53707?tab=files)
+## Winterhold Deep Sea Ruins
 
-**Main Files** - winterholddeepsearuins
+**Main files** - winterholddeepsearuins
 
 ##  
 
-## [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514?tab=files)
+## Obscure's College of Winterhold
 
-Main Files - Obscure's College of Winterhold
+**Main files** - Obscure's College of Winterhold
 
 **FOMOD** - Immersive College NPCs Integration, Recommended Interiors,
 New Music Plus Vanilla Music, Relighting Skyrim, Book Covers Skyrim,
@@ -190,37 +188,37 @@ Ten Bloods, Interesting NPCs, Mysticism - A Magic Overhaul, The Tools of
 Kagrenac, Viewable Faction Ranks, WACCF - Armor and Clothing Extension,
 Weapons Armor Clothing and Clutter Fixes 2.0+.
 
-## [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143?tab=files)
+## Forsworn [Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143?tab=files)
 
-Main Files - Gravesingers
+**Main files** - Gravesingers
 
 ## [Forsworn Skinchangers](https://www.nexusmods.com/skyrimspecialedition/mods/34900?tab=files)
 
-Main Files - Skinchangers v1
+**Main files** - Skinchangers v1
 
-## [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497?tab=files)
+## Civil War Deserters
 
-Main Files - Civil War Deserters
+**Main files** - Civil War Deserters
 
-## [Hearthfire - Unique Display Rooms](https://www.nexusmods.com/skyrimspecialedition/mods/4770?tab=files)
+## Hearthfire - Unique Display Rooms
 
-Main Files - HearthFires - Unique Special Edition Display Room
+**Main files** - HearthFires - Unique Special Edition Display Room
 
-## [Serenity](https://www.nexusmods.com/skyrimspecialedition/mods/30019?tab=files)
+## Serenity
 
-Main Files - Serenity Installer
+**Main files** - Serenity Installer
 
 **FOMOD** - Prefab.
 
-## [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files)
+## Improved Follower Dialogue - Lydia
 
-Main Files - Improved Follower Dialogue - Lydia
+**Main files** - Improved Follower Dialogue - Lydia
 
 **FOMOD** - Unofficial Skyrim SE Patch.
 
-## [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329?tab=files)
+## Boethiah for Good Guys
 
-Main Files - Main File
+**Main files** - Main File
 
 *Wanted to leave some comments here and there for the future, when you
 will learn what mods do.*
@@ -230,107 +228,107 @@ not. But you can kick Boethiah out of their cloud of thinking that
 everyone is just going to murder for them alone and at the same time not
 kill our improved followers. Win-win situation for me.*
 
-## [Thieves Guild For Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/10745?tab=files)
+## Thieves Guild For Good Guys
 
-Main Files - Thieves Guild For Good Guys - Taking Care of Business Redux
-4.0
+**Main files** - Thieves Guild For Good Guys - Taking Care of Business
+Redux 4.0
 
 *Finally you can put Maven in her place too - that is good enough for
 me. Not even talking about Thieves Guild becoming something more than
 just a bunch of ordinary thieves united.*
 
-## [Opulent Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/931?tab=files)
+## Opulent Thieves Guild
 
-Main Files - Opulent Thieves Guild
+**Main files** - Opulent Thieves Guild
 
-## [Adoption Without Murder](https://www.nexusmods.com/skyrimspecialedition/mods/46741?tab=files)
+## Adoption Without Murder
 
-Main Files - Adoption without Murder
+**Main files** - Adoption without Murder
 
-## [Dark Brotherhood Reborn - Dawnstar Sanctuary](https://www.nexusmods.com/skyrimspecialedition/mods/22070?tab=files)
+## Dark Brotherhood Reborn - Dawnstar Sanctuary
 
-Main Files - Dark Brotherhood Reborn - Dawnstar Sanctuary
+**Main files** - Dark Brotherhood Reborn - Dawnstar Sanctuary
 
-## [Dark Brotherhood Reborn - Patches, Tweaks and Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/34909?tab=files)
+## Dark Brotherhood Reborn - Patches, Tweaks and Enhancements
 
-Main Files - Dark Brotherhood Reborn - Patch Collection FOMOD
+**Main files** - Dark Brotherhood Reborn - Patch Collection FOMOD
 
 **FOMOD** - USSEP, Save The Dark Brotherhood (SSE), The Dark Brotherhood
 of Old, general tweaks.
 
-## [Save The Dark Brotherhood](https://www.nexusmods.com/skyrimspecialedition/mods/33461?tab=files)
+## Save The Dark Brotherhood
 
-Main Files - Save the Dark Brotherhood 1.1
+**Main files** - Save the Dark Brotherhood 1.1
 
 *Unfortunately, it won’t be canon, but let’s be honest - without at
 least a bunch of the members, The Dark Brotherhood feels like The Dark
 Dragonborn, so give me a chance to save more of the members especially
 considering the previous mod we have added.*
 
-## [The Brotherhood of Old](https://www.nexusmods.com/skyrimspecialedition/mods/15322?tab=files)
+## The Brotherhood of Old
 
-Main Files - SSE - The Brotherhood of Old - Version 1.1.0
+**Main files** - SSE - The Brotherhood of Old - Version 1.1.0
 
-## [Castle Volkihar Rebuilt](https://www.nexusmods.com/skyrimspecialedition/mods/324?tab=files)
+## Castle Volkihar Rebuilt
 
-Main Files - SSE - Castle Volkihar Rebuilt
+**Main files** - SSE - Castle Volkihar Rebuilt
 
-## [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=files)
+## Serana Dialogue Edit
 
-Main Files - SeranaDialogEdit v 102
+**Main files** - SeranaDialogEdit v 102
 
-## [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files)
+## Serana Dialogue Add-On
 
-Main Files - Serana Dialogue Add-On SE
+**Main files** - Serana Dialogue Add-On SE
 
-Optional Files - SDA Serana Dialogue Edit Patch
+**Optional files** - SDA Serana Dialogue Edit Patch
 
-## [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238?tab=files)
+## Cannibal Draugr on Solstheim
 
-Main Files - Cannibal Draugr on Solstheim
+**Main files** - Cannibal Draugr on Solstheim
 
-## [Briraka's Draugr Overhaul - Cannibal Draugr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
+## Briraka's Draugr Overhaul - Cannibal Draugr Patch
 
-Optional Files - BriDO - Cannibal Draugr Patch
+**Optional files** - BriDO - Cannibal Draugr Patch
 
-## [Blood Horker](https://www.nexusmods.com/skyrimspecialedition/mods/13938?tab=files)
+## Blood Horker
 
-Main Files - Blood Horker
+**Main files** - Blood Horker
 
-## [Grahl - The Ice Troll](https://www.nexusmods.com/skyrimspecialedition/mods/9311?tab=files)
+## Grahl - The Ice Troll
 
-Main Files - Grahl - The Ice Troll - 4K
+**Main files** - Grahl - The Ice Troll - 4K
 
-## [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329?tab=files)
+## Solstheim Lighthouse
 
-Main Files - Solstheim Lighthouse v1.2 ESL
+**Main files** - Solstheim Lighthouse v1.2 ESL
 
 **Instructions** - rename the mod’s plugin to *SolstheimLighthouse.esp*.
 
-## [Solstheim - Skaal Fishing Camp](https://www.nexusmods.com/skyrimspecialedition/mods/14450?tab=files)
+## Solstheim - Skaal Fishing Camp
 
-Main Files - Solstheim - Skaal Fishing Camp
+**Main files** - Solstheim - Skaal Fishing Camp
 
-## [Miraak - Dragonborn Follower](https://www.nexusmods.com/skyrimspecialedition/mods/19829?tab=files)
+## Miraak - Dragonborn Follower
 
-Main Files - Miraak - Dragonborn Follower SE
+**Main files** - Miraak - Dragonborn Follower SE
 
 *Just imagine the Naruto redemption arc (unfortunately not canon too).
 It is just too good to be left out.*
 
-## [Miraak Follower Dialogue Plus](https://www.nexusmods.com/skyrimspecialedition/mods/25566?tab=files)
+## Miraak Follower Dialogue Plus
 
-Main Files - Miraak Dialogue Plus
+**Main files** - Miraak Dialogue Plus
 
-## [Miraak - Dragonborn Follower Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40330?tab=files)
+## Miraak - Dragonborn Follower Dialogue Overhaul
 
-Main Files - Miraak - Dragonborn Follower SE (Dialogue Overhaul)
+**Main files** - Miraak - Dragonborn Follower SE (Dialogue Overhaul)
 
-## [Miraak Husbando](https://www.nexusmods.com/skyrimspecialedition/mods/22063?tab=files)
+## Miraak Husbando
 
-Main Files - Miraak Husbando
+**Main files** - Miraak Husbando
 
-Optional Files - Miraak Husbando - No Outfit Edits
+**Optional files** - Miraak Husbando - No Outfit Edits
 
 **Merge** - Merge both files.
 
@@ -339,280 +337,280 @@ follower), so he, like all others, deserves attention too. What is funny
 is that he looks very similar to my nord character preset, just
 younger.*
 
-## [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673?tab=files)
+## Helgen Reborn
 
-Main Files - Helgen Reborn SSE Version 106 With bsa file
+**Main files** - Helgen Reborn SSE Version 106 With bsa file
 
-## [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301?tab=files)
+## Moon and Star
 
-Main Files - Moon and Star
+**Main files** - Moon and Star
 
-Optional Files -Immersion Patch
+**Optional files** -Immersion Patch
 
-## [Moon and Star - Cleaned Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/28530?tab=files)
+## Moon and Star - Cleaned Plugin Replacer
 
-Main Files - MoonAndStar - Cleaned and USSEP Compatible
+**Main files** - MoonAndStar - Cleaned and USSEP Compatible
 
-## [Moon and Star Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/27434?tab=files)
+## Moon and Star Fixes
 
-Main Files - Moon and Star (MAS) Books Fix
+**Main files** - Moon and Star (MAS) Books Fix
 
-Main Files - Moon and Star (MAS) Landscapes Fixes
+**Main files** - Moon and Star (MAS) Landscapes Fixes
 
-## [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341?tab=files)
+## Moonpath to Elsweyr
 
-Main Files - Moonpath to Elsweyr SSE
+**Main files** - Moonpath to Elsweyr SSE
 
-## [Unofficial Moonpath to Elsweyr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/15882?tab=files)
+## Unofficial Moonpath to Elsweyr Patch
 
-Main Files - Unofficial Moonpath to Elsweyr Patch v1.5.0
+**Main files** - Unofficial Moonpath to Elsweyr Patch v1.5.0
 
-## [Moonpath to Elsweyr Navmesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25714?tab=files)
+## Moonpath to Elsweyr Navmesh Fix
 
 **Hidden** - skip this mod for now.
 
-Main Files - Moonpath to Elsweyr Navmesh Fix
+**Main files** - Moonpath to Elsweyr Navmesh Fix
 
-## [Moonpath of Elsweyr - Music - Sky and Lightning Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18683?tab=files)
+## Moonpath of Elsweyr - Music - Sky and Lightning Fix
 
-Main Files - Moonpath Music - Sky and Light fix - Merged 1.3
+**Main files** - Moonpath Music - Sky and Light fix - Merged 1.3
 
-## [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917?tab=files)
+## Beyond Skyrim - Bruma
 
-Main Files - Beyond Skyrim Bruma SE 1.3.3
+**Main files** - Beyond Skyrim Bruma SE 1.3.3
 
-Main Files - Beyond Skyrim DLC Integration Patch
+**Main files** - Beyond Skyrim DLC Integration Patch
 
-## [Beyond Skyrim - Bruma NPC Eye Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26116?tab=files)
+## Beyond Skyrim - Bruma NPC Eye Fix
 
-Main Files - Beyond Skyrim Bruma SE 1.3.3 - NPC EYE Fix - Done
+**Main files** - Beyond Skyrim Bruma SE 1.3.3 - NPC EYE Fix - Done
 
 ## 
 
-## [Nordic Faces - Beyond Skyrim - Bruma Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/40658?tab=files)
+## Nordic Faces - Beyond Skyrim - Bruma Facegen
 
-Miscellaneous Files - FaceGen - Beyond Skyrim Bruma
+**Miscellaneous files** - FaceGen - Beyond Skyrim Bruma
 
-## [Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19374?tab=files)
+## Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches
 
-Main Files - Beyond Skyrim - Bruma - Tweaks Enhancements and Patches SSE
-1.7
+**Main files** - Beyond Skyrim - Bruma - Tweaks Enhancements and Patches
+SSE 1.7
 
 **FOMOD** - Unofficial Skyrim Special Edition Patch ESPLite.
 
-## [Bruma Ugly Love Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/52506?tab=files)
+## Bruma Ugly Love Script Fix
 
-Main Files - BS-Bruma Ugly Love Script Fix
+**Main files** - BS-Bruma Ugly Love Script Fix
 
-## [Beyond Skyrim - Bruma Location Styled Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/23089?tab=files)
+## Beyond Skyrim - Bruma Location Styled Crafting
 
-Main Files - Beyond Skyrim Bruma Craft Restrictions
+**Main files** - Beyond Skyrim Bruma Craft Restrictions
 
-## [Beyond Skyrim - Bruma - Corrections](https://www.nexusmods.com/skyrimspecialedition/mods/33748?tab=files)
+## Beyond Skyrim - Bruma - Corrections
 
-Main Files - Beyond Skyrim - Bruma - Corrections
+**Main files** - Beyond Skyrim - Bruma - Corrections
 
-## [Bruma - Frostcrag Spire Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25161?tab=files)
+## Bruma - Frostcrag Spire Fix
 
-Main Files - Frostcrag Spire fix
+**Main files** - Frostcrag Spire fix
 
-## [CleverCharff's Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/41316?tab=files)
+## CleverCharff's Bruma
 
-Main Files - CleverCharff's Bruma 2K
+**Main files** - CleverCharff's Bruma 2K
 
-## [Beyond Skyrim - Bruma Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/34413?tab=files)
+## Beyond Skyrim - Bruma Upscaled Textures
 
-Main Files - BSBUT_Armor_4x
+**Main files** - BSBUT_Armor_4x
 
-Main Files - BSBUT_Clothes_4x
+**Main files** - BSBUT_Clothes_4x
 
-Main Files - BSBUT_Weapons_4x
+**Main files** - BSBUT_Weapons_4x
 
 **Merge** - merge all files.
 
-## [Beyond Skyrim - Bruma Tree LOD Billboards](https://www.nexusmods.com/skyrimspecialedition/mods/29386?tab=files)
+## Beyond Skyrim - Bruma Tree LOD Billboards
 
-Main Files - Billboards for Beyond Skyrim Bruma
+**Main files** - Billboards for Beyond Skyrim Bruma
 
-## [Imperial City LOD for Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/11010?tab=files)
+## Imperial City LOD for Beyond Skyrim - Bruma
 
-Main Files - Whitegoldtowerfix
+**Main files** - Whitegoldtowerfix
 
-## [Majestic Bruma Mountains - MM 3.x Beyond Skyrim Bruma Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53152?tab=files)
+## Majestic Bruma Mountains - MM 3.x Beyond Skyrim Bruma Compatibility Patch
 
-Main Files - Majestic Mountains - Bruma Patch
+**Main files** - Majestic Mountains - Bruma Patch
 
-## [Realistic Water Two - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744?tab=files)
+## Realistic Water Two - Bruma Patch
 
-Miscellaneous Files - Beyond Skyrim Bruma Patch v1.0
+**Miscellaneous files** - Beyond Skyrim Bruma Patch v1.0
 
 ## 
 
-## [IDDP - Beyond Skyrim - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4126?tab=files)
+## IDDP - Beyond Skyrim - Bruma Patch
 
-Optional Files - IDDP - Beyond Skyrim - Bruma Patch
+**Optional files** - IDDP - Beyond Skyrim - Bruma Patch
 
 **Delete** - remove *AHZBetterDGEntranceSE - BSHeartland
 Patch.modgroups* .
 
-## [Bruma Lighting Mod Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/48389?tab=files)
+## Bruma Lighting Mod Compatibility Patch
 
-Main Files - BS Bruma Interior Lighting Compatibility Patch
+**Main files** - BS Bruma Interior Lighting Compatibility Patch
 
-## [Bruma Signs - SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/10924?tab=files)
+## Bruma Signs - SMIM Patch
 
-Main Files - Bruma SE Signs SMIMed
+**Main files** - Bruma SE Signs SMIMed
 
-## [Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35876?tab=files)
+## Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch
 
-Main Files - Beyond Skyrim - Bruma with Gemling Queen Jewelry
+**Main files** - Beyond Skyrim - Bruma with Gemling Queen Jewelry
 
-## [Apothecary - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+## Apothecary - Bruma Patch
 
-Miscellaneous Files - Apothecary - Bruma Patch
+**Miscellaneous files** - Apothecary - Bruma Patch
 
-## [Beyond Skyrim - Bruma - Moonpath to Elsweyr Synergy Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11069?tab=files)
+## Beyond Skyrim - Bruma - Moonpath to Elsweyr Synergy Patch
 
-Main Files - Beyond Skyrim - Bruma Moonpath to Elsweyr Synergy Patch
+**Main files** - Beyond Skyrim - Bruma Moonpath to Elsweyr Synergy Patch
 v2.4.0
 
-## [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179?tab=files)
+## The Forgotten City
 
-Main Files - The Forgotten City
+**Main files** - The Forgotten City
 
-## [The Forgotten City Entrance](https://www.nexusmods.com/skyrimspecialedition/mods/25730?tab=files)
+## The Forgotten City Entrance
 
-Main Files - The Forgotten City Entrance
+**Main files** - The Forgotten City Entrance
 
-## [Bruma and Forgotten City Patch](https://www.nexusmods.com/skyrimspecialedition/mods/27573?tab=files)
+## Bruma and Forgotten City Patch
 
-Main Files - Bruma and Forgotten City Patch
+**Main files** - Bruma and Forgotten City Patch
 
 ##  
 
-## [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423?tab=files)
+## Darkend
 
-Main Files - DarkenD 1.4 SSE
+**Main files** - DarkenD 1.4 SSE
 
-Update Files - FaceGenData 1.4 Meshes and Textures.
+**Update files** - FaceGenData 1.4 Meshes and Textures.
 
-Update Files - Missing walls hotfix.
+**Update files** - Missing walls hotfix.
 
 **Merge** - merge all files.
 
-## [Darkend Balance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/29213?tab=files)
+## Darkend Balance Patch
 
-Main Files - Darkend Balance Patch
+**Main files** - Darkend Balance Patch
 
-## [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155?tab=files)
+## Clockwork
 
-Main Files - Clockwork_SSE_v1-0
+**Main files** - Clockwork_SSE_v1-0
 
-## [Clockwork Plantable Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/40875?tab=files)
+## Clockwork Plantable Add-On
 
-Main Files - Clockwork Plantable Addon
+**Main files** - Clockwork Plantable Addon
 
-## [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996?tab=files)
+## Project AHO
 
-Main Files - Project AHO (EN)
+**Main files** - Project AHO (EN)
 
-Optional Files - Project AHO ESM Flag Edition
-
-**Merge** - Merge both files.
-
-## [Unofficial Project AHO Bugfix and Improvement Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41751?tab=files)
-
-Main Files - Project AHO Bugfix and Improvement Patch
-
-Update Files - Table Mesh Fix
+**Optional files** - Project AHO ESM Flag Edition
 
 **Merge** - Merge both files.
 
-## [Project AHO - Start When You Want](https://www.nexusmods.com/skyrimspecialedition/mods/21386?tab=files)
+## Unofficial Project AHO Bugfix and Improvement Patch
 
-Optional Files - Project AHOPatch SE - ESL Flagged File
+**Main files** - Project AHO Bugfix and Improvement Patch
 
-## [Project AHO - ENB Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36199?tab=files)
+**Update files** - Table Mesh Fix
 
-Main Files - Project AHO ENB Patch v0.1
+**Merge** - Merge both files.
 
-## [Project AHO - Mysticism - A Magic Overhaul Spell Crafting Patch](https://www.nexusmods.com/skyrimspecialedition/mods/16564?tab=files)
+## Project AHO - Start When You Want
 
-Optional Files - Project AHO - Mysticism - A Magic Overhaul Spell
+**Optional files** - Project AHOPatch SE - ESL Flagged File
+
+## Project AHO - ENB Patch
+
+**Main files** - Project AHO ENB Patch v0.1
+
+## Project AHO - Mysticism - A Magic Overhaul Spell Crafting Patch
+
+**Optional files** - Project AHO - Mysticism - A Magic Overhaul Spell
 Crafting Patch
 
-## [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509?tab=files)
+## The Gray Cowl of Nocturnal
 
-Main Files - The Gray Cowl of Nocturnal
+**Main files** - The Gray Cowl of Nocturnal
 
-## [The Gray Cowl of Nocturnal - HD Pack](https://www.nexusmods.com/skyrimspecialedition/mods/7644?tab=files)
+## The Gray Cowl of Nocturnal - HD Pack
 
-Main Files - The Grey Cowl of Nocturnal SE - HD Texture pack
+**Main files** - The Grey Cowl of Nocturnal SE - HD Texture pack
 
 ## The [Gray Cowl of Nocturnal - Alikr Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/10141?tab=files)
 
-Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul
+**Main files** - Gray Cowl of Nocturnal - Alikr Flora Overhaul
 
-Optional Files - Gray Fox Flora Overhaul Tree Billboard LODGEN Kit
+**Optional files** - Gray Fox Flora Overhaul Tree Billboard LODGEN Kit
 
 **Instructions** - download the optional file manually and drop it into
 your *MO2 Downloads* folder, the fille will appear in your *Downloads*
 tab in MO2, right click on it and select *Query Info*, then merge the
 file with the main one .
 
-## [The Gray Cowl of Nocturnal - Add-Ons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files)
+## The Gray Cowl of Nocturnal - [Add-Ons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files)
 
-Main Files - The Gray Cowl of Nocturnal SE - Addons and Patches 1.2
+**Main files** - The Gray Cowl of Nocturnal SE - Addons and Patches 1.2
 
 **FOMOD** - Unofficial Skyrim Special Edition Patch, Delayed Start
 Patch, Weapons Armor Clothing and Clutter Fixes Patch.
 
-## [The Gray Cowl of Nocturnal Combo](https://www.nexusmods.com/skyrimspecialedition/mods/17831?tab=files)
+## The Gray Cowl of Nocturnal Combo
 
-Main Files - Gray Cowl of Nocturnal Combo Mod
+**Main files** - Gray Cowl of Nocturnal Combo Mod
 
-## [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168?tab=files)
+## The Tools of Kagrenac
 
-Main Files - The Tools of Kagrenac V1.58 SSE
+**Main files** - The Tools of Kagrenac V1.58 SSE
 
 ##  
 
-## [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748?tab=files)
+## The Wheels of Lull
 
-Main Files - The Wheels of Lull SE Unwound Edition
+**Main files** - The Wheels of Lull SE Unwound Edition
 
 **FOMOD** - Don’t choose anything, just install.
 
-## [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351?tab=files)
+## Carved Brink
 
-Main Files - Carved Brink (EN)
+**Main files** - Carved Brink (EN)
 
-Optional Files - Carved Brink ESM Flag Edition
+**Optional files** - Carved Brink ESM Flag Edition
 
 **Merge** - Merge both files.
 
-## [Unofficial Carved Brink Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36916?tab=files)
+## Unofficial Carved Brink Patch
 
-Main Files - Unofficial Carved Brink Patch
+**Main files** - Unofficial Carved Brink Patch
 
-## [Carved Brink Generic Assets Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/25791?tab=files)
+## Carved Brink Generic Assets Replacer
 
-Main Files - Carved Brink Generic Assets Replacer (Stranger Mask and
+**Main files** - Carved Brink Generic Assets Replacer (Stranger Mask and
 Corrupted Shade) ESL
 
 ## 
 
-## [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565?tab=files)
+## Wyrmstooth
 
-Main Files - Wyrmstooth
+**Main files** - Wyrmstooth
 
-## [Wyrmstooth Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39992?tab=files)
+## Wyrmstooth Upscaled Textures
 
-Main Files - Wyrmstooth_2x
+**Main files** - Wyrmstooth_2x
 
-## [Lanterns Of Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/47782?tab=files)
+## Lanterns Of Wyrmstooth
 
-Main Files - Lanterns Of Wyrmstooth
+**Main files** - Lanterns Of Wyrmstooth
 
 **Instructions** - Install the mod, double click on *Lanterns of
 Wyrmstooth 1.00*, then right-click *Data* folder and select *Set as data
@@ -620,238 +618,240 @@ directory*, click *Ok*.
 
 ## [Realistic Water Two - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744)
 
-Miscellaneous Files - Wyrmstooth Patch v1.0
+**Miscellaneous files** - Wyrmstooth Patch v1.0
 
-## [Forceful Tongue - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
+## Forceful Tongue - Wyrmstooth Patch
 
-Miscellaneous Files - Forceful Tongue - Wyrmstooth Patch
+**Miscellaneous files** - Forceful Tongue - Wyrmstooth Patch
 
-## [Apothecary - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+## Apothecary - Wyrmstooth Patch
 
-Miscellaneous Files - Apothecary - Wyrmstooth Patch
+**Miscellaneous files** - Apothecary - Wyrmstooth Patch
 
-## [Dragon War - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
+## Dragon War - Wyrmstooth Patch
 
-Miscellaneous Files - Dragon War - Wyrmstooth Patch
+**Miscellaneous files** - Dragon War - Wyrmstooth Patch
 
-## [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=files)
+## Identity Crisis
 
-Main Files - Identity Crisis
+**Main files** - Identity Crisis
 
-Optional Files - Better Dawnguard Entrance Patch
+**Optional files** - Better Dawnguard Entrance Patch
 
-Optional Files - Beyond Skyrim - Bruma Patch
+**Optional files** - Beyond Skyrim - Bruma Patch
 
-## [The Grand Paladin - 2021](https://www.nexusmods.com/skyrimspecialedition/mods/46867?tab=files)
+## The Grand Paladin - 2021
 
-Main Files - The Grand Paladin - 2021
+**Main files** - The Grand Paladin - 2021
 
 ## 
 
-## [The Final Cataclysm - 2020](https://www.nexusmods.com/skyrimspecialedition/mods/33167?tab=files)
+## The Final Cataclysm - 2020
 
-Main Files - The Final Cataclysm - MMXX
+**Main files** - The Final Cataclysm - MMXX
 
-Optional Files - The Final Cataclysm - MMXX (Update)
+**Optional files** - The Final Cataclysm - MMXX (Update)
 
 **Merge** - Merge both files.
 
-## [Artifacts - The Tournament of the Ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264?tab=files)
+## Artifacts - The Tournament of the Ten Bloods
 
-Main Files - Tournament of the Ten Bloods 2.1
+**Main files** - Tournament of the Ten Bloods 2.1
 
 **FOMOD** - 2K Resolution, No flame effect.
 
-Update Files - HOTFIX - Sounds
+**Update files** - HOTFIX - Sounds
 
 **Merge** - Merge both files.
 
-## [Artifacts - The Ice Blade of the Monarch](https://www.nexusmods.com/skyrimspecialedition/mods/13972?tab=files)
+## Artifacts - The Ice Blade of the Monarch
 
-Main Files - Ice Blade of the Monarch 2.6
+**Main files** - Ice Blade of the Monarch 2.6
 
 **FOMOD** - 2K Resolution, No trail mist.
 
-## [FaceGen Output for Different Mods](https://www.nexusmods.com/skyrimspecialedition/mods/24174?tab=files)
+## FaceGen Output for Different Mods
 
-Optional Files - FaceGen Output for Random Mods
+**Optional files** - FaceGen Output for Random Mods
 
-## [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461?tab=files)
+## INIGO
 
-Main Files - INIGO_V2.4C SE
+**Main files** - INIGO_V2.4C SE
 
-## [Inigo Whistle Key](https://www.nexusmods.com/skyrimspecialedition/mods/29406?tab=files)
+## Inigo Whistle Key
 
-Main Files - InigoWhistleKeyV12
+**Main files** - InigoWhistleKeyV12
 
-## [Mr. Dragonfly ENB Particle Light](https://www.nexusmods.com/skyrimspecialedition/mods/45664?tab=files)
+## Mr. Dragonfly ENB Particle Light
 
-Main Files - Mr. Dragonfly ENB Particle Lights
+**Main files** - Mr. Dragonfly ENB Particle Lights
 
 **FOMOD** - Teal (My preference).
 
-## [The Phoenix Flavour - Inigo Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files)
+## The Phoenix Flavour - Inigo Patch
 
-Optional Files - The Phoenix Flavour - Inigo Patch
+**Optional files** - The Phoenix Flavour - Inigo Patch
 
-## [High-Poly Inigo Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38860?tab=files)
+## High-Poly Inigo Replacer
 
-Main Files - High-Poly Inigo Replacer - FOMOD installer
+**Main files** - High-Poly Inigo Replacer - FOMOD installer
 
 **FOMOD** - Custom Saeri Hair - Blue.
 
-## [Lucien - Immersive Fully Voiced Male Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035?tab=files)
+## Lucien - Immersive Fully Voiced Male Follower
 
-Main Files - Lucien
+**Main files** - Lucien
 
-Optional Files - Lucien - Moon and Star Patch
+**Optional files** - Lucien - Moon and Star Patch
 
-Optional Files - Lucien - Moonpath to Elsweyr Patch
+**Optional files** - Lucien - Moonpath to Elsweyr Patch
 
-## [Lucien Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38116?tab=files)
+## Lucien Replacer
 
-Main Files - ---Lucien Replacer SE Younger Face version
+**Main files** - ---Lucien Replacer SE Younger Face version
 
-## [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075?tab=files)
+## Kaidan 2
 
-Main Files - Kaidan 2.1.1
+**Main files** - Kaidan 2.1.1
 
-## [Kaidan 2 Visual Overhaul - High Poly Head](https://www.nexusmods.com/skyrimspecialedition/mods/47923?tab=files)
+## Kaidan 2 Visual Overhaul - High Poly Head
 
-Main Files - Kaidan V.1
+**Main files** - Kaidan V.1
 
-Optional Files - Kaidan Underwear Patch
+**Optional files** - Kaidan Underwear Patch
 
 **Merge** - Merge both files.
 
-## [Gladys the Corgi - A Custom Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/50164?tab=files)
+## Gladys the Corgi - A Custom Dog Follower Mod
 
-Main Files - Gladys the Corgi - A Custom Dog Follower Mod
+**Main files** - Gladys the Corgi - A Custom Dog Follower Mod
 
-## [The Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733?tab=files)
+## The Falkreath Hauntings
 
-Main Files - The Falkreath Hauntings
+**Main files** - The Falkreath Hauntings
 
-Optional Files - Moon and Star patch
+**Optional files** - Moon and Star patch
 
-## [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178?tab=files)
+## The Sinister Seven
 
-Main Files - The Sinister Seven SSE 1.2
+**Main files** - The Sinister Seven SSE 1.2
 
-## [Apachii Divine Elegance Store](https://www.nexusmods.com/skyrimspecialedition/mods/9213?tab=files)
+## Apachii Divine Elegance Store
 
-Main Files - Apachii_Divine_Elegance_SSE_v\_1_9
+**Main files** - Apachii_Divine_Elegance_SSE_v\_1_9
 
-Optional Files - ApachiiDivineEleganceStore_USSEP_Patch_new
+**Optional files** - ApachiiDivineEleganceStore_USSEP_Patch_new
 
-Optional Files - ApachiiDivineElegance_SSE\_\_Fix_AlphaRougeMale_v\_1_9
+**Optional files** -
+ApachiiDivineElegance_SSE\_\_Fix_AlphaRougeMale_v\_1_9
 
-Optional Files - Apachii_DE_SSE_Khajiit_Fix
+**Optional files** - Apachii_DE_SSE_Khajiit_Fix
 
-Optional Files - Apachii_DE_SSE_MaleOutfit_Meshes_Fixes
+**Optional files** - Apachii_DE_SSE_MaleOutfit_Meshes_Fixes
 
 *I have added this to be a resource for making different screenshots. Of
 course, you can also use all those outfits etc. to make your character
 just prettier. There are things for everyone to play with, even
 warriors.*
 
-## [THE TINIEST SHACK](https://www.nexusmods.com/skyrimspecialedition/mods/46874?tab=files)
+## THE TINIEST SHACK
 
-Main Files - THE TINIEST OF SHACKES fix'd
+**Main files** - THE TINIEST OF SHACKES fix'd
 
-## [Rayek's End](https://www.nexusmods.com/skyrimspecialedition/mods/8285?tab=files)
+## Rayek's End
 
-Optional Files - Rayek's End - SSE Expanded Edition 1.7 (Medium)
+**Optional files** - Rayek's End - SSE Expanded Edition 1.7 (Medium)
 
-Optional Files - Barenziah's Glory SE - Patch (Removes floating gems)
+**Optional files** - Barenziah's Glory SE - Patch (Removes floating
+gems)
 
-## [Rayek's End - Hearthfire Multiple Adoptions Support](https://www.nexusmods.com/skyrimspecialedition/mods/36877?tab=files)
+## Rayek's End - Hearthfire Multiple Adoptions Support
 
-Main Files - Rayek's End Multiple Hearhfire Adoptions Support
+**Main files** - Rayek's End Multiple Hearhfire Adoptions Support
 
-## [The Scrivener's Croft](https://www.nexusmods.com/skyrimspecialedition/mods/44701?tab=files)
+## The Scrivener's Croft
 
-Main Files - The Scrivener's Croft
+**Main files** - The Scrivener's Croft
 
-## [Ruska - Riften Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/16177?tab=files)
+## Ruska - Riften Player Home
 
-Main files - Ruska SE
+**Main files** - Ruska SE
 
-## [Knight's Rest](https://www.nexusmods.com/skyrimspecialedition/mods/19793?tab=files)
+## Knight's Rest
 
-Main Files - Knight's Rest
+**Main files** - Knight's Rest
 
-## [Hermit Mountain Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/4093?tab=files)
+## Hermit Mountain Cottage
 
-Main Files - Hermit Mountain Cottage SE V6.0a
+**Main files** - Hermit Mountain Cottage SE V6.0a
 
-## [Wind Path](https://www.nexusmods.com/skyrimspecialedition/mods/15192?tab=files)
+## Wind Path
 
-Main Files - Wind Path SSE 1.3.1
+**Main files** - Wind Path SSE 1.3.1
 
-## [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408?tab=files)
+## Morskom Estate
 
-Main Files - Morskom Estate 1.2
+**Main files** - Morskom Estate 1.2
 
-## [Windyridge - Player Home in Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/8046?tab=files)
+## Windyridge - Player Home in Winterhold
 
-Main Files - Windyridge - Player home in Winterhold 1.04
+**Main files** - Windyridge - Player home in Winterhold 1.04
 
-## [Red Rose Mill](https://www.nexusmods.com/skyrimspecialedition/mods/47117?tab=files)
+## Red Rose Mill
 
-Optional Files - Red Rose Mill
+**Optional files** - Red Rose Mill
 
-## [Wuth Rein](https://www.nexusmods.com/skyrimspecialedition/mods/52995?tab=files)
+## Wuth Rein
 
-Main Files - Wuth Rein
+**Main files** - Wuth Rein
 
 ##  
 
-## [Interesting NPCs (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files)
+## Interesting NPCs (3DNPC)
 
-Main Files - Interesting NPCs SE - BSAs
+**Main files** - Interesting NPCs SE - BSAs
 
-Update Files - Interesting NPCs SE - 4.3.6 to 4.4 Hotfix
+**Update files** - Interesting NPCs SE - 4.3.6 to 4.4 Hotfix
 
-Miscellaneous Files - Interesting NPCs SE - AI Overhaul SSE Patch
-
-## 
-
-## [Nordic Faces - Interesting NPCs Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/40658?tab=files)
-
-Miscellaneous Files - FaceGen - Interesting NPCs
-
-## [3DNPC - Art and Sacrifice Aggression Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/45496?tab=files)
-
-Main Files - 3DNPC Art and Sacrifice Script Fix
-
-## [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858?tab=files)
-
-Main Files - Interesting NPCs and WACCF Outfits Patch
-
-## [Interesting NPCs - Zora Fair-Child Voice Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/27448?tab=files)
-
-Main Files - Zora VO
-
-## [Cuyima Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/27330?tab=files)
-
-Main Files - Cuyima Interesting NPCs SE - Custom Hair
-
-## [Interesting NPCs Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40046?tab=files)
-
-Main Files - Interesting NPCs Visual Overhaul
+**Miscellaneous files** - Interesting NPCs SE - AI Overhaul SSE Patch
 
 ## 
 
-## [Undeath Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/6180?tab=files)
+## Nordic Faces - Interesting NPCs Facegen
 
-Main Files - Skyrim - Undeath SSE 1.7
+**Miscellaneous files** - FaceGen - Interesting NPCs
 
-## [Undeath - Classical Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802?tab=files)
+## 3DNPC - Art and Sacrifice Aggression Bug Fix
 
-Main Files - Undeath Classical Lichdom
+**Main files** - 3DNPC Art and Sacrifice Script Fix
 
-Optional Files - Hishy's Undeath Cleaner Script Improved
+## Interesting NPCs and WACCF Outfits Patch
+
+**Main files** - Interesting NPCs and WACCF Outfits Patch
+
+## Interesting NPCs - Zora Fair-Child Voice Enhanced
+
+**Main files** - Zora VO
+
+## Cuyima [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/27330?tab=files)
+
+**Main files** - Cuyima Interesting NPCs SE - Custom Hair
+
+## Interesting NPCs Visual Overhaul
+
+**Main files** - Interesting NPCs Visual Overhaul
+
+## 
+
+## Undeath Remastered
+
+**Main files** - Skyrim - Undeath SSE 1.7
+
+## Undeath - Classical Lichdom
+
+**Main files** - Undeath Classical Lichdom
+
+**Optional files** - Hishy's Undeath Cleaner Script Improved
 
 **Instructions** - Unfortunately, *Undeath Remastered* should be cleaned
 in xEdit to make it run correctly with other mods. Extract contents of
@@ -861,9 +861,9 @@ Script…* In category *Script* find *Hishy_UndeathCleaner* and choose it.
 Press OK. After xEdit finishes cleaning, don’t forget to make sure that
 changes are saved.
 
-## [Moon and Star - Undeath Remastered Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19068?tab=files)
+## Moon and Star - Undeath Remastered Patch
 
-Main Files - Moon and Star - Undeath Remastered Patch
+**Main files** - Moon and Star - Undeath Remastered Patch
 
 #  
 
@@ -892,20 +892,20 @@ from here, there will be a button *Download this file*. If mod has
 different versions, there will be instructions on which one to get like
 always.
 
-## [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
+## Elemental Staffs
 
-Main Files - Elemental Staffs SE
+**Main files** - Elemental Staffs SE
 
-Optional Files - Elemental Staffs SE Basic
+**Optional files** - Elemental Staffs SE Basic
 
 **Merge** - Merge both files.
 
 *Alters the appearance of almost all staffs to appear more like they are
 imbued with the power of magic we are actually using them for.*
 
-## [KD Circlets Redone by zzjay](https://www.nexusmods.com/skyrimspecialedition/mods/10320)
+## KD Circlets Redone by zzjay
 
-Main Files - KD Cirlets by zzjay main file
+**Main files** - KD Cirlets by zzjay main file
 
 *At first, I wasn’t a fan, because if we compare this mod to JS Circlet
 Replacer, the replacer is definitely the winner, but after looking more
@@ -913,34 +913,34 @@ at some of these minimalistic and sweet circlets, I have decided that a
 bunch of people will use them. They can be obtained only by crafting at
 forge.*
 
-## [Heavy Armored Pants](https://vectorplexus.com/files/file/404-heavy-armored-pants/)
+## Heavy Armored Pants
 
 *You will be able to get these in exchange for their counterparts (heavy
 armors) in Skyrim. Just use any forge for that. Tempered the same way as
 any other armor, pants have the same stats as their counterparts.*
 
-<img src="media/image8.png" style="width:5.20313in;height:4.61008in" />
+<img src="media/image1.png" style="width:5.20313in;height:4.61008in" />
 *(ft. mods in Appearance section)*
 
-## [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
+## Royal Armory - New Artifacts
 
-Main Files - Royal Armory V2.2
+**Main files** - Royal Armory V2.2
 
-## [PrivateEye’s Royal Armory - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/28006)
+## PrivateEye’s Royal Armory - Reforged
 
-Main Files - Royal Armory - Reforged - Main Replacer 1.1
+**Main files** - Royal Armory - Reforged - Main Replacer 1.1
 
-Optional Files - Dragonfang - Penitus Logo
+**Optional files** - Dragonfang - Penitus Logo
 
-Optional Files - Hafyllbrand - Custom Textures
+**Optional files** - Hafyllbrand - Custom Textures
 
-Optional Files - Sword of Dragonsreach - Custom Textures
+**Optional files** - Sword of Dragonsreach - Custom Textures
 
 **Merge** - Merge all files.
 
-## [Royal Armory - New Artifacts Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/44392)
+## Royal Armory - New Artifacts Plugin Replacer
 
-Main Files - Royal Armory - Replacer
+**Main files** - Royal Armory - Replacer
 
 **FOMOD** - Obscure’s College of Winterhold - Cell Setting Patch.
 
@@ -962,9 +962,9 @@ colour, so that it won't be the same as TPF's ones.
 ﻿All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+## powerofthree's [Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 
-Main files - Papyrus Extender SSE - 4.4.2
+**Main files** - Papyrus Extender SSE - 4.4.2
 
 *Plugin that extends Skyrim's script language (Papyrus) functionality.
 It will be needed for Strange Runes to use another version of runes for
@@ -972,39 +972,39 @@ dual-casted spells.*
 
 ##  
 
-## [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
+## UIExtensions
 
-Main files - UIExtensions v1-2-0
+**Main files** - UIExtensions v1-2-0
 
 *Resource for modders to use to make custom menus for their mods. We
 will need it for AddItemMenu mod.*
 
-## [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
+## Custom Skills Framework
 
-Main files - Custom Skills Framework v1
+**Main files** - Custom Skills Framework v1
 
 *.NET Script Framework’s plugin for making custom skill trees for our
 character, will be used for a mod, which will greatly enhance gameplay
 with shouts together with Forceful Tongue - Shouts Overhaul.*
 
-## [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
+## HDT-SMP (Skinned Mesh Physics)
 
-Main files - HDT-SMP for SSE 1.5.97 v2.11
+**Main files** - HDT-SMP for SSE 1.5.97 v2.11
 
 *SKSE plugin, which will allow us to use physics for our PC, like in our
 scenario, with moving hair. Bonk people, who thought about something
 else.*
 
-## [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669)
+## Mfg Fix
 
-﻿Main files - MfgFix
+﻿**Main files** - MfgFix
 
 *Just a couple of fixes for Skyrim’s facial animation scripts, which
 will be needed by Conditional Expressions.*
 
-## [Copy and Paste in Console](https://www.nexusmods.com/skyrimspecialedition/mods/30928)
+## Copy and Paste in Console
 
-Main files - Copy and Paste in Console v1.0.1 for Skyrim SE
+**Main files** - Copy and Paste in Console v1.0.1 for Skyrim SE
 
 **INI** - In line 2, change PasteKeyCode to 47, so you will need
 standard Ctrl+V command to paste something to your console.
@@ -1013,10 +1013,10 @@ standard Ctrl+V command to paste something to your console.
 thought about adding it, well, like always), which you will probably use
 from time to time.*
 
-## [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
+## Official Unique Flowers and Plants
 
-Optional files - Unique Flowers and Plants for Skyrim SE DLC Compatible
-ESM Version
+**Optional files** - Unique Flowers and Plants for Skyrim SE DLC
+Compatible ESM Version
 
 **Hide** - hide *JuniperBush.nif* and *SloeBush.nif by right-clicking
 the mod, then choosing the Conflicts tab, selecting two files on the
@@ -1027,9 +1027,9 @@ Hide.*
 to make it more interesting and picturesque. ESM plugin allows us not to
 worry about the mod overwriting anything we don't want to.*
 
-## [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)
+## Cathedral - 3D Mountain Flowers
 
-Main files - Cathedral - 3D Mountain Flowers
+**Main files** - Cathedral - 3D Mountain Flowers
 
 **Hide (not now, later, when you will get to the *CONFIGURATIONS*
 section)** - hide any file, which overwrites Fixed Mesh Lightning. Don’t
@@ -1039,17 +1039,17 @@ worry, there will be mention of these instructions in the
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
 
-## [A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/50265)
+## A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers
 
-Main files - A Patch for Skyrim Landscape and Water Fixes and Cathedral
+**Main files** - A Patch for Skyrim Landscape and Water Fixes and
+Cathedral Mountain Flowers
+
+**Optional files** - A Patch for Lanterns of Skyrim II and Cathedral
 Mountain Flowers
 
-Optional files - A Patch for Lanterns of Skyrim II and Cathedral
-Mountain Flowers
+## More Growable Plants
 
-## [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
-
-Optional files - More Growable Plants Simple 1.5
+**Optional files** - More Growable Plants Simple 1.5
 
 **Hide (not now, later, when you will get to the CONFIGURATIONS
 section)** - hide any file, which overwrites Fixed Mesh Lightning.
@@ -1059,45 +1059,45 @@ garlic and many other things from, but at least we know where we can get
 them from. And don’t worry, I have patched it, so you will be able to
 grow only things I consider to be immersive to be grown.*
 
-## [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
+## 3D Mountain Flowers Hearthfire Planters Fix
 
-Main files - More Growable Plants_3D Mountain Flowers patch
+**Main files** - More Growable Plants_3D Mountain Flowers patch
 
 ##  
 
-## [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+## Bright Waterfall Fix for ENB
 
-Main files - Bright Waterfall Fix for Realistic Water Two
+**Main files** - Bright Waterfall Fix for Realistic Water Two
 
-Optional files - DynDOLOD Bright LOD Waterfall Fix
+**Optional files** - DynDOLOD Bright LOD Waterfall Fix
 
 **Merge** - Merge both files.
 
 *I can’t stand waterfalls being too bright at night.*
 
-## [Particle Lights for ENB - Nordic Ruins Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
+## Particle Lights for ENB - Nordic Ruins Candles
 
-Main files - Particle Lights for ENB - Nordic Ruins Candles
+**Main files** - Particle Lights for ENB - Nordic Ruins Candles
 
 *Where is a petition that everything needs to be patched for ENB to look
 magnificent? I would have signed it.*
 
-## [<u>Strange Runes</u>](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
+## Strange Runes
 
-Main files - Strange Runes
+**Main files** - Strange Runes
 
-Update files - Strange Runes
+**Update files** - Strange Runes
 
 **Merge** - Merge both files.
 
 *Great for screenshots and makes magic feel even more unique. MCM (Mod
 Configuration Menu) available, so you can make them appear only for some
 specific spell group etc. You need it! Just look at my
-character.*<img src="media/image12.png" style="width:6.66719in;height:3.73536in" />
+character.*<img src="media/image2.png" style="width:6.66719in;height:3.73536in" />
 
 ## [Dragonborn Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287)
 
-Main files - Dragonborn Presence
+**Main files** - Dragonborn Presence
 
 **Instructions** - Install the mod, right-click *Data* folder and select
 *Set as data directory*, click *Ok*. Right-click the mod in your
@@ -1107,9 +1107,9 @@ the game's root folder.
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
 
-## [The Elder Scrolls Legends - Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/37929)
+## The Elder Scrolls Legends - Loading Screens
 
-Main files - TESL - Loading Screens
+**Main files** - TESL - Loading Screens
 
 **FOMOD** - choose your monitor’s aspect ratio, then an option to make
 new loading screens appear for all time (100%).
@@ -1118,18 +1118,18 @@ new loading screens appear for all time (100%).
 lore-friendly artwork of Skyrim and what it has to offer. At least
 people, who have to wait longer on them, will be pleased.*
 
-## [TESL Loading Screens - Tweaks and Addons](https://www.nexusmods.com/skyrimspecialedition/mods/40919)
+## TESL Loading Screens - Tweaks and Addons
 
-Main files - TESL LS - Tweaks and Addons -VIGOROUS-
+**Main files** - TESL LS - Tweaks and Addons -VIGOROUS-
 
 **FOMOD** - choose your monitor’s aspect ratio, don’t change anything
 else.
 
 *Adds even more loading screens for the last mod, fixes some typos.*
 
-## [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
+## Look What You See
 
-Main files - Look what you see
+**Main files** - Look what you see
 
 **FOMOD** - ESL.
 
@@ -1141,17 +1141,17 @@ Conversation Camera's INI, in line 47, change bConversationHT to 0.
 *Head tracking mod, which makes our player character (PC) observe
 things, which we move our cursor on.*
 
-## [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
+## First Person Camera Height Fix
 
-﻿Main files - First Person Camera Height Fix
+﻿**Main files** - First Person Camera Height Fix
 
 *Who would have thought that High Elves are actually high. I thought
 they just named themselves like that. One other mod, which we will
 install later, will greatly help us in using this mod’s capabilities.*
 
-## [Diziet's Auto Outfits](https://www.nexusmods.com/skyrimspecialedition/mods/40801)
+## Diziet's [Auto Outfits](https://www.nexusmods.com/skyrimspecialedition/mods/40801)
 
-Main files - Diziet's Auto Outfits
+**Main files** - Diziet's Auto Outfits
 
 **FOMOD** - don’t change anything.
 
@@ -1161,9 +1161,9 @@ example, I use it to change my default gear to ordinary clothing with
 speech etc. enchantments for traders, when I am inside big cities.
 Otherwise I will probably forget to do that.*
 
-## [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184)
+## Serio's Cycle Hotkeys
 
-Main files - Serio's Cycle Hotkeys﻿
+**Main files** - Serio's Cycle Hotkeys﻿
 
 *Makes it possible to adjust one hotkey to equip not just one spell or
 option, but different sets of things. For instance, if I am a mage, I
@@ -1173,17 +1173,17 @@ get my ward spell and Thunderbolt to deal with that pesky bandit mage.
 You can set whatever buttons you want as these hotkeys. Pretty detailed
 instructions on how to use the mod can be found in the mod's page.*
 
-## [**<u>Hide Your Quests</u>**](https://www.nexusmods.com/skyrimspecialedition/mods/50125)
+## Hide Your Quests
 
-Main files - Hide Your Quests 1.0.1
+**Main files** - Hide Your Quests 1.0.1
 
 *Successor of the mod Hide Those Futile Quests, which gives you an
 option to hide a quest you will do later from your journal by using
 MCM.*
 
-## [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
+## Forget Spell
 
-Main files - Forget Spell
+**Main files** - Forget Spell
 
 **FOMOD** - Skyrim Special Edition, SkyUI.
 
@@ -1192,74 +1192,75 @@ anymore. Why would I need to clutter my menu with Flames, while I am
 level 80 mage. You will see an option to forget spells in your spells
 menu.*
 
-## [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
+## AddItemMenu - Ultimate Mod Explorer
 
-Main files - AddItemMenuSE_114_SKSE2019
+**Main files** - AddItemMenuSE_114_SKSE2019
 
 *A mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I hope you won’t use it for cheating.*
 
-## [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
+## Sweeping Organizes Stuff - Use Broom to Clean Mess
 
-Main files - Sweeping Organizes Stuff - Use Broom to Clean Mess
+**Main files** - Sweeping Organizes Stuff - Use Broom to Clean Mess
 
 *Let's say you accidentally pressed your shout button in your home or
 just wanted to make some chaos, now you can clean the mess by using a
 broom from your inventory.*
 
-## [Hearthfire Multiple Adoptions and Custom Home Support](https://www.nexusmods.com/skyrimspecialedition/mods/3862)
+## Hearthfire Multiple Adoptions and Custom Home Support
 
-Main files - Hearthfire Multiple Adoptions and Custom Home Support SE
+**Main files** - Hearthfire Multiple Adoptions and Custom Home Support
+SE
 
 *Not only allows you to adopt more children, but also to bring your
 spouse and kids to the new houses we have added.*
 
-## [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329)
+## Dragon Claws Auto-Unlock
 
-Main files - Dragon Claws Auto-Unlock (Simultaneous)
+**Main files** - Dragon Claws Auto-Unlock (Simultaneous)
 
 *I don’t want to check these claw combinations again and again. It was
 fun, when Skyrim was a new game for me.*
 
-## [No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)
+## No Lock Picking
 
-Main files - NoLockPicking v2
+**Main files** - NoLockPicking v2
 
 *Removes the lock picking mini-game (annoying) from the game and now
 actually uses your lockpicking skill to open doors and chests.*
 
-## [BlockSteal](https://www.nexusmods.com/skyrimspecialedition/mods/18732)
+## BlockSteal
 
-Main files - Blocksteal_010_SKSE2017
+**Main files** - Blocksteal_010_SKSE2017
 
 *Prevents you from stealing, when you aren’t in stealth mode, so you
 won’t get punished by just wanting to take another item, which that
 annoying, but expensive cup was near. There is also an option to press
 on items multiple times, which is configurable through MCM.*
 
-## [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
+## Scion - Vampiric Sunscreen Plugin
 
-Main files - Scion - Vampiric Sunscreen Plugin
+**Main files** - Scion - Vampiric Sunscreen Plugin
 
 *If you wear any type of headgear, while being outdoors, like our
 vampire friend Serana does, you won’t be destroyed by sun damage.*
 
 ##  
 
-## [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
+## Dragonborn - Shouts Perk Tree
 
-Main files - Dragonborn - Shouts Perk Tree
+**Main files** - Dragonborn - Shouts Perk Tree
 
-Miscellaneous files - Dragonborn - Adamant Patch
+**Miscellaneous files** - Dragonborn - Adamant Patch
 
 *Being Dragonborn and being able to shout should make us more unique
 than other characters, and this mod does that by giving us experience
 and perk points for shouting and killing dragons and a unique skill tree
 for spending these.*
 
-## [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
+## Smart NPC Potions - Enemies Use Potions and Poisons
 
-Main files - Smart NPC Potions
+**Main files** - Smart NPC Potions
 
 *Finally bandits, mages and assassins will also have an option to have
 and use some potions. And not just healing potions, which they already
@@ -1268,9 +1269,9 @@ chance of them having a potion, is configurable by MCM.*
 
 ## 
 
-## [Don't Stay in The Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
+## Don't Stay in The Water
 
-Main files - Don't Stay in The Water
+**Main files** - Don't Stay in The Water
 
 *Now you won’t be able to “outsmart” your enemies by going into water.*
 
@@ -1278,46 +1279,46 @@ Main files - Don't Stay in The Water
 
 ##  
 
-## [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
+## Simply Knock
 
-Main files - Simply Knock SE 1.0.3 Release
+**Main files** - Simply Knock SE 1.0.3 Release
 
 *I find it immersive that we can get to our good friend to say that we
 saved his family friend during the night, not to wait for 8 hours, when
 she will wake up. Or to check if people are home for sneaky shenanigans.
 This mod allows us to do that.*
 
-## [Simply Knock SKSE64 DLL](https://www.nexusmods.com/skyrimspecialedition/mods/24297)
+## Simply Knock SKSE64 DLL
 
-Main files - SimplyKnockSE SKSE64 2.0.19 DLL
+**Main files** - SimplyKnockSE SKSE64 2.0.19 DLL
 
 *An update for the mod to work.*
 
-## [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
+## A Guiding Light - Clairvoyance Reimagined
 
-Main files - Guiding Wisp
+**Main files** - Guiding Wisp
 
 **Delete** - remove *GuidingLight.modgroups* .
 
 *Finally makes Clairvoyance spell useful by making it summon a wisp that
 leads you to your quest objective.*
 
-## [Gildergreen Regrown](https://www.nexusmods.com/skyrimspecialedition/mods/348)
+## Gildergreen Regrown
 
-Main files - Gildergreen Regrown
+**Main files** - Gildergreen Regrown
 
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
 
-## [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
+## Angi's Camp Tweaks
 
-Main files - Angi's Camp Tweaks
+**Main files** - Angi's Camp Tweaks
 
 *Quality of life changes for Agni’s training session.*
 
-## [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259)
+## More Werewolves
 
-Main files - More Werewolves
+**Main files** - More Werewolves
 
 *Yes, more werewolves will be in Skyrim, so be attentive especially when
 traversing the area around Morthal.*
@@ -1326,9 +1327,9 @@ traversing the area around Morthal.*
 
 ## 
 
-## [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
+## Canis Hysteria - The Werewolf Disease
 
-Main files - Canis Hysteria
+**Main files** - Canis Hysteria
 
 **FOMOD** - Improved Companions - Questline Tweaks.
 
@@ -1336,9 +1337,9 @@ Main files - Canis Hysteria
 
 ##  
 
-## [Werewolf Aela](https://www.nexusmods.com/skyrimspecialedition/mods/29155)
+## Werewolf Aela
 
-Main files - Werewolf Companions v1.3 FOMOD
+**Main files** - Werewolf Companions v1.3 FOMOD
 
 **FOMOD** - no facial edits, Aela’s transformation only for 3 minutes
 and 45 minutes cooldown.
@@ -1349,42 +1350,42 @@ Aela transform into werewolf, if she is badly hurt. Aela will always
 want to stay as werewolf, not like Farkas and Vilkas, who can be cured,
 so I have decided that it will be enough just with her.*
 
-## [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
+## DIVERSE SKYRIM
 
-Main files - DIVERSE SKYRIM SSE
+**Main files** - DIVERSE SKYRIM SSE
 
 *Skyrim isn’t just for Nords, it is for everyone. Groups like bandits,
 mages etc. will also include some Khajiits, Argonians from time to time
 etc.*
 
-## [DIVERSE SKYRIM - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514)
+## DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
 
-Main files - DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
+**Main files** - DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
 
 *And let’s also fix them and make them better to look at.*
 
-## [Diverse Skyrim - Battle of Whiterun Fix](https://www.nexusmods.com/skyrimspecialedition/mods/47939https://www.nexusmods.com/skyrimspecialedition/mods/47939)
+## Diverse Skyrim - Battle of Whiterun Fix
 
-Main files - Diverse Skyrim Battle of Whiterun Fix
+**Main files** - Diverse Skyrim Battle of Whiterun Fix
 
-## [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
+## Civil War Neutrality
 
-Main files - CWN - Civil War Neutrality SSE
+**Main files** - CWN - Civil War Neutrality SSE
 
 *Let Stormcloaks and the Empire play their own games, while being
 neutral, but getting your deserved reward.*
 
-## [Catir’s College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
+## Catir’s [College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
 
-Main files - Catir's College Creatures
+**Main files** - Catir's College Creatures
 
 *Now you will actually need to use magic to beat the College of
 Winterhold quest line. You have been warned, don’t sneak peek at the
 description of the mod.*
 
-## [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201)
+## End Times
 
-Main files - End Times SE
+**Main files** - End Times SE
 
 *Now try to do everything else, but not the main quest. I dare you. If
 you don’t listen then your game will be over.*
@@ -1406,96 +1407,96 @@ same one Phoenix offers in her TPF-X, so all credit goes to those
 wonderful people, who made it, and Phoenix for finding these pearls and
 making a patch for them.
 
-## [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
+## Talkative Dragons
 
-Main files - Talkative Dragons
+**Main files** - Talkative Dragons
 
 *For species, which can actually speak the way that humans understand,
 dragons in the game don’t like to speak at all. Let’s change that.*
 
-## [Talkative Dragons - Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269)
+## Talkative Dragons - Audio Replacer
 
-Main files - TDReplacer
+**Main files** - TDReplacer
 
 *Just a little replacer for some voice lines in the original mods, which
 sounded a little bit too silly.*
 
-## [Nordic Shouts - Enigma Series](https://www.nexusmods.com/skyrimspecialedition/mods/41401)
+## Nordic Shouts - Enigma Series
 
-Main files - Nordic Shouts - Enigma Series All In One-
+**Main files** - Nordic Shouts - Enigma Series All In One-
 
 *An author of the mod has done a great job with filters to make male
 shouts sound better.*
 
-## [Better Sounding Female Dragon Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/18637)
+## Better Sounding Female Dragon Shouts
 
-Main files - HPFSV All in One
+**Main files** - HPFSV All in One
 
 *Exactly.*
 
-## [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
+## BA Bard Songs
 
-Main files - BA_BardSongs_FOMOD
+**Main files** - BA_BardSongs_FOMOD
 
 **FOMOD** - AIO.
 
 *Exactly x2. Don’t worry, they are also immersive.*
 
-## [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200)
+## Musical Lore - Soundtrack Mod by Nir Shor
 
-Main files - Musical Lore V1.2
+**Main files** - Musical Lore V1.2
 
 **Delete** - delete *NirShor-MusicalLore.esp*.
 
-## [The Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108)
+## The Northerner Diaries - Immersive Edition
 
-Main files - The Northerner Diaries - Skyrim and Solstheim
+**Main files** - The Northerner Diaries - Skyrim and Solstheim
 
 **Delete** - delete *Northerner Diaries in Skyrim.esp*.
 
-## [Still - Skyrim Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/19401)
+## Still - Skyrim Inspired Music
 
-Main files - Still - ESP Version
+**Main files** - Still - ESP Version
 
 **Delete** - delete *Still.esp*.
 
-## [Hun Lovaas - Skyrim Fan-Made Combat Music](https://www.nexusmods.com/skyrimspecialedition/mods/16123)
+## Hun Lovaas - Skyrim Fan-Made Combat Music
 
-Main files - Hun Lovaas - ESP version
+**Main files** - Hun Lovaas - ESP version
 
 **Delete** - delete *Hun Lovaas.esp*.
 
-## [Melodies of Civilization - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/30014)
+## Melodies of Civilization - Skyrim Fan-Made Music
 
-Main files - Melodies of Civilization 1.01
+**Main files** - Melodies of Civilization 1.01
 
 **Delete** - delete *Melodies of Civilization.esp*.
 
-## [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144)
+## Around the Fire - Skyrim Fan-Made Music
 
-Main files - Around the Fire
+**Main files** - Around the Fire
 
 **Delete** - delete *Around the Fire.esp*.
 
-## [Dawnguard Music Overhaul - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/48613)
+## Dawnguard Music Overhaul - Skyrim Fan-Made Music
 
-Main files - Dawnguard Music Overhaul - Main Module
+**Main files** - Dawnguard Music Overhaul - Main Module
 
-Main files - Dawnguard Music Overhaul - Combat Module
+**Main files** - Dawnguard Music Overhaul - Combat Module
 
 **Instructions** - merge both files and then delete *Dawnguard Music
 Overhaul.esp* and *Dawnguard Music Overhaul - Combat.esp* .
 
-## [**<u>Yet Another Music Merge</u>**](https://www.nexusmods.com/skyrimspecialedition/mods/48725)
+## Yet Another Music Merge
 
-Main files - Yet Another Music Merge
+**Main files** - Yet Another Music Merge
 
 *Phoenix’s merge of all the music mods as well as a patch combining
 their tracks in the playlists.*
 
-## [TPF Dragon’s Edition - Quests & Music Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+## TPF Dragon’s Edition - Quests & Music Patch
 
-Optional files - TPF Dragon’s Edition - Quests & Music Patch
+**Optional files** - TPF Dragon’s Edition - Quests & Music Patch
 
 *A patch to make all these music mods work with music from one quest
 mod.*
@@ -1518,18 +1519,18 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
+## SavrenX [Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
 
 *When I saw Harkon for the first time, well, it was a little bit sad
 that Vampire Lord looks like a noodle. And with that mass, he probably
 looked awkward, when he used melee combat against us. Let’s separate
 Vampire Lords even more from senile ordinary vampires.*
 
-## [FK's Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/38563)
+## FK's Diverse Racial Skeletons
 
-Main files - FK's Diverse Racial Skeletons
+**Main files** - FK's Diverse Racial Skeletons
 
-Optional files - FKDRS - Aetherius
+**Optional files** - FKDRS - Aetherius
 
 *Successor of Racial Body Morphs (well, maybe its author will make an
 update, who knows). Finally you will find out why we needed that First
@@ -1540,9 +1541,9 @@ that big orc. Really lore-immersive mod.*
 
 ##  
 
-## [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+## Tempered Skins for Males
 
-Main files - Tempered Skins for Males - Dressed Version
+**Main files** - Tempered Skins for Males - Dressed Version
 
 **FOMOD** - A2 and F none, for other things you can choose whatever
 options you like. My recommendations - B3 (people are living in Skyrim,
@@ -1554,9 +1555,9 @@ appearance, as each of the skins for both males and females is so
 customizable you won’t need any other mod. And that’s why I also give
 you a choice to make in FOMOD.*
 
-## [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186)
+## Masculine Khajiit Textures
 
-Main files - Grey Cat and Leopard Vanilla v1.1 - 2K Res Pack
+**Main files** - Grey Cat and Leopard Vanilla v1.1 - 2K Res Pack
 
 **FOMOD** - Grey Cat, Abs.
 
@@ -1567,9 +1568,9 @@ Rextures - TPF Dragon’s Edition to install it as a separate mod.*
 
 ##  
 
-## [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185)
+## Masculine Argonian Textures
 
-Main files - Masculine Chameleon and Lizard (Vanilla) 2K
+**Main files** - Masculine Chameleon and Lizard (Vanilla) 2K
 
 **FOMOD** - Lizard, Heavy Scales.
 
@@ -1577,32 +1578,34 @@ Main files - Masculine Chameleon and Lizard (Vanilla) 2K
 they don’t work with the mod, so let’s use argonian skin texture from
 the same author, which textures we use for Khajiits.*
 
-## [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
+## Tempered Skins for Females
 
-Main files - Tempered Skins for Females UNP and Vanilla
+**Main files** - Tempered Skins for Females UNP and Vanilla
 
 **FOMOD** - A7 and F none, for other things you can choose whatever
 options you like. My recommendations - B01, C2, D1, E2.
 
-## [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
+## Feminine Khajiit Textures
 
-Main files - Feminine Khajiit Textures (Grey Cat and Leopard) Vanilla
+**Main files** - Feminine Khajiit Textures (Grey Cat and Leopard)
+Vanilla
 
 **FOMOD** - 2K, Grey Cat, Abs.
 
-## [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
+## Feminine Argonian Textures
 
-Main files - Feminine Argonian Textures (Chameleon and Lizard) Vanilla
+**Main files** - Feminine Argonian Textures (Chameleon and Lizard)
+Vanilla
 
 **FOMOD** - 2K, Lizard, Abs.
 
-## [Sandow Plus Plus - Ripped Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/34632)
+## Sandow Plus Plus - Ripped Bodies
 
-Main files - Sandow Plus Plus - Ripped Bodies
+**Main files** - Sandow Plus Plus - Ripped Bodies
 
-Main files - Sandow Plus Plus - Ripped Bodies - Males
+**Main files** - Sandow Plus Plus - Ripped Bodies - Males
 
-Main files - Sandow Plus Plus - Ripped Bodies - UNP
+**Main files** - Sandow Plus Plus - Ripped Bodies - UNP
 
 **FOMOD** - choose every option in all these 3 mods (exception is in one
 place in the file for males, where you need to choose vanilla type of
@@ -1611,9 +1614,9 @@ body, then again every race).
 *The weight slider in Racemenu will also make us more ripped, not just
 bigger.*
 
-## [Just No Tails](https://www.nexusmods.com/skyrimspecialedition/mods/5051)
+## Just No Tails
 
-Main files - Nooo Mooore Taiiiiiils
+**Main files** - Nooo Mooore Taiiiiiils
 
 *Actually, before I really couldn't understand why people wanted to
 remove tails from Khajiits and Argonians, but after playing with them
@@ -1622,25 +1625,25 @@ have been such a bother to do), so the sight of our tail clipping
 through armor looks awkward. The best and the most easy solution is just
 to hide tails.*
 
-## [Grimoas Plantigrade Feet For Beast Races](https://www.nexusmods.com/skyrim/mods/16976)
+## Grimoas Plantigrade Feet For Beast Races
 
-Main files - Grimoas Plantigrade Feet For Beast Races v 1_4
+**Main files** - Grimoas Plantigrade Feet For Beast Races v 1_4
 
 **Delete** - delete *Gri_BeastFeet.esp* .
 
 *A resource from Skyrim LE to make our next mod work (thank you very
 much).*
 
-## [Barefoot Beast Project (Greaves and Legwraps for Plantigrade Feet)](https://www.nexusmods.com/skyrimspecialedition/mods/45672)
+## Barefoot Beast Project (Greaves and [Legwraps for Plantigrade Feet)](https://www.nexusmods.com/skyrimspecialedition/mods/45672)
 
-Main files - Barefoot Beast Project
+**Main files** - Barefoot Beast Project
 
 *Now we won’t need to imagine anymore how our poor Argonian puts those
 little boots on.*
 
 ## 
 
-## [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/)
+## High Poly Head
 
 High_Poly_Head_v1.4\_(SE).zip
 
@@ -1651,15 +1654,15 @@ Fix, Symmetrical Eyes (Female).
 *With this your dreams of making an even more perfect face for your
 character shouldn't wait for long anymore.*
 
-## [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932)
+## KS Hairdos Lite
 
-Optional files - KS Hairdos Lite SE NoNPCs
+**Optional files** - KS Hairdos Lite SE NoNPCs
 
 *Little fancy hair mod for us.*
 
-## [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
+## KS Hairdos - HDT SMP
 
-Main files - KS Hairdos SMP
+**Main files** - KS Hairdos SMP
 
 *New level of fanciness. People love hair with physics, so let them be.*
 
@@ -1675,7 +1678,7 @@ Like you can see in the screenshots, it looks much less clunky than a
 bow being together with a quiver and clipping through each other and
 much more likely than us carrying our shield in our hand for all day.
 
-<img src="media/image10.png" style="width:2.23387in;height:3.22in" /><img src="media/image9.png" style="width:2.61727in;height:3.22125in" />
+<img src="media/image3.png" style="width:2.23387in;height:3.22in" /><img src="media/image4.png" style="width:2.61727in;height:3.22125in" />
 
 Overall through animations we will add more life and uniqueness into our
 player character. NPCs are untouched by these different gear locations,
@@ -1694,49 +1697,49 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [Undeath - XPMSSE - Strange Runes - Skeleton Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50694)
+## Undeath - XPMSSE - Strange Runes - Skeleton Patch
 
-Main files - Undeath - XPMSSE - Strange Runes - Skeleton Patch
+**Main files** - Undeath - XPMSSE - Strange Runes - Skeleton Patch
 
 *If we don’t overwrite one of the XP32MSSE skeleton’s with this one, our
 character in some scenarios would have been invisible and their spell
 runes would have appeared near their feet, so let’s put it here.*
 
-## [Ultimate Combat and Creature Behaviour's Nemesis Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
+## Ultimate Combat and Creature Behaviour's Nemesis Compatibility
 
-﻿Main files - Ultimate Combat and Creature Behaviour's Nemesis
+﻿**Main files** - Ultimate Combat and Creature Behaviour's Nemesis
 Compatibility
 
 ## *Yeah, and some other utilities needed.*
 
 **FOMOD** - don’t change anything.
 
-## [Dragon Priest Fix - Behaviour Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51608)
+## Dragon Priest Fix - Behaviour Overhaul
 
-﻿Main files - Dragon Priest Fix - Behaviour Overhaul - ESL
+﻿**Main files** - Dragon Priest Fix - Behaviour Overhaul - ESL
 
 ## Optional files - Dragon Priest Behaviour Overhaul - Undeath Patch
 
 ## 
 
-## [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
+## Undead Summons Emerge from the Ground
 
-﻿Main files - Undead summons emerge from the ground
+﻿**Main files** - Undead summons emerge from the ground
 
 *I know that undead work a little bit differently in the Elder Scrolls
 universe, but it still doesn’t make sense for soul’s physical form to
 appear out of thin air, so here we go.*
 
-## [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
+## Conditional Expressions - Subtle Face Animations
 
-﻿Main files - Conditional Expressions
+﻿**Main files** - Conditional Expressions
 
 *Gives our character a bit of emotions, to finally make us not look like
 a piece of living rock.*
 
-## [Jog & Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/15881)
+## Jog & Sprint
 
-﻿Main files - Jog Sprint and Jump
+﻿**Main files** - Jog Sprint and Jump
 
 **Hide** - hide any file, which overwrites Jump Behavior Overhaul by
 right-clicking the mod, then choosing the *Conflicts* tab, selecting all
@@ -1746,22 +1749,22 @@ includes *Jump Behavior Overhaul*, right-clicking on them and choosing
 
 *Realistic animations for sprinting and running.*
 
-## [Dynamic Swimming](https://www.nexusmods.com/skyrimspecialedition/mods/34853)
+## Dynamic Swimming
 
-﻿Main files - DAR - Dynamic Swimming
+﻿**Main files** - DAR - Dynamic Swimming
 
-Optional files - DAR - Dynamic Swimming - Argonian Mastery
+**Optional files** - DAR - Dynamic Swimming - Argonian Mastery
 
 **Merge** - merge both files.
 
 *Vanilla swimming animation looks shabby, so let it be used just for
 people, who like to swim with heavy armour equipped.*
 
-## [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157)
+## Crouch Sliding
 
-﻿Main files - Crouch Sliding Main
+﻿**Main files** - Crouch Sliding Main
 
-Optional files - Toned Down Slide Dust Effect
+**Optional files** - Toned Down Slide Dust Effect
 
 **Merge** - merge both files.
 
@@ -1769,18 +1772,18 @@ Optional files - Toned Down Slide Dust Effect
 hide behind cover as soon as you can, just press your sneaking button
 while sprinting.*
 
-## [Crouch Sliding - Remove Ragdolling for Good](https://www.nexusmods.com/skyrimspecialedition/mods/46828)
+## Crouch Sliding - Remove Ragdolling for Good
 
-﻿Main files - Crouch Sliding - Remove Ragdolling for Good
+﻿**Main files** - Crouch Sliding - Remove Ragdolling for Good
 
 *Removes one overpowered mechanic from the previous mod, so you won’t
 even know that it was there in the first place.*
 
-## [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
+## TK Dodge
 
-﻿Main files - TK Dodge SE
+﻿**Main files** - TK Dodge SE
 
-Main files - Replace to Step Dodge
+**Main files** - Replace to Step Dodge
 
 **Merge** - merge both files.
 
@@ -1789,15 +1792,15 @@ directional key two times to dodge in that direction. I chose the side
 step version, because I don’t see characters with heavy armour rolling
 around at all, even in this fantasy world, but sidestep is alright.*
 
-## [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
+## Thu'um - Fully Animated Shouts
 
-﻿Main files - Thu'um - Animated Shouts
+﻿**Main files** - Thu'um - Animated Shouts
 
 *Do you even need to ask me why? This is epic.*
 
-## [Magic Casting Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215)
+## Magic Casting Animations Overhaul
 
-﻿Main files - Magic Casting Animations Overhaul SSE
+﻿**Main files** - Magic Casting Animations Overhaul SSE
 
 *Improvements for Skyrim’s third person animations.*
 
@@ -1805,53 +1808,53 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 ##  
 
-## [New Animation for Magic Casting](https://www.nexusmods.com/skyrimspecialedition/mods/31989)
+## New Animation for Magic Casting
 
-Optional files - New Animation for magic cast v0.8
+**Optional files** - New Animation for magic cast v0.8
 
 **Hide** - hide *staffright_idle.hkx* and *staff_idle.hkx*.
 
-## [War Hammer and Battle Axe Movement Fix](https://www.nexusmods.com/skyrimspecialedition/mods/51615)
+## War Hammer and Battle Axe Movement Fix
 
-﻿Main files - SSE Version
+﻿**Main files** - SSE Version
 
-## [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
+## Pretty Combat Animations
 
-﻿Main files - Pretty Combat Animations 1.38
+﻿**Main files** - Pretty Combat Animations 1.38
 
 **FOMOD** - Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer two
 times, 2hm Block, 2hm Sprint.
 
-## [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
+## Pretty One-Handed Animations Overhaul
 
-﻿Main files - PCA-1hm Overhaul 1.13c SSE
+﻿**Main files** - PCA-1hm Overhaul 1.13c SSE
 
 **FOMOD** - Guardian, choose *Skip* option 4 times, 1hm Block, 1hm
 Sprint, Origin Dw Sprint_Type A.
 
-## [Blocking Animation Pack](https://www.nexusmods.com/skyrimspecialedition/mods/4352)
+## Blocking Animation Pack
 
-﻿Main files - Blocking Animation Pack v1.5--SSE
+﻿**Main files** - Blocking Animation Pack v1.5--SSE
 
 ##  
 
-## [First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
+## First Person Magic Animation
 
-﻿Main files - First Person Magic Animation for SSE
+﻿**Main files** - First Person Magic Animation for SSE
 
 **FOMOD** - 01 Variant 1 FPMA 7.0.
 
 *Improvements for our 1st person animations.*
 
-## [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177)
+## First Person Combat Animations Overhaul
 
-﻿Main files - FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
+﻿**Main files** - FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
 
-## [1st Person Parry Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20374)
+## 1st Person Parry Animation
 
 **FOMOD** - 01, 02, 03.
 
-﻿Main files - 1stPerson Parry Animation
+﻿**Main files** - 1stPerson Parry Animation
 
 # NPC OVERHAULS
 
@@ -1892,22 +1895,22 @@ issue once or twice - black face bug. CTDs can happen if overhaul uses
 unique body parts (like The Ordinary Women) and you enter into the place
 where this *incorrect* NPC is.
 
-<img src="media/image2.png" style="width:4.95075in;height:3.11979in" /><img src="media/image6.png" style="width:4.1969in;height:3.12in" />
+<img src="media/image5.png" style="width:4.95075in;height:3.11979in" /><img src="media/image6.png" style="width:4.1969in;height:3.12in" />
 
-## [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
+## Shield Sisters Re-Imagined
 
-﻿Main files - Shield Sisters Re-Imagined UNP
+﻿**Main files** - Shield Sisters Re-Imagined UNP
 
-Update files - Iona Jordis Illia Hotfix
+**Update files** - Iona Jordis Illia Hotfix
 
 **Merge** - merge both files.
 
 *One of the newest additions to NPC overhauls of Skyrim, which spices
 things up. Has Bijin series’ mods vibes, but feels more unique.*
 
-## [Pandorable’s NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
+## Pandorable’s NPCs
 
-﻿Main files - Pandorable's NPCs SE
+﻿**Main files** - Pandorable's NPCs SE
 
 **FOMOD** - USSEP (Pandorable has probably forgotten to change name from
 LE's Unofficial Patch in her FOMOD), no warpaint only for Voldsea.
@@ -1916,30 +1919,30 @@ LE's Unofficial Patch in her FOMOD), no warpaint only for Voldsea.
 only cover the most notable NPCs of Skyrim, but also give each of them a
 bit of charisma.*
 
-## [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
+## Pandorable's NPCs - Dawnguard
 
-﻿Main files - Pandorable's NPCs - Dawnguard SE - USSEP
+﻿**Main files** - Pandorable's NPCs - Dawnguard SE - USSEP
 
 ##  
 
-## [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
+## Pandorable's NPCs - Dragonborn
 
-﻿Main files - Pandorable's NPCs - Dragonborn SE
+﻿**Main files** - Pandorable's NPCs - Dragonborn SE
 
-Optional files - PAN_NPCs_DB - AI Overhaul patch
+**Optional files** - PAN_NPCs_DB - AI Overhaul patch
 
 **FOMOD** - alternative for Fanari-Strong-Voice, Ralis Sedarys, Captain
 Veleth, Wulf Wild-Blood, USSEP.
 
-## [Pandorable's NPCs - Males](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
+## Pandorable's NPCs - Males
 
-﻿Main files - Pandorable's NPCs - Males SE
+﻿**Main files** - Pandorable's NPCs - Males SE
 
 **FOMOD** - alternative for Savos, Cicero, Larak, Madanach, USSEP.
 
-## [Pandorable's NPCs - Males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
+## Pandorable's NPCs - Males 2
 
-﻿Main files - PAN_NPCs - Males 2
+﻿**Main files** - PAN_NPCs - Males 2
 
 **FOMOD** - alternative for Borkul the Beast, alternative 2 for Chief
 Burguk, alternative for Chief Mauhulakh, Athis, Skjor, alternative 2 for
@@ -1948,9 +1951,9 @@ Snow-Shod, USSEP.
 
 ##  
 
-## [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349)
+## Northbourne NPCs of the Rift
 
-Main files - Northbourne NPCs of The Rift - Full Version
+**Main files** - Northbourne NPCs of The Rift - Full Version
 
 **Hide facegen files** - Double click on the mod in your mod order,
 switch to *Conflicts* tab, at the right side of *Winning file conflicts*
@@ -1960,51 +1963,51 @@ files. Do the same process with *0001541b*.
 *Another newest NPC overhaul series, which I like the most right now,
 because it has high poly faces and almost each of those looks diverse.*
 
-## [Northbourne NPCs of](https://www.nexusmods.com/skyrimspecialedition/mods/43413) Winterhold
+## Northbourne NPCs of Winterhold
 
-Main files - Northbourne NPCs of Winterhold Full Version
+**Main files** - Northbourne NPCs of Winterhold Full Version
 
 **Hide facegen files** - Hide *0001c19f* files.
 
 ## 
 
-## [Northbourne NPCs of Haafingar](https://www.nexusmods.com/skyrimspecialedition/mods/48481)
+## Northbourne NPCs of Haafingar
 
-Main files - Northbourne NPCs of Haafingar
+**Main files** - Northbourne NPCs of Haafingar
 
 **Hide facegen files** - Hide *0001326a* files.
 
 ##  
 
-## [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
+## The Ordinary Women
 
-Main files - The Ordinary Women SSE 4.0
+**Main files** - The Ordinary Women SSE 4.0
 
-Optional files - The Ordinary Women SSE 4.0 USSEP - ESP Only
+**Optional files** - The Ordinary Women SSE 4.0 USSEP - ESP Only
 
 **Merge** - merge both files.
 
 *Definitely the most immersive looks for women of Skyrim in all Nexus,
 which slightly outshine blocky vanilla faces.*
 
-## [Northbourne NPCs of Falkreath Hold](https://www.nexusmods.com/skyrimspecialedition/mods/37528)
+## Northbourne NPCs of Falkreath Hold
 
-Main files - Northbourne NPCs of Falkreath Hold - Full Version
+**Main files** - Northbourne NPCs of Falkreath Hold - Full Version
 
 **Hide facegen files** - Hide *0001bdb1* files.
 
-## [Northbourne NPCs of Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/35404)
+## Northbourne NPCs of Whiterun Hold
 
-Main files - Northbourne NPCs of Whiterun Hold - Full Version
+**Main files** - Northbourne NPCs of Whiterun Hold - Full Version
 
 **Hide facegen files** - Hide *0001a694, 0001a692, 0001a6d7, 0001a6d5,
 000a2c8e* files.
 
 ##  
 
-## [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
+## Kalilies NPCs
 
-﻿Main files - Kalilies NPCs
+﻿**Main files** - Kalilies NPCs
 
 **FOMOD** - vanilla, no warpaint for Mena and Rhiada.
 
@@ -2016,23 +2019,23 @@ more.*
 
 ## 
 
-## [Pandorable's Black-Briar Ladies](https://www.nexusmods.com/skyrimspecialedition/mods/33731)
+## Pandorable's Black-Briar Ladies
 
-﻿Main files - Pandorable's Black-Briar Ladies
+﻿**Main files** - Pandorable's Black-Briar Ladies
 
-Optional files - Ingun optional eyes
+**Optional files** - Ingun optional eyes
 
 **Merge** - merge both files.
 
-Optional files - AI Overhaul patch
+**Optional files** - AI Overhaul patch
 
 ##  
 
-## [Refined Volkihars](https://www.nexusmods.com/skyrimspecialedition/mods/35892)
+## Refined Volkihars
 
-﻿Main files - Refined Volkihars SSE - The Fangs Update
+﻿**Main files** - Refined Volkihars SSE - The Fangs Update
 
-Optional files - Cured Serana Patch **(don’t enable this, just
+**Optional files** - Cured Serana Patch **(don’t enable this, just
 install)**
 
 **FOMOD** - vanilla or UNP, orange eyes for all, fangs.
@@ -2044,9 +2047,9 @@ aesthetic.*
 *You will need to enable the patch only after you cure Serana to make
 her look like a human.*
 
-## [Hood Plus Hair for Pandorable's Serana](https://www.nexusmods.com/skyrimspecialedition/mods/40972)
+## Hood Plus Hair for Pandorable's Serana
 
-Main files - Hood Plus Hair for Pandorables Serana SHORT hair KS
+**Main files** - Hood Plus Hair for Pandorables Serana SHORT hair KS
 Soundwave
 
 *A present for Serana to make her hair visible, when she wears her hood.
@@ -2059,19 +2062,20 @@ someone in Bethesda has thought that it would be a good idea that AI
 data and character’s appearance data should be included in one record.
 Thank Todd for that.
 
-## [Shield Sisters Re-Imagined - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44263)
+## Shield Sisters Re-Imagined - AI Overhaul Patch
 
-Main files - Shield Sisters Re-Imagined - AI Overhaul Patch
+**Main files** - Shield Sisters Re-Imagined - AI Overhaul Patch
 
-## [Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/53197)
+## Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium
 
-Main files - Pandorable's NPCs - AI Overhaul Patch
+**Main files** - Pandorable's NPCs - AI Overhaul Patch
 
-Main files - USSEP - Pandorable's NPCs - Dawnguard - AI Overhaul Patch
+**Main files** - USSEP - Pandorable's NPCs - Dawnguard - AI Overhaul
+Patch
 
-Main files - Pandorable's NPCs - Males - AI Overhaul Patch
+**Main files** - Pandorable's NPCs - Males - AI Overhaul Patch
 
-Main files - Pandorable's NPCs - Males 2 - AI Overhaul Patch
+**Main files** - Pandorable's NPCs - Males 2 - AI Overhaul Patch
 
 ## Pandorable's NPCs - Dragonborn - AI Overhaul Patch
 
@@ -2089,24 +2093,26 @@ patches for AI Overhaul should be placed after all NPC overhauls).
 
 **Move** - move the patch here.
 
-## [USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/45620)
+## USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium
 
-Main files - USSEP - Northbourne NPCs of the Rift - AI Overhaul Patch
-
-Main files - USSEP - Northbourne NPCs of the Winterhold - AI Overhaul
+**Main files** - USSEP - Northbourne NPCs of the Rift - AI Overhaul
 Patch
 
-Main files - USSEP - Northbourne NPCs of Haafingar - AI Overhaul Patch
+**Main files** - USSEP - Northbourne NPCs of the Winterhold - AI
+Overhaul Patch
 
-Main files - USSEP - Northbourne NPCs of Falkreath Hold - AI Overhaul
+**Main files** - USSEP - Northbourne NPCs of Haafingar - AI Overhaul
 Patch
 
-Main files - USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul
+**Main files** - USSEP - Northbourne NPCs of Falkreath Hold - AI
+Overhaul Patch
+
+**Main files** - USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul
 Patch
 
-## [USSEP - The Ordinary Women - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41371)
+## USSEP - The Ordinary Women - AI Overhaul Patch
 
-Main files - USSEP - The Ordinary Women - AI Overhaul Patch
+**Main files** - USSEP - The Ordinary Women - AI Overhaul Patch
 
 ## USSEP - Northbourne NPCs of Falkreath Hold - AI Overhaul Patch
 
@@ -2116,9 +2122,9 @@ Main files - USSEP - The Ordinary Women - AI Overhaul Patch
 
 **Move** - move the patch here.
 
-## [Updated Kalilies NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53322)
+## Updated Kalilies NPCs - AI Overhaul Patch
 
-Main files - AI Overhaul - Kalilies NPCs Patch
+**Main files** - AI Overhaul - Kalilies NPCs Patch
 
 ## Pandorable's Black-Briar Ladies - AI Overhaul Patch
 
@@ -2136,33 +2142,33 @@ its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## [KS Hairdos 1.7 - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975)
+## KS Hairdos 1.7 - Salt and Wind
 
-﻿Miscellaneous files - Cuyima Interesting NPCs - Salt and Wind
+﻿**Miscellaneous files** - Cuyima Interesting NPCs - Salt and Wind
 
-﻿Main files - KS Hairdos 1.7 - Salt and Wind
+﻿**Main files** - KS Hairdos 1.7 - Salt and Wind
 
-Miscellaneous files - KS Hairdos SMP - Salt and Wind
+**Miscellaneous files** - KS Hairdos SMP - Salt and Wind
 
-﻿Miscellaneous files - Pandorable's NPCs - Salt and Wind
+﻿**Miscellaneous files** - Pandorable's NPCs - Salt and Wind
 
-Miscellaneous files - Pandorable's NPCs DG - Salt and Wind
+**Miscellaneous files** - Pandorable's NPCs DG - Salt and Wind
 
-Miscellaneous files - Pandorable's NPCs DB - Salt and Wind
+**Miscellaneous files** - Pandorable's NPCs DB - Salt and Wind
 
-Miscellaneous files - The Ordinary Women - Salt and Wind
+**Miscellaneous files** - The Ordinary Women - Salt and Wind
 
-## [Salt and Wind - Rough Hair for Apachii Sky Hair](https://www.nexusmods.com/skyrimspecialedition/mods/16909)
+## Salt and Wind - Rough Hair for Apachii Sky Hair
 
-﻿Main files - Salt and Wind - ApachiiSkyHair SE v1.6 Retexture
+﻿**Main files** - Salt and Wind - ApachiiSkyHair SE v1.6 Retexture
 
-## [Pandorable's Males - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44336)
+## Pandorable's Males - Salt and Wind Retexture
 
-﻿Main files - Pandorable's Males - Salt and Wind
+﻿**Main files** - Pandorable's Males - Salt and Wind
 
-## [Kalilies NPCs - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335)
+## Kalilies NPCs - Salt and Wind Retexture
 
-﻿Main files - Kalilies NPCs - Salt and Wind
+﻿**Main files** - Kalilies NPCs - Salt and Wind
 
 #  
 
@@ -2179,23 +2185,25 @@ separator in the same order.
 I have decided to make patches modular, so it is faster and easier for
 me to check things inside.
 
-## [TPF Dragon’s Edition -](https://www.nexusmods.com/skyrimspecialedition/mods/51973) Patches
+## TPF Dragon’s Edition - Patches
 
-﻿Main files - TPF Dragon’s Edition - New Content Patch
+﻿**Main files** - TPF Dragon’s Edition - New Content Patch
 
-﻿Main files - TPF Dragon’s Edition - Apparel & Weapons Patch
+﻿**Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
 
-﻿Main files - TPF Dragon’s Edition - Miscellaneous Patch
+﻿**Main files** - TPF Dragon’s Edition - Miscellaneous Patch
 
-Main files - TPF Dragon's Edition - New Content & Miscellaneous Patch
+**Main files** - TPF Dragon's Edition - New Content & Miscellaneous
+Patch
 
-﻿Main files - TPF Dragon’s Edition - Appearance Patch
+﻿**Main files** - TPF Dragon’s Edition - Appearance Patch
 
-﻿Main files - TPF Dragon’s Edition - NPC Overhauls Patch
+﻿**Main files** - TPF Dragon’s Edition - NPC Overhauls Patch
 
-﻿Main files - TPF Dragon’s Edition - New Content and NPC Overhauls Patch
+﻿**Main files** - TPF Dragon’s Edition - New Content and NPC Overhauls
+Patch
 
-﻿Main files - TPF Dragon’s Edition Patch
+﻿**Main files** - TPF Dragon’s Edition Patch
 
 #  
 
@@ -2205,18 +2213,18 @@ Create a separator and name it *ALTERNATE START* and place it directly
 below the *TPF DRAGON’S EDITION - FINAL PATCHES* separator (and its
 mods). Change its colour, so that it won't be the same as TPF's ones.
 
-## [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553)
+## Ralof or Hadvar
 
-Main files - Ralof or Hadvar (saved in form 44)
+**Main files** - Ralof or Hadvar (saved in form 44)
 
 *Skips the carriage drive and makes us enter right into Helgen’s Keep
 with Ralof or Hadvar. In some way it isn't an alternate start, but at
 the same time it is. What matters is this mod’s simplicity, which allows
 us to jump right into the action.*
 
-## [TPF Dragon’s Edition - Alternate Start Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+## TPF Dragon’s Edition - Alternate Start Patch
 
-﻿Main files - Alternate Start Patch
+﻿**Main files** - Alternate Start Patch
 
 # PATCHER OUTPUT
 
@@ -2229,21 +2237,21 @@ separator in the same order.
 
 After enabling these outputs, disable TPF’s outputs.
 
-## [TPF Dragon’s Edition - Outputs](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+## TPF Dragon’s Edition - Outputs
 
-﻿Main files - TPF Dragon’s Edition - Nemesis Output
+﻿**Main files** - TPF Dragon’s Edition - Nemesis Output
 
-﻿Main files - TPF Dragon’s Edition - Terrain LOD
+﻿**Main files** - TPF Dragon’s Edition - Terrain LOD
 
-﻿Main files - TPF Dragon’s Edition - Texgen Output
+﻿**Main files** - TPF Dragon’s Edition - Texgen Output
 
-﻿Main files - TPF Dragon’s Edition - DynDOLOD Output **or** TPF Dragon’s
-Edition - DynDOLOD Output (Performance) - was generated with medium INIs
-and performance grass mods
+﻿**Main files** - TPF Dragon’s Edition - DynDOLOD Output **or** TPF
+Dragon’s Edition - DynDOLOD Output (Performance) - was generated with
+medium INIs and performance grass mods
 
 (don’t forget to put Solstheim Ice Piles Fix after my DynDOLOD’s output)
 
-﻿Main files - TPF Dragon’s Edition - Occlusion
+﻿**Main files** - TPF Dragon’s Edition - Occlusion
 
 # CONFIGURATIONS
 
@@ -2263,42 +2271,42 @@ right after the mod from TPF and activate it.
 The same process must be done with:
 
 -   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPFs
-    > patches ([<u>look
-    > here</u>](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2))
-    > and Bruma for flora, More Growable Plants, Unique Flowers and
-    > Plants, 3D Mountain Flowers, Bruma for trees, Realistic Aspen
-    > Trees, Bruma for ice;
+    patches ([<u>look
+    here</u>](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2))
+    and Bruma for flora, More Growable Plants, Unique Flowers and
+    Plants, 3D Mountain Flowers, Bruma for trees, Realistic Aspen Trees,
+    Bruma for ice;
 
 -   Now find files with **Hide (not now, later, when you will get to the
-    > CONFIGURATIONS section)** instructions and do what is asked;
+    CONFIGURATIONS section)** instructions and do what is asked;
 
 -   *Lanterns of Skyrim II* in *LANDSCAPE* separator - SMIM and Bruma;
 
 -   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
-    > Default undead eyes, weaker lightning for ghosts, a patch for
-    > *Cannibal Draugr*, red skulls, Solstheim version of the patch,
-    > then delete *clutter* folder inside meshes;
+    Default undead eyes, weaker lightning for ghosts, a patch for
+    *Cannibal Draugr*, red skulls, Solstheim version of the patch, then
+    delete *clutter* folder inside meshes;
 
 -   *Simple Children - Patches* in *APPEARANCE* - Bruma, Helgen Reborn,
-    > Interesting NPCs, Moon and Star, The Forgotten City, Wyrmstooth,
-    > Adopt Aventus Aretino + USSEP;
+    Interesting NPCs, Moon and Star, The Forgotten City, Wyrmstooth,
+    Adopt Aventus Aretino + USSEP;
 
 -   *Misc. College of Winterhold Tweaks* in *IMPROVED VANILLA QUESTS* -
-    > TPFs patches ([<u>look
-    > here</u>](https://thephoenixflavour.com/tpf/mod-installation/new-content/#fomod-instructions-3))
-    > except *Scheduled Savos, A Wizard’s Walk, Erratum Etc.*, which
-    > aren’t chosen by FOMOD too (just for you to be sure that is
-    > correct), and you should make sure that Obscure’s College of
-    > Winterhold Add-on, Interesting NPCs Add-on, *None* for *The Early
-    > Elementalist* are chosen. Then disable the original *Misc. College
-    > of Winterhold Tweaks*.
+    TPFs patches ([<u>look
+    here</u>](https://thephoenixflavour.com/tpf/mod-installation/new-content/#fomod-instructions-3))
+    except *Scheduled Savos, A Wizard’s Walk, Erratum Etc.*, which
+    aren’t chosen by FOMOD too (just for you to be sure that is
+    correct), and you should make sure that Obscure’s College of
+    Winterhold Add-on, Interesting NPCs Add-on, *None* for *The Early
+    Elementalist* are chosen. Then disable the original *Misc. College
+    of Winterhold Tweaks*.
 
 Then you will need to redownload one mod.
 
 [**<u>Simple Player Homes
 Improvements</u>**](https://www.nexusmods.com/skyrimspecialedition/mods/37236)
 
-﻿Main files - Simple Home Improvements AIO (Proudspire 4 Beds)
+﻿**Main files** - Simple Home Improvements AIO (Proudspire 4 Beds)
 
 *Because we want more places for our many children to sleep, duh.*
 
@@ -2313,7 +2321,7 @@ After that is done, click anywhere in the load order panel and select
 -</u>**](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 **<u>Load Order</u>**
 
-﻿Main files - Load Order
+﻿**Main files** - Load Order
 
 *I hope you remember what to do with this. If no - open the archive and
 extract the loadorder.txt to Mod Organizer 2\\profiles\\The Phoenix
@@ -2328,12 +2336,12 @@ actually activate our high poly head in Racemenu and then our hair will
 look fine. Also choose a beard from High Poly Head and it will look good
 if that is needed.
 
-<img src="media/image5.png" style="width:3.42188in;height:4.00585in" />
+<img src="media/image7.png" style="width:3.42188in;height:4.00585in" />
 
 Then find the *Weapons* category and change settings to the same ones
 you see below.
 
-<img src="media/image3.png" style="width:7.07737in;height:4.72917in" />
+<img src="media/image8.png" style="width:7.07737in;height:4.72917in" />
 
 Later into the game, if you are planning to use shields and if you find
 one, I recommend you to go into the console with *\~* key, type
@@ -2343,7 +2351,7 @@ with other shield or even two-handed weapon settings, but don’t don’t
 overdo these or animations will look funky. For now you can use these,
 press *R* and *Enter* and you are done.
 
-<img src="media/image11.png" style="width:6.95036in;height:4.7258in" />
+<img src="media/image9.png" style="width:6.95036in;height:4.7258in" />
 
 At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
@@ -2482,7 +2490,7 @@ opinion, that isn’t right at all. Do you sit at home with one little
 light on and don’t see anything else around you? No, so this isn’t the
 right ENB for us.
 
-<img src="media/image7.png" style="width:6.27083in;height:3.52083in" />
+<img src="media/image10.png" style="width:6.27083in;height:3.52083in" />
 
 Now as default TPF uses Serio’s ENB, which allows users with low end PCs
 to use much needed features of ENB and make lightning to be a bit
@@ -2495,19 +2503,19 @@ colours. Another positive moment is that it almost doesn’t need any kind
 of adjustments for TPF weather or any other mods, so we just need to
 change ENB files and add a good addition for it.
 
-<img src="media/image13.png" style="width:6.27in;height:3.5294in" />
+<img src="media/image11.png" style="width:6.27in;height:3.5294in" />
 
-<img src="media/image1.png" style="width:9.69291in;height:5.45833in" />
+<img src="media/image12.png" style="width:9.69291in;height:5.45833in" />
 
-<img src="media/image4.png" style="width:9.69291in;height:5.45833in" />
+<img src="media/image13.png" style="width:9.69291in;height:5.45833in" />
 
 *(ft. a mod in development, which soon will be released, by Monty)*
 
 ## Silent Horizons ENB
 
-﻿Main files - D) Silent Horizons ENB for Cathedral Weathers
+﻿**Main files** - D) Silent Horizons ENB for Cathedral Weathers
 
-Optional files - Silent Horizons - Solar Cleaner
+**Optional files** - Silent Horizons - Solar Cleaner
 
 At first, delete *enbcache* folder you can find in your root folder.
 
