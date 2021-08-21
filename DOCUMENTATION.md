@@ -1820,7 +1820,7 @@ Sprint, Origin Dw Sprint_Type A`.
 
 # NPC OVERHAULS
 
-﻿As you probably understood (I hope), this project definitely goes over
+As you probably understood (I hope), this project definitely goes over
 vanilla+ mark (of course, you are using all those mods, what do you even
 talk about...) and I understand that too. With this category of mods I
 just want Skyrim to look a little bit more classy, modern. It is a
@@ -1830,10 +1830,10 @@ want to spend your money on a game to look at silly faces and then play
 while looking at those, when you have an option to change that? And also
 I believe that in my game - fantasy, where I decide what will happen -
 everyone has the right to look decent and appealing to my eyes (don't
-have any experience where someone criticized the "too good" looks of an
-actress for a specific movie or character in a game). So here we go.
+have any experience where someone criticized the _too good_ looks of an
+actress for a specific movie or a character in a game). So here we go.
 
-Create a separator and name it *NPC OVERHAULS* and place it directly
+Create a separator and name it `NPC OVERHAULS` and place it directly
 below the *FINAL PATCHES* separator (and its mods). Change its colour,
 so that it won't be the same as TPF's ones.
 
@@ -1843,8 +1843,8 @@ separator in the same order.
 In some scenarios we are going to hide some files from specific
 overhauls, because even considering the fact I have sorted overhauls
 relying on overall preference there are some exceptions I like more. For
-example, I love Evette San’s look from a mod called *The* *Ordinary
-Women,* but a mod called *Kalilies NPCs* is overwriting it with it’s own
+example, I love Evette San’s look from a mod called *The Ordinary
+Women*, but a mod called *Kalilies NPCs* is overwriting it with it’s own
 looks. So to make Evette from The Ordinary Women appear we are hiding
 her facegen files from Kalilies NPCs to make sure that the game loads
 needed files and my custom made plugin for our overhauls makes sure that
@@ -1855,13 +1855,13 @@ If you don't understand or want to know what will happen if you do
 something incorrectly, here you go. You have probably heard about the
 issue once or twice - black face bug. CTDs can happen if overhaul uses
 unique body parts (like The Ordinary Women) and you enter into the place
-where this *incorrect* NPC is.
+where this incorrect NPC is.
 
-<img src="media/image5.png" style="width:4.95075in;height:3.11979in" /><img src="media/image6.png" style="width:4.1969in;height:3.12in" />
+![image](https://user-images.githubusercontent.com/37147270/130331187-55046f91-3255-4c24-98b8-b6a6afbcd183.png)
 
-## Shield Sisters Re-Imagined
+## [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
 
-﻿**Main files** - Shield Sisters Re-Imagined UNP
+**Main files** - Shield Sisters Re-Imagined UNP
 
 **Update files** - Iona Jordis Illia Hotfix
 
@@ -1870,78 +1870,70 @@ where this *incorrect* NPC is.
 *One of the newest additions to NPC overhauls of Skyrim, which spices
 things up. Has Bijin series’ mods vibes, but feels more unique.*
 
-## Pandorable’s NPCs
+## [Pandorable’s NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
 
-﻿**Main files** - Pandorable's NPCs SE
+**Main files** - Pandorable's NPCs SE
 
-**FOMOD** - USSEP (Pandorable has probably forgotten to change name from
-LE's Unofficial Patch in her FOMOD), no warpaint only for Voldsea.
+**FOMOD** - `USSEP` (Pandorable has probably forgotten to change name from
+LE's Unofficial Patch in her FOMOD), `no warpaint only for Voldsea`.
 
 *Pandorable's overhauls are definitely one of the best ones as they not
 only cover the most notable NPCs of Skyrim, but also give each of them a
 bit of charisma.*
 
-## Pandorable's NPCs - Dawnguard
+## [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
 
-﻿**Main files** - Pandorable's NPCs - Dawnguard SE - USSEP
+**Main files** - Pandorable's NPCs - Dawnguard SE - USSEP
 
-##  
+## [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
 
-## Pandorable's NPCs - Dragonborn
-
-﻿**Main files** - Pandorable's NPCs - Dragonborn SE
+**Main files** - Pandorable's NPCs - Dragonborn SE
 
 **Optional files** - PAN_NPCs_DB - AI Overhaul patch
 
-**FOMOD** - alternative for Fanari-Strong-Voice, Ralis Sedarys, Captain
-Veleth, Wulf Wild-Blood, USSEP.
+**FOMOD** - `Alternative for Fanari-Strong-Voice, Ralis Sedarys, Captain
+Veleth, Wulf Wild-Blood, USSEP`.
 
-## Pandorable's NPCs - Males
+## [Pandorable's NPCs - Males](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
 
-﻿**Main files** - Pandorable's NPCs - Males SE
+**Main files** - Pandorable's NPCs - Males SE
 
-**FOMOD** - alternative for Savos, Cicero, Larak, Madanach, USSEP.
+**FOMOD** - `Alternative for Savos, Cicero, Larak, Madanach, USSEP`.
 
-## Pandorable's NPCs - Males 2
+## [Pandorable's NPCs - Males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
 
-﻿**Main files** - PAN_NPCs - Males 2
+**Main files** - PAN_NPCs - Males 2
 
-**FOMOD** - alternative for Borkul the Beast, alternative 2 for Chief
+**FOMOD** - `Alternative for Borkul the Beast, alternative 2 for Chief
 Burguk, alternative for Chief Mauhulakh, Athis, Skjor, alternative 2 for
 Vilkas and Farkas, alternative for Falion, Erik The Slayer, Unmid
-Snow-Shod, USSEP.
+Snow-Shod, USSEP`.
 
-##  
-
-## Northbourne NPCs of the Rift
+## [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349)
 
 **Main files** - Northbourne NPCs of The Rift - Full Version
 
 **Hide facegen files** - Double click on the mod in your mod order,
 switch to *Conflicts* tab, at the right side of *Winning file conflicts*
-there will be a filter, copy *000371d7* into it, hide two appeared
-files. Do the same process with *0001541b*.
+there will be a filter, copy `000371d7` into it, hide two appeared
+files. Do the same process with `0001541b`.
 
 *Another newest NPC overhaul series, which I like the most right now,
 because it has high poly faces and almost each of those looks diverse.*
 
-## Northbourne NPCs of Winterhold
+## [Northbourne NPCs of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/43413)
 
 **Main files** - Northbourne NPCs of Winterhold Full Version
 
-**Hide facegen files** - Hide *0001c19f* files.
+**Hide facegen files** - Hide `0001c19f` files.
 
-## 
-
-## Northbourne NPCs of Haafingar
+## [Northbourne NPCs of Haafingar](https://www.nexusmods.com/skyrimspecialedition/mods/48481)
 
 **Main files** - Northbourne NPCs of Haafingar
 
-**Hide facegen files** - Hide *0001326a* files.
+**Hide facegen files** - Hide `0001326a` files.
 
-##  
-
-## The Ordinary Women
+## [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
 
 **Main files** - The Ordinary Women SSE 4.0
 
@@ -1952,38 +1944,34 @@ because it has high poly faces and almost each of those looks diverse.*
 *Definitely the most immersive looks for women of Skyrim in all Nexus,
 which slightly outshine blocky vanilla faces.*
 
-## Northbourne NPCs of Falkreath Hold
+## [Northbourne NPCs of Falkreath Hold](https://www.nexusmods.com/skyrimspecialedition/mods/37528)
 
 **Main files** - Northbourne NPCs of Falkreath Hold - Full Version
 
-**Hide facegen files** - Hide *0001bdb1* files.
+**Hide facegen files** - Hide `0001bdb1` files.
 
-## Northbourne NPCs of Whiterun Hold
+## [Northbourne NPCs of Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/35404)
 
 **Main files** - Northbourne NPCs of Whiterun Hold - Full Version
 
-**Hide facegen files** - Hide *0001a694, 0001a692, 0001a6d7, 0001a6d5,
-000a2c8e* files.
+**Hide facegen files** - Hide `0001a694, 0001a692, 0001a6d7, 0001a6d5,
+000a2c8e` files.  
 
-##  
+## [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
 
-## Kalilies NPCs
+**Main files** - Kalilies NPCs
 
-﻿**Main files** - Kalilies NPCs
+**FOMOD** - `vanilla, no warpaint for Mena and Rhiada`.
 
-**FOMOD** - vanilla, no warpaint for Mena and Rhiada.
-
-**Hide facegen files** - Hide *00013273* files.
+**Hide facegen files** - Hide `00013273` files.
 
 *Something of a mix between Pandorable's NPCs and The Ordinary Women,
 which covers NPCs that those two mods aren't touching and a little bit
-more.*
+more.* 
 
-## 
+## [Pandorable's Black-Briar Ladies](https://www.nexusmods.com/skyrimspecialedition/mods/33731)
 
-## Pandorable's Black-Briar Ladies
-
-﻿**Main files** - Pandorable's Black-Briar Ladies
+**Main files** - Pandorable's Black-Briar Ladies
 
 **Optional files** - Ingun optional eyes
 
@@ -1991,25 +1979,23 @@ more.*
 
 **Optional files** - AI Overhaul patch
 
-##  
+## [Refined Volkihars](https://www.nexusmods.com/skyrimspecialedition/mods/35892)
 
-## Refined Volkihars
-
-﻿**Main files** - Refined Volkihars SSE - The Fangs Update
+**Main files** - Refined Volkihars SSE - The Fangs Update
 
 **Optional files** - Cured Serana Patch **(don’t enable this, just
 install)**
 
-**FOMOD** - vanilla or UNP, orange eyes for all, fangs.
+**FOMOD** - `vanilla or UNP, orange eyes for all, fangs`.
 
 *In my opinion, the best Volkihar family overhaul, because they are so
 much better than vanilla ones, but they still follow a vanilla
 aesthetic.*
 
-*You will need to enable the patch only after you cure Serana to make
-her look like a human.*
+You will need to enable the patch only after you cure Serana to make
+her look like a human.
 
-## Hood Plus Hair for Pandorable's Serana
+## [Hood Plus Hair for Pandorable's Serana](https://www.nexusmods.com/skyrimspecialedition/mods/40972)
 
 **Main files** - Hood Plus Hair for Pandorables Serana SHORT hair KS
 Soundwave
@@ -2024,11 +2010,11 @@ someone in Bethesda has thought that it would be a good idea that AI
 data and character’s appearance data should be included in one record.
 Thank Todd for that.
 
-## Shield Sisters Re-Imagined - AI Overhaul Patch
+## [Shield Sisters Re-Imagined - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44263)
 
 **Main files** - Shield Sisters Re-Imagined - AI Overhaul Patch
 
-## Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium
+## [Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/53197)
 
 **Main files** - Pandorable's NPCs - AI Overhaul Patch
 
@@ -2055,7 +2041,7 @@ patches for AI Overhaul should be placed after all NPC overhauls).
 
 **Move** - move the patch here.
 
-## USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium
+## [USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/45620)
 
 **Main files** - USSEP - Northbourne NPCs of the Rift - AI Overhaul
 Patch
@@ -2072,7 +2058,7 @@ Overhaul Patch
 **Main files** - USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul
 Patch
 
-## USSEP - The Ordinary Women - AI Overhaul Patch
+## [USSEP - The Ordinary Women - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41371)
 
 **Main files** - USSEP - The Ordinary Women - AI Overhaul Patch
 
@@ -2084,13 +2070,15 @@ Patch
 
 **Move** - move the patch here.
 
-## Updated Kalilies NPCs - AI Overhaul Patch
+## [Updated Kalilies NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53322)
 
 **Main files** - AI Overhaul - Kalilies NPCs Patch
 
 ## Pandorable's Black-Briar Ladies - AI Overhaul Patch
 
 **Move** - move the patch here.
+
+---
 
 # SALT & WIND HAIR RETEXTURES
 
