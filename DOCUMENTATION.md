@@ -171,13 +171,11 @@ won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## Winterhold Deep Sea Ruins
+## [Winterhold Deep Sea Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/53707?tab=files)
 
 **Main files** - winterholddeepsearuins
 
-##  
-
-## Obscure's College of Winterhold
+## [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514?tab=files)
 
 **Main files** - Obscure's College of Winterhold
 
@@ -196,39 +194,39 @@ Weapons Armor Clothing and Clutter Fixes 2.0+.
 
 **Main files** - Skinchangers v1
 
-## Civil War Deserters
+## [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497?tab=files)
 
 **Main files** - Civil War Deserters
 
-## Hearthfire - Unique Display Rooms
+## [Hearthfire - Unique Display Rooms](https://www.nexusmods.com/skyrimspecialedition/mods/4770?tab=files)
 
 **Main files** - HearthFires - Unique Special Edition Display Room
 
-## Serenity
+## [Serenity](https://www.nexusmods.com/skyrimspecialedition/mods/30019?tab=files)
 
 **Main files** - Serenity Installer
 
 **FOMOD** - Prefab.
 
-## Improved Follower Dialogue - Lydia
+## [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files)
 
 **Main files** - Improved Follower Dialogue - Lydia
 
 **FOMOD** - Unofficial Skyrim SE Patch.
 
-## Boethiah for Good Guys
+## [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329?tab=files)
 
 **Main files** - Main File
 
-*Wanted to leave some comments here and there for the future, when you
-will learn what mods do.*
+Wanted to leave some comments here and there for the future, when you
+will learn what mods do.
 
 *I know, I know, you can make debates about this mod being immersive or
 not. But you can kick Boethiah out of their cloud of thinking that
 everyone is just going to murder for them alone and at the same time not
 kill our improved followers. Win-win situation for me.*
 
-## Thieves Guild For Good Guys
+## [Thieves Guild For Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/10745?tab=files)
 
 **Main files** - Thieves Guild For Good Guys - Taking Care of Business
 Redux 4.0
@@ -237,26 +235,26 @@ Redux 4.0
 me. Not even talking about Thieves Guild becoming something more than
 just a bunch of ordinary thieves united.*
 
-## Opulent Thieves Guild
+## [Opulent Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/931?tab=files)
 
 **Main files** - Opulent Thieves Guild
 
-## Adoption Without Murder
+## [Adoption Without Murder](https://www.nexusmods.com/skyrimspecialedition/mods/46741?tab=files)
 
 **Main files** - Adoption without Murder
 
-## Dark Brotherhood Reborn - Dawnstar Sanctuary
+## [Dark Brotherhood Reborn - Dawnstar Sanctuary](https://www.nexusmods.com/skyrimspecialedition/mods/22070?tab=files)
 
 **Main files** - Dark Brotherhood Reborn - Dawnstar Sanctuary
 
-## Dark Brotherhood Reborn - Patches, Tweaks and Enhancements
+## [Dark Brotherhood Reborn - Patches, Tweaks and Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/34909?tab=files)
 
 **Main files** - Dark Brotherhood Reborn - Patch Collection FOMOD
 
 **FOMOD** - USSEP, Save The Dark Brotherhood (SSE), The Dark Brotherhood
 of Old, general tweaks.
 
-## Save The Dark Brotherhood
+## [Save The Dark Brotherhood](https://www.nexusmods.com/skyrimspecialedition/mods/33461?tab=files)
 
 **Main files** - Save the Dark Brotherhood 1.1
 
@@ -265,66 +263,66 @@ least a bunch of the members, The Dark Brotherhood feels like The Dark
 Dragonborn, so give me a chance to save more of the members especially
 considering the previous mod we have added.*
 
-## The Brotherhood of Old
+## [The Brotherhood of Old](https://www.nexusmods.com/skyrimspecialedition/mods/15322?tab=files)
 
 **Main files** - SSE - The Brotherhood of Old - Version 1.1.0
 
-## Castle Volkihar Rebuilt
+## [Castle Volkihar Rebuilt](https://www.nexusmods.com/skyrimspecialedition/mods/324?tab=files)
 
 **Main files** - SSE - Castle Volkihar Rebuilt
 
-## Serana Dialogue Edit
+## [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=files)
 
 **Main files** - SeranaDialogEdit v 102
 
-## Serana Dialogue Add-On
+## [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files)
 
 **Main files** - Serana Dialogue Add-On SE
 
 **Optional files** - SDA Serana Dialogue Edit Patch
 
-## Cannibal Draugr on Solstheim
+## [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238?tab=files)
 
 **Main files** - Cannibal Draugr on Solstheim
 
-## Briraka's Draugr Overhaul - Cannibal Draugr Patch
+## [Briraka's Draugr Overhaul - Cannibal Draugr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
 
 **Optional files** - BriDO - Cannibal Draugr Patch
 
-## Blood Horker
+## [Blood Horker](https://www.nexusmods.com/skyrimspecialedition/mods/13938?tab=files)
 
 **Main files** - Blood Horker
 
-## Grahl - The Ice Troll
+## [Grahl - The Ice Troll](https://www.nexusmods.com/skyrimspecialedition/mods/9311?tab=files)
 
 **Main files** - Grahl - The Ice Troll - 4K
 
-## Solstheim Lighthouse
+## [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329?tab=files)
 
 **Main files** - Solstheim Lighthouse v1.2 ESL
 
 **Instructions** - rename the mod’s plugin to *SolstheimLighthouse.esp*.
 
-## Solstheim - Skaal Fishing Camp
+## [Solstheim - Skaal Fishing Camp](https://www.nexusmods.com/skyrimspecialedition/mods/14450?tab=files)
 
 **Main files** - Solstheim - Skaal Fishing Camp
 
-## Miraak - Dragonborn Follower
+## [Miraak - Dragonborn Follower](https://www.nexusmods.com/skyrimspecialedition/mods/19829?tab=files)
 
 **Main files** - Miraak - Dragonborn Follower SE
 
 *Just imagine the Naruto redemption arc (unfortunately not canon too).
 It is just too good to be left out.*
 
-## Miraak Follower Dialogue Plus
+## [Miraak Follower Dialogue Plus](https://www.nexusmods.com/skyrimspecialedition/mods/25566?tab=files)
 
 **Main files** - Miraak Dialogue Plus
 
-## Miraak - Dragonborn Follower Dialogue Overhaul
+## [Miraak - Dragonborn Follower Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40330?tab=files)
 
 **Main files** - Miraak - Dragonborn Follower SE (Dialogue Overhaul)
 
-## Miraak Husbando
+## [Miraak Husbando](https://www.nexusmods.com/skyrimspecialedition/mods/22063?tab=files)
 
 **Main files** - Miraak Husbando
 
@@ -337,61 +335,59 @@ follower), so he, like all others, deserves attention too. What is funny
 is that he looks very similar to my nord character preset, just
 younger.*
 
-## Helgen Reborn
+## [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673?tab=files)
 
 **Main files** - Helgen Reborn SSE Version 106 With bsa file
 
-## Moon and Star
+## [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301?tab=files)
 
 **Main files** - Moon and Star
 
 **Optional files** -Immersion Patch
 
-## Moon and Star - Cleaned Plugin Replacer
+## [Moon and Star - Cleaned Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/28530?tab=files)
 
 **Main files** - MoonAndStar - Cleaned and USSEP Compatible
 
-## Moon and Star Fixes
+## [Moon and Star Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/27434?tab=files)
 
 **Main files** - Moon and Star (MAS) Books Fix
 
 **Main files** - Moon and Star (MAS) Landscapes Fixes
 
-## Moonpath to Elsweyr
+## [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341?tab=files)
 
 **Main files** - Moonpath to Elsweyr SSE
 
-## Unofficial Moonpath to Elsweyr Patch
+## [Unofficial Moonpath to Elsweyr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/15882?tab=files)
 
 **Main files** - Unofficial Moonpath to Elsweyr Patch v1.5.0
 
-## Moonpath to Elsweyr Navmesh Fix
+## [Moonpath to Elsweyr Navmesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25714?tab=files)
 
 **Hidden** - skip this mod for now.
 
 **Main files** - Moonpath to Elsweyr Navmesh Fix
 
-## Moonpath of Elsweyr - Music - Sky and Lightning Fix
+## [Moonpath of Elsweyr - Music - Sky and Lightning Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18683?tab=files)
 
 **Main files** - Moonpath Music - Sky and Light fix - Merged 1.3
 
-## Beyond Skyrim - Bruma
+## [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917?tab=files)
 
 **Main files** - Beyond Skyrim Bruma SE 1.3.3
 
 **Main files** - Beyond Skyrim DLC Integration Patch
 
-## Beyond Skyrim - Bruma NPC Eye Fix
+## [Beyond Skyrim - Bruma NPC Eye Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26116?tab=files)
 
 **Main files** - Beyond Skyrim Bruma SE 1.3.3 - NPC EYE Fix - Done
 
-## 
-
-## Nordic Faces - Beyond Skyrim - Bruma Facegen
+## [Nordic Faces - Beyond Skyrim - Bruma Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/40658?tab=files)
 
 **Miscellaneous files** - FaceGen - Beyond Skyrim Bruma
 
-## Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches
+## [Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19374?tab=files)
 
 **Main files** - Beyond Skyrim - Bruma - Tweaks Enhancements and Patches
 SSE 1.7
