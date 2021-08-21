@@ -2235,19 +2235,21 @@ me to check things inside.
 
 **Main files** - TPF Dragon’s Edition - New Content Patch
 
+**Main files** - TPF Dragon's Edition - New Content and Landscape Patch
+
 **Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
 
 **Main files** - TPF Dragon’s Edition - Miscellaneous Patch
 
-**Main files** - TPF Dragon's Edition - New Content & Miscellaneous
-Patch
+**Main files** - TPF Dragon's Edition - New Content & Miscellaneous Patch
 
 **Main files** - TPF Dragon’s Edition - Appearance Patch
 
+**Main files** - TPF Dragon's Edition - New Content and Appearance Patch
+
 **Main files** - TPF Dragon’s Edition - NPC Overhauls Patch
 
-**Main files** - TPF Dragon’s Edition - New Content and NPC Overhauls
-Patch
+**Main files** - TPF Dragon’s Edition - New Content and NPC Overhauls Patch
 
 **Main files** - TPF Dragon’s Edition Patch
 
