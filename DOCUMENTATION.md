@@ -20,12 +20,14 @@ This category's mods are optional - you can just skip it or install the
 mods you like. There will be instructions on files, which are needed, if
 you have decided to use one or more mods.
 
+
 ## [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
 **Main files** - ReCleanedMenus
 
 *I prefer the vanilla-style main menu. It also doesn’t mess up so much
 with the beautiful background.*
+
 
 ## [Centaur Font](https://www.nexusmods.com/skyrimspecialedition/mods/14356)
 
