@@ -1145,25 +1145,13 @@ the game's root folder.
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
 
-### [The Elder Scrolls Legends - Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/37929)
+### [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529)
 
-**Main files** - TESL - Loading Screens
-
-**FOMOD** - Your monitor’s aspect ratio, then an option to make
-new loading screens appear for all time (100%).
+**Main files** - Simple Load Screens
 
 *Replaces stale, not eye-catching loading screens with new ones with
 lore-friendly artwork of Skyrim and what it has to offer. At least
 people, who have to wait longer on them, will be pleased.*
-
-### TESL Loading Screens - Tweaks and Addons
-
-**Main files** - TESL LS - Tweaks and Addons -VIGOROUS-
-
-**FOMOD** - choose your monitor’s aspect ratio, don’t change anything
-else.
-
-*Adds even more loading screens for the last mod, fixes some typos.*
 
 ### [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
 
@@ -1247,11 +1235,18 @@ broom from your inventory.*
 
 ### [Hearthfire Multiple Adoptions and Custom Home Support](https://www.nexusmods.com/skyrimspecialedition/mods/3862)
 
-**Main files** - Hearthfire Multiple Adoptions and Custom Home Support
-SE
+**Main files** - Hearthfire Multiple Adoptions and Custom Home Support SE
 
 *Not only allows you to adopt more children, but also to bring your
 spouse and kids to the new houses we have added.*
+
+### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+
+**Main files** - C.O.I.N.
+
+**FOMOD** - `Author's Choice, Auto Conversion Enabled, The Tools of Kagrenac, WACCF, USSEP`.
+
+*Finally draugr aren't stealing any septims around Skyrim and bringing them to crypts. Only fruits and vegetables from time to time as an offering for ... themselves? Maybe someone else.*
 
 ### [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329)
 
