@@ -145,6 +145,20 @@ will not work with this mod installed.**
 *Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
 
+### [Pastel SkyUI Markers](https://www.nexusmods.com/skyrimspecialedition/mods/13604)
+
+**Main files** - Pastel SkyUI SkyHUD
+
+*Makes markers on the map and the compass more distinguishable, while making them also better to look at.*
+
+### [Detailed Mine Markers](https://www.nexusmods.com/skyrimspecialedition/mods/3172)
+
+**Main files** - Detailed Mine Markers v1.4
+
+**FOMOD** - Whatever options you like, except one you need to use - `Install USSEP Compatibility`. I recommend lore friendly markers with an aditions of new markers for mines.
+
+*Finally I won't need to ask Google about where can I get specific kind of ore. It is enough to use the search functionality in our map.*
+
 ### [Werewolf Transformation Timer](https://www.nexusmods.com/skyrimspecialedition/mods/45326)
 
 **Main files** - Werewolf Transformation Timer
