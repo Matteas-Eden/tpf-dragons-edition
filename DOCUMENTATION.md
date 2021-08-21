@@ -1078,18 +1078,18 @@ character.*
 **Main files** - Dragonborn Presence
 
 **Instructions** - Install the mod, right-click *Data* folder and select
-*Set as data directory*, click *Ok*. Right-click the mod in your
+*Set as data directory*, click *OK*. Right-click the mod in your
 *Downloads* tab and select *Open File*, move *discord-rpc.dll* file to
 the game's root folder.
 
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
 
-## The Elder Scrolls Legends - Loading Screens
+## [The Elder Scrolls Legends - Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/37929)
 
 **Main files** - TESL - Loading Screens
 
-**FOMOD** - choose your monitor’s aspect ratio, then an option to make
+**FOMOD** - Your monitor’s aspect ratio, then an option to make
 new loading screens appear for all time (100%).
 
 *Replaces stale, not eye-catching loading screens with new ones with
@@ -1105,29 +1105,29 @@ else.
 
 *Adds even more loading screens for the last mod, fixes some typos.*
 
-## Look What You See
+## [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
 
 **Main files** - Look what you see
 
-**FOMOD** - ESL.
+**FOMOD** - `ESL`.
 
-**Instructions** - rename the mod’s plugin to *TissHeadTrack.esp* .
+**Instructions** - rename the mod’s plugin to `TissHeadTrack.esp`.
 
-**If you installed Alternate Conversation Camera** - go to Alternate
-Conversation Camera's INI, in line 47, change bConversationHT to 0.
+**If you installed Alternate Conversation Camera** - go to _Alternate
+Conversation Camera_'s INI, in line 47, change _bConversationHT_ to `0`.
 
 *Head tracking mod, which makes our player character (PC) observe
 things, which we move our cursor on.*
 
-## First Person Camera Height Fix
+## [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
 
-﻿**Main files** - First Person Camera Height Fix
+**Main files** - First Person Camera Height Fix
 
 *Who would have thought that High Elves are actually high. I thought
 they just named themselves like that. One other mod, which we will
 install later, will greatly help us in using this mod’s capabilities.*
 
-## Diziet's [Auto Outfits](https://www.nexusmods.com/skyrimspecialedition/mods/40801)
+## [Diziet's Auto Outfits](https://www.nexusmods.com/skyrimspecialedition/mods/40801)
 
 **Main files** - Diziet's Auto Outfits
 
