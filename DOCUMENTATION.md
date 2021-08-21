@@ -2415,12 +2415,12 @@ If you want to help even more, you can donate to me (via PayPal) by
 pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
 If you want to learn a little bit more about the content we have added,
-read the *Gameplay Guide* section of the add-on.
+read the [*Gameplay Guide*](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#gameplay-guide) section of the add-on.
 
 If you are interested in changing TPF’s default ENB to what I use
 personally, continue with the *ENB* section.
 
-If you have experienced a bug during your walkthrough, read the *Bugs*
+If you have experienced a bug during your walkthrough, read the [*Bugs*](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#bugs)
 section of the add-on.
 
 ---
