@@ -1,4 +1,4 @@
-# GETTING STARTED
+#### GETTING STARTED
 
 Select _Profiles_ option from the Mod Organizer 2 (MO2) menu, select
 your TPF profile, which you use for playing (basic or performance version), and select _Copy_ on the
