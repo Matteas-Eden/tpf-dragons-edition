@@ -61,6 +61,12 @@ Book Font Patch
 **Optional files** - Consolas Font - Centaur Font - 12th Century Book
 Font Patch
 
+### [Better SkyUI Config](https://www.nexusmods.com/skyrimspecialedition/mods/49095)
+
+**Main files** - Better SkyUI Config
+
+*Changes default SkyUI's sorting to be more user friedly by sorting all items by their type, active effects by their expiration time and by making equipped items grouped right at the top.*
+
 ### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
 **Main files** - SmoothCam
