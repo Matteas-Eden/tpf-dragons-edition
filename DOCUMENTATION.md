@@ -866,7 +866,7 @@ changes are saved.
 ## Landscape
 
 Phoenix is definitely a master at choosing and mixing different landscape elements to make it as beautiful as we can experience in TPF, 
-but a few gems added in this will definitely make our surroundings even more picturesque.  
+but a few gems added in this will definitely make our surroundings even more breath-taking.  
 
 Create a separator and name it `LANDSCAPE EXTENDED` and place it
 directly below the *TREES & PLANTS* separator (and its mods). Change its
@@ -923,7 +923,7 @@ Mountain Flowers
 
 **Main files** - Rorikstead Basalt Cliffs
 
-*Like I said before I would like to make Skyrim more picturesque. By adding some unique things to regions of Skyrim like this one, we can probably achieve that.*
+*By adding some unique things to regions of Skyrim like this one, we can definitely achieve our goal of making Skyrim a majestic land it is supposed to be.*
 
 ---
 
