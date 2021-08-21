@@ -2232,7 +2232,7 @@ The same process must be done with:
     Bruma for ice`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
-    CONFIGURATIONS section)** by using [this]() and do what is asked;
+    CONFIGURATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
 
 -   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
 
