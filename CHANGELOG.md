@@ -32,6 +32,8 @@ Added _Quicker Bed Exit_.
 
 Added _Reading is Good_.
 
+Added _Pilgrim - A Religion Overhaul_.
+
 ### Appearance
 
 Removed FK's Diverse Racial Skeletons and its patch for Aetherius. Added _Racial Body Morphs_.
