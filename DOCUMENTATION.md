@@ -11,33 +11,33 @@ Create a separator and name it `INTERFACE EXTENDED` and place it
 directly below the *INTERFACE* separator (and its mods). Change its
 colour, so that it won't be the same as TPF's ones.
 
-﻿All of the following mods in this category will be placed under this
+All of the following mods in this category will be placed under this
 separator in the same order.
 
-﻿This category's mods are optional - you can just skip it or install the
+This category's mods are optional - you can just skip it or install the
 mods you like. There will be instructions on files, which are needed, if
 you have decided to use one or more mods.
 
 ## [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
-﻿Main files - ReCleanedMenus
+**Main files** - ReCleanedMenus
 
 *I prefer the vanilla-style main menu. It also doesn’t mess up so much
 with the beautiful background.*
 
-## ﻿[Centaur Font](https://www.nexusmods.com/skyrimspecialedition/mods/14356)
+## [Centaur Font](https://www.nexusmods.com/skyrimspecialedition/mods/14356)
 
-﻿Main files - Centaur Font SSE
+**Main files** - Centaur Font SSE
 
-*﻿Sovngarde font looks a little bit cartoonish to me, while Centaur font
+*Sovngarde font looks a little bit cartoonish to me, while Centaur font
 is looking good within Skyrim's theme and is more usual, but not too
 ordinary.*
 
 ## [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
 
-﻿Main files - Font
+**Main files** - Font
 
-*﻿Replaces font in Skyrim's books to look not as modern, more
+*Replaces font in Skyrim's books to look not as modern, more
 sophisticated.*
 
 ## [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
