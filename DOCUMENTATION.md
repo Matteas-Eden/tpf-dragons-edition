@@ -206,7 +206,7 @@ Weapons Armor Clothing and Clutter Fixes 2.0+`.
 
 **Main files** - Serenity Installer
 
-**FOMOD** - Prefab.
+**FOMOD** - `Prefab`.
 
 ## [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files)
 
@@ -569,7 +569,7 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 **Main files** - The Wheels of Lull SE Unwound Edition
 
-**FOMOD** - Don’t choose anything, just install.
+**FOMOD** - don’t change anything.
 
 ## [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351?tab=files)
 
