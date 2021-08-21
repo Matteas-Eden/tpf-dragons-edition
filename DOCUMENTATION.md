@@ -2085,22 +2085,22 @@ Patch
 Now we will make our hair mods (and some of our overhauled NPCs’ hairs)
 blend a little bit better with vanilla ones.
 
-Create a separator and name it *SALT & WIND HAIR RETEXTURES* and place
+Create a separator and name it `SALT & WIND HAIR RETEXTURES` and place
 it directly below the *NPC OVERHAULS* separator (and its mods). Change
 its colour, so that it won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-## KS Hairdos 1.7 - Salt and Wind
+## [KS Hairdos 1.7 - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975)
 
-﻿**Miscellaneous files** - Cuyima Interesting NPCs - Salt and Wind
+**Miscellaneous files** - Cuyima Interesting NPCs - Salt and Wind
 
-﻿**Main files** - KS Hairdos 1.7 - Salt and Wind
+**Main files** - KS Hairdos 1.7 - Salt and Wind
 
 **Miscellaneous files** - KS Hairdos SMP - Salt and Wind
 
-﻿**Miscellaneous files** - Pandorable's NPCs - Salt and Wind
+**Miscellaneous files** - Pandorable's NPCs - Salt and Wind
 
 **Miscellaneous files** - Pandorable's NPCs DG - Salt and Wind
 
@@ -2108,19 +2108,19 @@ separator in the same order.
 
 **Miscellaneous files** - The Ordinary Women - Salt and Wind
 
-## Salt and Wind - Rough Hair for Apachii Sky Hair
+## [Salt and Wind - Rough Hair for Apachii Sky Hair](https://www.nexusmods.com/skyrimspecialedition/mods/16909)
 
-﻿**Main files** - Salt and Wind - ApachiiSkyHair SE v1.6 Retexture
+**Main files** - Salt and Wind - ApachiiSkyHair SE v1.6 Retexture
 
-## Pandorable's Males - Salt and Wind Retexture
+## [Pandorable's Males - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44336)
 
-﻿**Main files** - Pandorable's Males - Salt and Wind
+**Main files** - Pandorable's Males - Salt and Wind
 
-## Kalilies NPCs - Salt and Wind Retexture
+## [Kalilies NPCs - Salt and Wind Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335)
 
-﻿**Main files** - Kalilies NPCs - Salt and Wind
+**Main files** - Kalilies NPCs - Salt and Wind
 
-#  
+---
 
 # FINAL PATCHES
 
