@@ -2276,6 +2276,8 @@ me to check things inside.
 
 **Main files** - TPF Dragon’s Edition - New Content and NPC Overhauls Patch
 
+**Main files** - TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch
+
 **Main files** - TPF Dragon’s Edition Patch
 
 ---
