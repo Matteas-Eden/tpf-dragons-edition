@@ -1111,7 +1111,7 @@ grow only things I consider to be immersive to be grown.*
 
 **Main files** - enb square test alpha test test file v31
 
-**Instructions** - Delete `dD-Larger Splatter Size.esp` and `dD-Reduced Splatter Size.esp`.
+**Delete** - Remove `dD-Larger Splatter Size.esp` and `dD-Reduced Splatter Size.esp`.
 
 *This fix is going to help us resolve weird blood sqare effect.*
 
