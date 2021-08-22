@@ -29,7 +29,7 @@ Added _Rorikstead Basalt Cliffs_.
 
 ### Miscellaneous
 
-Moved some mods out to the _Landscape Extended_ section.
+Moved some mods out to the _Landscape_ section.
 
 Added _Enhanced Blood Textures - ENB Fix_.
 
