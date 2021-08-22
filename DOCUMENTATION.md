@@ -1289,7 +1289,7 @@ on items multiple times, which is configurable through MCM.*
 
 **FOMOD** - Don’t change anything.
 
-**Instructions** - Disable *Adamant = Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_ patch.
+**Instructions** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
 
 *In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more impportant for our player character too.*
 
