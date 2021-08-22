@@ -2543,8 +2543,7 @@ read the [*Gameplay Guide*](https://github.com/DragonBlame/tpf-dragons-edition/b
 If you are interested in changing TPF’s default ENB to what I use
 personally, continue with the *ENB* section.
 
-If you have experienced a bug during your walkthrough, read the [*Bugs*](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#bugs)
-section of the add-on.
+If you have experienced a bug during your walkthrough, jump into TPF's Discord server and tell me about it in #tpf-addons-support.
 
 ---
 
@@ -2732,7 +2731,7 @@ while exploring.
 
 ---
 
-## BUGS
+## BUGS (not used right now)
 
 I am sorry if you need to use this paragraph.
 
