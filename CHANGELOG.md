@@ -4,7 +4,7 @@
 
 ## Version 1.3.
 
-> xx.08.2021.
+> 22.08.2021.
 
 
 ### Interface
@@ -19,8 +19,6 @@ Added *Detailed Mine Markers*.
 
 Added *Shirley - A Skyrim Follower Mod* and *Older Shirley*.
 
-Added *Hammet's Dungeon Packs*.
-
 ### Landscape
 
 Moved Official Unique Flowers and Plants, Cayhedral - 3D Mountain Flowers, A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers, A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers here from the _Miscellaneous_ section.
@@ -32,6 +30,8 @@ Added _Rorikstead Basalt Cliffs_.
 ### Miscellaneous
 
 Moved some mods out to the _Landscape Extended_ section.
+
+Added _Enhanced Blood Textures - ENB Fix_.
 
 Removed The Elder Scrolls Legends - Loading Screens and its tweaks, add-ons. Added _Simple Load Screens_.
 
@@ -55,6 +55,6 @@ Added a new section for the add-on. Added _Literally Unplayable - Remove Random 
 
 ### Other Changes
 
-You must update powerofthree's Papyrus Extender, Diziet's Auto Outfits, Mysticism - A Magic Overhaul and Adamant - A Perk Overhaul.
+You must update powerofthree's Papyrus Extender, Diziet's Auto Outfits and TPF's mods (the main concern is Mysticism and Adamant, but it is better to update all things, which came before the Phoenix's latest update of TPF).
 
-Updated the new content, miscellaneous and appearance patches. Added he new content and landscapes patch, new content and appearance patch.								
+Updated all patches except TPF Dragon's Edition - Apparel and Weapons Patch, TPF Dragon's Edition Patch, TPF Dragon's Edition - Alternate Start Patch. Added TPF Dragon's Edition - New Content and Appearance Patch, TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch.								
