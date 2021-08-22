@@ -14,7 +14,7 @@ Added *Better SkyUI Config*, *Pastel SkyUI Markers* *Detailed Mine Markers*.
 ### New Content
 
 Added *Shirley - A Skyrim Follower Mod and Older Shirley*.
-Added *Hammet's Dungeon Packs* and its patch for Tools of Kaegrenac.
+Added *Hammet's Dungeon Packs*.
 
 ### Landscape
 
