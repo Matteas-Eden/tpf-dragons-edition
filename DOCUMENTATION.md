@@ -1105,7 +1105,15 @@ grow only things I consider to be immersive to be grown.*
 
 ### [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
 
-**Main files** - More Growable Plants_3D Mountain Flowers patch  
+**Main files** - More Growable Plants_3D Mountain Flowers patch
+
+### [Enhanced Blood Textures - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
+
+**Main files** - enb square test alpha test test file v31
+
+**Instructions** - Delete `dD-Larger Splatter Size.esp` and `dD-Reduced Splatter Size.esp`.
+
+*This fix is going to help us resolve weird blood sqare effect.*
 
 ### [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
 
