@@ -55,6 +55,6 @@ Added a new section for the add-on. Added _Literally Unplayable - Remove Random 
 
 ### Other Changes
 
-You must update powerofthree's Papyrus Extender and Diziet's Auto Outfits.
+You must update powerofthree's Papyrus Extender, Diziet's Auto Outfits, Mysticism - A Magic Overhaul and Adamant - A Perk Overhaul.
 
 Updated the new content, miscellaneous and appearance patches. Added he new content and landscapes patch, new content and appearance patch.								
