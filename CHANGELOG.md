@@ -57,4 +57,4 @@ Added a new section for the add-on. Added _Literally Unplayable - Remove Random 
 
 You must update powerofthree's Papyrus Extender, Diziet's Auto Outfits and TPF's mods (excluding 22.08.2021. Fixed Mesh Lightning's update).
 
-Updated the new content, miscellaneous, new content and miscellaneous, appearance and NPC overhauls patch. Added the new content and appearance, miscellaneous and NPC overhauls patch.								
+Updated the new content, miscellaneous, npc overhauls, new content and miscellaneous, appearance and NPC overhauls patch. Added the new content and appearance, miscellaneous and NPC overhauls patch.								
