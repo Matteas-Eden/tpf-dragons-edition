@@ -9,12 +9,11 @@
 
 ### Interface
 
-Added *Better SkyUI Config*, *Pastel SkyUI Markers* *Detailed Mine Markers*.
+Added *Better SkyUI Config*, *Pastel SkyUI Markers* and *Detailed Mine Markers*.
 
 ### New Content
 
-Added *Shirley - A Skyrim Follower Mod and Older Shirley*.
-Added *Hammet's Dungeon Packs*.
+Added *Shirley - A Skyrim Follower Mod and Older Shirley*, *Hammet's Dungeon Packs*.
 
 ### Landscape
 
