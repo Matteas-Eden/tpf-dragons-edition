@@ -9,19 +9,29 @@
 
 ### Interface
 
-Added *Better SkyUI Config*, *Pastel SkyUI Markers* and *Detailed Mine Markers*.
+Added *Better SkyUI Config*.
+
+Added *Pastel SkyUI Markers*.
+
+Added *Detailed Mine Markers*.
 
 ### New Content
 
-Added *Shirley - A Skyrim Follower Mod and Older Shirley*, *Hammet's Dungeon Packs*.
+Added *Shirley - A Skyrim Follower Mod* and *Older Shirley*.
+
+Added *Hammet's Dungeon Packs*.
 
 ### Landscape
 
-Moved some mods here from the _Miscellaneous_ section. Added _Butterflies Land True_, _Butterflies Unchained_, _Rorikstead Basalt Cliffs_.
+Moved Official Unique Flowers and Plants, Cayhedral - 3D Mountain Flowers, A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers, A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers here from the _Miscellaneous_ section.
+
+Added _Butterflies Land True_, _Butterflies Unchained_.
+
+Added _Rorikstead Basalt Cliffs_.
 
 ### Miscellaneous
 
-Moved Official Unique Flowers and Plants, Cayhedral - 3D Mountain Flowers, A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers, A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers to the _Landscape Extended_ section.
+Moved some mods out to the _Landscape Extended_ section.
 
 Removed The Elder Scrolls Legends - Loading Screens and its tweaks, add-ons. Added _Simple Load Screens_.
 
