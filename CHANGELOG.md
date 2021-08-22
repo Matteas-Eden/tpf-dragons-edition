@@ -7,7 +7,7 @@
 > xx.08.2021.
 
 
-### Interface:
+### Interface
 
 Added *Better SkyUI Config*.
 
@@ -15,13 +15,13 @@ Added *Pastel SkyUI Markers*.
 
 Added *Detailed Mine Markers*.
 
-### New Content:
+### New Content
 
 Added *Shirley - A Skyrim Follower Mod* and *Older Shirley*.
 
 Added *Hammet's Dungeon Packs*.
 
-### Landscape:
+### Landscape
 
 Moved Official Unique Flowers and Plants, Cayhedral - 3D Mountain Flowers, A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers, A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers here from the _Miscellaneous_ section.
 
@@ -29,7 +29,7 @@ Added _Butterflies Land True_, _Butterflies Unchained_.
 
 Added _Rorikstead Basalt Cliffs_.
 
-### Miscellaneous:
+### Miscellaneous
 
 Moved some mods out to the _Landscape Extended_ section.
 
@@ -43,17 +43,17 @@ Added _Reading is Good_.
 
 Added _Pilgrim - A Religion Overhaul_.
 
-### Appearance:
+### Appearance
 
 Removed FK's Diverse Racial Skeletons and its patch for Aetherius. Added _Racial Body Morphs_.
 
 Added _BeastHHBB_ for player character only.
 
-### Literally Unplayable:
+### Literally Unplayable
 
 Added a new section for the add-on. Added _Literally Unplayable - Remove Random Head Parts from Chatacter Creation_.
 
-### Other Changes:
+### Other Changes
 
 You must update powerofthree's Papyrus Extender and Diziet's Auto Outfits.
 
