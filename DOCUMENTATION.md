@@ -2215,7 +2215,7 @@ separator in the same order.
 
 Briefly, mods we are going to install are going to help us mask head parts from mods we have installed before 
 not to mess up with our game. How can they mess up the game? For instance, just by cluttering up your Racemenu.
-And making your hair dissapear or making even more problems if you have used an appearance asset from the mod you weren't supposed to. 
+And making your hair dissapear or making even more problems if you have used an appearance asset from the mod you weren't supposed to and then removed it. 
 Also do you remember the mod Ordinary Women mod we have talked about and how its head parts can crash the game?
 So guess what will happen if you equip that head part to your character.
 
