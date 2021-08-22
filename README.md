@@ -1,2 +1,3 @@
-# tpf-dragons-edition
-﻿This is an add-on, which helps you add more content and changes to The Phoenix Flavour (TPF) installation, which I would like to play with to expand Skyrim's world and possibilities in the best way possible.
+![image](https://user-images.githubusercontent.com/37147270/130256008-a0cbcf53-6e3b-4e5c-b128-ffa5d1f8dd08.png)
+# <p align="center">Documentation for v. 1.3.</p>
+### <p align="center">For 4.7.2. v. of TPF</p>
