@@ -57,4 +57,4 @@ Added a new section for the add-on. Added _Literally Unplayable - Remove Random 
 
 You must update powerofthree's Papyrus Extender, Diziet's Auto Outfits and TPF's mods (the main concern is Mysticism and Adamant, but it is better to update all things, which came before the Phoenix's latest update of TPF).
 
-Updated all patches except TPF Dragon's Edition - Apparel and Weapons Patch, TPF Dragon's Edition Patch, TPF Dragon's Edition - Alternate Start Patch. Added TPF Dragon's Edition - New Content and Appearance Patch, TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch.								
+Updated all patches except TPF Dragon's Edition - Apparel and Weapons Patch, TPF Dragon's Edition Patch, TPF Dragon's Edition - Alternate Start Patch. Updated all outputs except TPF Dragon's Edition - Nemesis Output. Added TPF Dragon's Edition - New Content and Appearance Patch, TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch.								
