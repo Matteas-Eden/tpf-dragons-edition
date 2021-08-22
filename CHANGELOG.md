@@ -31,6 +31,8 @@ Added _Rorikstead Basalt Cliffs_.
 
 Moved some mods out to the _Landscape Extended_ section.
 
+Added _Enhanced Blood Textures - ENB Fix_.
+
 Removed The Elder Scrolls Legends - Loading Screens and its tweaks, add-ons. Added _Simple Load Screens_.
 
 Added _C.O.I.N. - Coins of Interesting Natures_.
