@@ -877,10 +877,6 @@ changes are saved.
 
 **Main files** - Moon and Star - Undeath Remastered Patch
 
-### [Hammet's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/12186?tab=files)
-
-**Optional files** - Hammet Dungeon Packs - ESP version
-
 ---
 
 ## Landscape
@@ -2259,8 +2255,6 @@ me to check things inside.
 ### [TPF Dragon’s Edition - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Main files** - TPF Dragon’s Edition - New Content Patch
-
-**Main files** - TPF Dragon's Edition - New Content and Landscape Patch
 
 **Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
 
